@@ -15,22 +15,22 @@
     "sides": [
         {
             "side": "warm",
-            "translation": "Warm Colours",
+            "translation": "Warm Hands",
             "winmsg": "±Foot: With fiery determination, ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "cold",
-            "translation": "Cold Colours",
+            "translation": "Cold Hands",
             "winmsg": "±Foot: Through icy determination, ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "oddball",
-            "translation": "Oddball Colours",
+            "translation": "Oddball Hands",
             "winmsg": "±Foot: By being themselves and having fun, ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "voodoo",
-            "translation": "Voodoo Hands",
+            "translation": "Voodoo Hand",
             "winmsg": "±Foot: Using the powers of darkness and corruption, ~Players~ cheated their way to victory."
         }
     ],
