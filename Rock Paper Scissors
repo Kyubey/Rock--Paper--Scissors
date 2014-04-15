@@ -12,28 +12,27 @@
 	"ticks": {
 		"standby": 20
 	},
-    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a dark child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! In as much as teams of 4, the teams will try to outdo each other and try to be the last one standing! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause you both to lose 1HP. If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Ariana_Grande/Xtina.",
-    "altname": "Rock, Paper, Scissors",
+    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a strange child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! In as much as teams of 4, the teams will try to outdo each other and try to be the last one standing! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause you both to lose 1HP. If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Ariana_Grande/Xtina.",
     "sides": [
         {
             "side": "warm",
-            "translation": "Warm Hands",
+            "translation": "Red Hands",
             "winmsg": "±Foot: With fiery determination, ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "cold",
-            "translation": "Cold Hands",
+            "translation": "Blue Hands",
             "winmsg": "±Foot: Through icy determination, ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "oddball",
-            "translation": "Oddball Hands",
+            "translation": "Yellow Hands",
             "winmsg": "±Foot: By being themselves and having fun, ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "voodoo",
-            "translation": "Voodoo Hands",
-            "winmsg": "±Foot: Using the powers of darkness and corruption, ~Players~ cheated their way to victory."
+            "translation": "Special Hands",
+            "winmsg": "±Foot: Using their special powers of darkness and light, ~Players~ cheated their way to victory."
         }
     ],
     "lynchmsg": "±Foot: ~Player~ cheated and was disqualified!",
@@ -132,30 +131,30 @@
 								"sohand0", "sohand1", "sohand2", "sohand3", "sohand4", "sohand5", "sohand6", "sohand7", "soscissors0", "soscissors1", "soscissors2", "soscissors3", "soscissors4", "soscissors5", "soscissors6", "soscissors7", "sopaper0", "sopaper1", "sopaper2", "sopaper3", "sopaper4", "sopaper5", "sopaper6", "sopaper7", "sorock0", "sorock1", "sorock2", "sorock3", "sorock4", "sorock5", "sorock6", "sorock7"
 							   ],
 				"death msg": "You lost all your HP and died!",
-				"rwhand help": "Infused with the power of fire, you are the Red Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Scarlet Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"swhand help": "Infused with the power of pure rage, you are the Scarlet Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Red Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"ywhand help": "Infused with the power of happiness and joy, you are the Yellow Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Orange Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This will also apply to people that hit you. Good luck!",
-				"owhand help": "Infused with the power of pure energy, you are the Orange Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Yellow Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"bchand help": "Infused with the power of water, you are the Blue Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Green Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"gchand help": "Infused with the power of the forest, you are the Green Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Blue Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"pchand help": "Infused with honor and bravery, you are the Purple Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Magenta Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"mchand help": "Infused with the kindness of children worldwide, you are the Magenta Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Purple Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"cohand help": "Infused with the power of the skies, you are the Cyan Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Brown Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"bohand help": "Infused with the power of the land, you are the Brown Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Cyan Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"sohand help": "Infused with the power of style and class, you are the Silver Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Gold Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"gohand help": "Infused with the power of flash and wealth, you are the Gold Hand! It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! While you're on a team of 4, you're closest to the Silver Hand so you only know that hand. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
-				"rwhand info": "Knows Scarlet Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Warm Colours.",
-				"swhand info": "Knows Red Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Warm Colours.",
-				"ywhand info": "Knows Orange Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Warm Colours.",
-				"owhand info": "Knows Yellow Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Warm Colours.",
-				"bchand info": "Knows Green Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Cold Colours.",
-				"gchand info": "Knows Blue Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Cold Colours.",
-				"pchand info": "Knows Magenta Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Cold Colours.",
-				"mchand info": "Knows Purple Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Cold Colours.",
-				"cohand info": "Knows Brown Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Oddball Colours.",
-				"bohand info": "Knows Cyan Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Oddball Colours.",
-				"sohand info": "Knows Gold Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Oddball Colours.",
-				"gohand info": "Knows Silver Hand. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Oddball Colours.",
+				"rwhand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Left Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"swhand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Right Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"ywhand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Left Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"owhand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Right Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"bchand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Left Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"gchand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Right Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"pchand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Left Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"mchand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Right Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"cohand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Left Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"bohand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Right Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"sohand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Right Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"gohand help": "It is your job to take out and remove all the other Hands that aren't on your team to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Left Hands. During the night, you may attack using /rock, /paper, or /scissors. This will transform you to that role for the night. If you get a good hit, like Scissors on Paper, the target loses 2HP whereas if you make a bad hit, like Rock on Paper, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Good luck!",
+				"rwhand info": "Knows one of the Red Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
+				"swhand info": "Knows one of the Red Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
+				"ywhand info": "Knows one of the Red Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
+				"owhand info": "Knows one of the Red Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
+				"bchand info": "Knows one of the Blue Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Blue Hands.",
+				"gchand info": "Knows one of the Blue Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Blue Hands.",
+				"pchand info": "Knows one of the Blue Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Blue Hands.",
+				"mchand info": "Knows one of the Blue Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Blue Hands.",
+				"cohand info": "Knows one of the Yellow Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Yellow Hands.",
+				"bohand info": "Knows one of the Yellow Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Yellow Hands.",
+				"sohand info": "Knows one of the Yellow Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Yellow Hands.",
+				"gohand info": "Knows one of the Yellow Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Yellow Hands.",
 				"hand info": "Starts with 7HP. Hand can decides to be a /rock, a pair of /scissors or a piece of /paper until the end of the night and to deal 2 damages with their new role if their target is weak to them. If they don't transform during the night, they will be weak to any attack. Sided with their own colour.",
 				"scissors help": "",
 				"scissors info": "",
@@ -163,8 +162,8 @@
 				"rock info": "",
 				"paper help": "",
 				"paper info": "",
-				"vvhand help": "Infused with everything dark and evil, you are the Voodo Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Also, you cannot use /gun back-to-back nor can you use /shield back-to-back, but best of luck to you. ",
-				"vvhand info": "Can use /Gun (instakill) or /Shield (protect himself like if they are resistent to that type of attack) during the night but both of them needs to wait 2 turns before it can be used again. Recieves 2 points of damage as if weak to every type. Sided with Voodoo Hands.",
+				"vvhand help": "Infused with everything dark and light, you are the Gray Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Also, you cannot use /gun back-to-back nor can you use /shield back-to-back, but best of luck to you. ",
+				"vvhand info": "Can use /Gun (instakill) or /Shield (protect himself like if they are resistent to that type of attack) during the night but both of them needs to wait 2 turns before it can be used again. Receives 2 points of damage as if weak to every type. Sided with Special Hands.",
 				"gun help": "",
 				"gun info": "",
 				"shield help": "",
@@ -172,7 +171,7 @@
 			 },
     "roles": [
         {   "role": "rwhand0",
-            "translation": "Red Hand",
+            "translation": "Red Right Hand",
 			"help": "variable:rwhand help",
             "info": "variable:rwhand info",
             "side": "warm",
@@ -200,7 +199,7 @@
             }
         },
         {   "role": "rwhand1",
-            "translation": "Red Hand [1]",
+            "translation": "Red Right Hand [1]",
 			"help": "variable:rwhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -228,7 +227,7 @@
             }
         },
         {   "role": "rwhand2",
-            "translation": "Red Hand [2]",
+            "translation": "Red Right Hand [2]",
 			"help": "variable:rwhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -256,7 +255,7 @@
             }
         },
         {   "role": "rwhand3",
-            "translation": "Red Hand [3]",
+            "translation": "Red Right Hand [3]",
 			"help": "variable:rwhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -284,7 +283,7 @@
             }
         },
         {   "role": "rwhand4",
-            "translation": "Red Hand [4]",
+            "translation": "Red Right Hand [4]",
 			"help": "variable:rwhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -312,7 +311,7 @@
             }
         },
         {   "role": "rwhand5",
-            "translation": "Red Hand [5]",
+            "translation": "Red Right Hand [5]",
 			"help": "variable:rwhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -340,7 +339,7 @@
             }
         },
         {   "role": "rwhand6",
-            "translation": "Red Hand [6]",
+            "translation": "Red Right Hand [6]",
 			"help": "variable:rwhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -368,7 +367,7 @@
             }
         },
         {   "role": "rwhand7",
-            "translation": "Red Hand [7]",
+            "translation": "Red Right Hand [7]",
 			"hide": true,
 			"help": "variable:rwhand help",
             "info": "variable:rwhand info",
@@ -972,7 +971,7 @@
             }
         },
         {   "role": "swhand0",
-            "translation": "Scarlet Hand",
+            "translation": "Red Left Hand",
 			"help": "variable:swhand help",
             "info": "variable:swhand info",
             "side": "warm",
@@ -1000,7 +999,7 @@
             }
         },
         {   "role": "swhand1",
-            "translation": "Scarlet Hand [1]",
+            "translation": "Red Left Hand [1]",
 			"help": "variable:swhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1028,7 +1027,7 @@
             }
         },
         {   "role": "swhand2",
-            "translation": "Scarlet Hand [2]",
+            "translation": "Red Left Hand [2]",
 			"help": "variable:swhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1055,7 +1054,7 @@
             }
         },
         {   "role": "swhand3",
-            "translation": "Scarlet Hand [3]",
+            "translation": "Red Left Hand [3]",
 			"help": "variable:swhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1083,7 +1082,7 @@
             }
         },
         {   "role": "swhand4",
-            "translation": "Scarlet Hand [4]",
+            "translation": "Red Left Hand [4]",
 			"help": "variable:swhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1111,7 +1110,7 @@
             }
         },
         {   "role": "swhand5",
-            "translation": "Scarlet Hand [5]",
+            "translation": "Red Left Hand [5]",
 			"help": "variable:swhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1139,7 +1138,7 @@
             }
         },
         {   "role": "swhand6",
-            "translation": "Scarlet Hand [6]",
+            "translation": "Red Left Hand [6]",
 			"help": "variable:swhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1167,7 +1166,7 @@
             }
         },
         {   "role": "swhand7",
-            "translation": "Scarlet Hand [7]",
+            "translation": "Red Left Hand [7]",
 			"help": "variable:swhand help",
 			"hide": true,
             "info": "variable:swhand info",
@@ -1771,7 +1770,8 @@
             }
         },
         {   "role": "ywhand0",
-            "translation": "Yellow Hand",
+            "translation": "Red Right Hand",
+            "hide": true,
 			"help": "variable:ywhand help",
             "info": "variable:ywhand info",
             "side": "warm",
@@ -1799,7 +1799,7 @@
             }
         },
         {   "role": "ywhand1",
-            "translation": "Yellow Hand [1]",
+            "translation": "Red Right Hand [1]",
 			"help": "variable:ywhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1827,7 +1827,7 @@
             }
         },
         {   "role": "ywhand2",
-            "translation": "Yellow Hand [2]",
+            "translation": "Red Right Hand [2]",
 			"help": "variable:ywhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1855,7 +1855,7 @@
             }
         },
         {   "role": "ywhand3",
-            "translation": "Yellow Hand [3]",
+            "translation": "Red Right Hand [3]",
 			"help": "variable:ywhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1883,7 +1883,7 @@
             }
         },
         {   "role": "ywhand4",
-            "translation": "Yellow Hand [4]",
+            "translation": "Red Right Hand [4]",
 			"help": "variable:ywhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1911,7 +1911,7 @@
             }
         },
         {   "role": "ywhand5",
-            "translation": "Yellow Hand [5]",
+            "translation": "Red Right Hand [5]",
 			"help": "variable:ywhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1939,7 +1939,7 @@
             }
         },
         {   "role": "ywhand6",
-            "translation": "Yellow Hand [6]",
+            "translation": "Red Right Hand [6]",
 			"help": "variable:ywhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -1967,7 +1967,7 @@
             }
         },
         {   "role": "ywhand7",
-            "translation": "Yellow Hand [7]",
+            "translation": "Red Right Hand [7]",
 			"help": "variable:ywhand help",
 			"hide": true,
             "info": "variable:ywhand info",
@@ -2571,7 +2571,8 @@
             }
         },
         {   "role": "owhand0",
-            "translation": "Orange Hand",
+            "translation": "Red Left Hand",
+            "hide": true,
 			"help": "variable:owhand help",
             "info": "variable:owhand info",
             "side": "warm",
@@ -2599,7 +2600,7 @@
             }
         },
         {   "role": "owhand1",
-            "translation": "Orange Hand [1]",
+            "translation": "Red Left Hand [1]",
 			"help": "variable:owhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -2627,7 +2628,7 @@
             }
         },
         {   "role": "owhand2",
-            "translation": "Orange Hand [2]",
+            "translation": "Red Left Hand [2]",
 			"help": "variable:owhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -2655,7 +2656,7 @@
             }
         },
         {   "role": "owhand3",
-            "translation": "Orange Hand [3]",
+            "translation": "Red Left Hand [3]",
 			"help": "variable:owhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -2683,7 +2684,7 @@
             }
         },
         {   "role": "owhand4",
-            "translation": "Orange Hand [4]",
+            "translation": "Red Left Hand [4]",
 			"help": "variable:owhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -2711,7 +2712,7 @@
             }
         },
         {   "role": "owhand5",
-            "translation": "Orange Hand [5]",
+            "translation": "Red Left Hand [5]",
 			"help": "variable:owhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -2739,7 +2740,7 @@
             }
         },
         {   "role": "owhand6",
-            "translation": "Orange Hand [6]",
+            "translation": "Red Left Hand [6]",
 			"help": "variable:owhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -2767,7 +2768,7 @@
             }
         },
         {   "role": "owhand7",
-            "translation": "Orange Hand [7]",
+            "translation": "Red Left Hand [7]",
 			"help": "variable:owhand help",
 			"hide": true,
             "info": "variable:owhand info",
@@ -3371,7 +3372,7 @@
             }
         },
         {   "role": "pchand0",
-            "translation": "Purple Hand",
+            "translation": "Blue Right Hand",
 			"help": "variable:pchand help",
             "info": "variable:pchand info",
             "side": "cold",
@@ -3399,7 +3400,7 @@
             }
         },
         {   "role": "pchand1",
-            "translation": "Purple Hand [1]",
+            "translation": "Blue Right Hand [1]",
 			"help": "variable:pchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -3427,7 +3428,7 @@
             }
         },
         {   "role": "pchand2",
-            "translation": "Purple Hand [2]",
+            "translation": "Blue Right Hand [2]",
 			"help": "variable:pchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -3454,7 +3455,7 @@
             }
         },
         {   "role": "pchand3",
-            "translation": "Purple Hand [3]",
+            "translation": "Blue Right Hand [3]",
 			"help": "variable:pchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -3481,7 +3482,7 @@
             }
         },
         {   "role": "pchand4",
-            "translation": "Purple Hand [4]",
+            "translation": "Blue Right Hand [4]",
 			"help": "variable:pchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -3508,7 +3509,7 @@
             }
         },
         {   "role": "pchand5",
-            "translation": "Purple Hand [5]",
+            "translation": "Blue Right Hand [5]",
 			"help": "variable:pchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -3535,7 +3536,7 @@
             }
         },
         {   "role": "pchand6",
-            "translation": "Purple Hand [6]",
+            "translation": "Blue Right Hand [6]",
 			"help": "variable:pchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -3562,7 +3563,7 @@
             }
         },
         {   "role": "pchand7",
-            "translation": "Purple Hand [7]",
+            "translation": "Blue Right Hand [7]",
 			"help": "variable:pchand help",
 			"hide": true,
             "info": "variable:pchand info",
@@ -4165,7 +4166,7 @@
             }
         },
         {   "role": "mchand0",
-            "translation": "Magenta Hand",
+            "translation": "Blue Left Hand",
 			"help": "variable:mchand help",
             "info": "variable:mchand info",
             "side": "cold",
@@ -4192,7 +4193,7 @@
             }
         },
         {   "role": "mchand1",
-            "translation": "Magenta Hand [1]",
+            "translation": "Blue Left Hand [1]",
 			"help": "variable:mchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -4219,7 +4220,7 @@
             }
         },
         {   "role": "mchand2",
-            "translation": "Magenta Hand [2]",
+            "translation": "Blue Left Hand [2]",
 			"help": "variable:mchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -4246,7 +4247,7 @@
             }
         },
         {   "role": "mchand3",
-            "translation": "Magenta Hand [3]",
+            "translation": "Blue Left Hand [3]",
 			"help": "variable:mchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -4273,7 +4274,7 @@
             }
         },
         {   "role": "mchand4",
-            "translation": "Magenta Hand [4]",
+            "translation": "Blue Left Hand [4]",
 			"help": "variable:mchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -4300,7 +4301,7 @@
             }
         },
         {   "role": "mchand5",
-            "translation": "Magenta Hand [5]",
+            "translation": "Blue Left Hand [5]",
 			"help": "variable:mchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -4327,7 +4328,7 @@
             }
         },
         {   "role": "mchand6",
-            "translation": "Magenta Hand [6]",
+            "translation": "Blue Left Hand [6]",
 			"help": "variable:mchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -4354,7 +4355,7 @@
             }
         },
         {   "role": "mchand7",
-            "translation": "Magenta Hand [7]",
+            "translation": "Blue Left Hand [7]",
 			"help": "variable:mchand help",
 			"hide": true,
             "info": "variable:mchand info",
@@ -4957,7 +4958,8 @@
             }
         },
         {   "role": "bchand0",
-            "translation": "Blue Hand",
+            "translation": "Blue Right Hand",
+            "hide": true,
 			"help": "variable:bchand help",
             "info": "variable:bchand info",
             "side": "cold",
@@ -4984,7 +4986,7 @@
             }
         },
         {   "role": "bchand1",
-            "translation": "Blue Hand [1]",
+            "translation": "Blue Right Hand [1]",
 			"help": "variable:bchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5011,7 +5013,7 @@
             }
         },
         {   "role": "bchand2",
-            "translation": "Blue Hand [2]",
+            "translation": "Blue Right Hand [2]",
 			"help": "variable:bchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5038,7 +5040,7 @@
             }
         },
         {   "role": "bchand3",
-            "translation": "Blue Hand [3]",
+            "translation": "Blue Right Hand [3]",
 			"help": "variable:bchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5065,7 +5067,7 @@
             }
         },
         {   "role": "bchand4",
-            "translation": "Blue Hand [4]",
+            "translation": "Blue Right Hand [4]",
 			"help": "variable:bchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5092,7 +5094,7 @@
             }
         },
         {   "role": "bchand5",
-            "translation": "Blue Hand [5]",
+            "translation": "Blue Right Hand [5]",
 			"help": "variable:bchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5119,7 +5121,7 @@
             }
         },
         {   "role": "bchand6",
-            "translation": "Blue Hand [6]",
+            "translation": "Blue Right Hand [6]",
 			"help": "variable:bchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5146,7 +5148,7 @@
             }
         },
         {   "role": "bchand7",
-            "translation": "Blue Hand [7]",
+            "translation": "Blue Right Hand [7]",
 			"help": "variable:bchand help",
 			"hide": true,
             "info": "variable:bchand info",
@@ -5749,8 +5751,9 @@
             }
         },
         {   "role": "gchand0",
-            "translation": "Green Hand",
+            "translation": "Blue Left Hand",
 			"help": "variable:gchand help",
+            "hide": true,
             "info": "variable:gchand info",
             "side": "cold",
             "help2": "You have 0HP!",
@@ -5776,7 +5779,7 @@
             }
         },
         {   "role": "gchand1",
-            "translation": "Green Hand [1]",
+            "translation": "Blue Left Hand [1]",
 			"help": "variable:gchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5803,7 +5806,7 @@
             }
         },
         {   "role": "gchand2",
-            "translation": "Green Hand [2]",
+            "translation": "Blue Left Hand [2]",
 			"help": "variable:gchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5830,7 +5833,7 @@
             }
         },
         {   "role": "gchand3",
-            "translation": "Green Hand [3]",
+            "translation": "Blue Left Hand [3]",
 			"help": "variable:gchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5857,7 +5860,7 @@
             }
         },
         {   "role": "gchand4",
-            "translation": "Green Hand [4]",
+            "translation": "Blue Left Hand [4]",
 			"help": "variable:gchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5884,7 +5887,7 @@
             }
         },
         {   "role": "gchand5",
-            "translation": "Green Hand [5]",
+            "translation": "Blue Left Hand [5]",
 			"help": "variable:gchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5911,7 +5914,7 @@
             }
         },
         {   "role": "gchand6",
-            "translation": "Green Hand [6]",
+            "translation": "Blue Left Hand [6]",
 			"help": "variable:gchand help",
             "hide": true,
             "info": "variable:hand info",
@@ -5938,7 +5941,7 @@
             }
         },
         {   "role": "gchand7",
-            "translation": "Green Hand [7]",
+            "translation": "Blue Left Hand [7]",
 			"help": "variable:gchand help",
 			"hide": true,
             "info": "variable:gchand info",
@@ -6541,7 +6544,7 @@
             }
         },
         {   "role": "cohand0",
-            "translation": "Cyan Hand",
+            "translation": "Yellow Right Hand",
 			"help": "variable:cohand help",
             "info": "variable:cohand info",
             "side": "oddball",
@@ -6568,7 +6571,7 @@
             }
         },
         {   "role": "cohand1",
-            "translation": "Cyan Hand [1]",
+            "translation": "Yellow Right Hand [1]",
 			"help": "variable:cohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -6595,7 +6598,7 @@
             }
         },
         {   "role": "cohand2",
-            "translation": "Cyan Hand [2]",
+            "translation": "Yellow Right Hand [2]",
 			"help": "variable:cohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -6622,7 +6625,7 @@
             }
         },
         {   "role": "cohand3",
-            "translation": "Cyan Hand [3]",
+            "translation": "Yellow Right Hand [3]",
 			"help": "variable:cohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -6649,7 +6652,7 @@
             }
         },
         {   "role": "cohand4",
-            "translation": "Cyan Hand [4]",
+            "translation": "Yellow Right Hand [4]",
 			"help": "variable:cohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -6676,7 +6679,7 @@
             }
         },
         {   "role": "cohand5",
-            "translation": "Cyan Hand [5]",
+            "translation": "Yellow Right Hand [5]",
 			"help": "variable:cohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -6703,7 +6706,7 @@
             }
         },
         {   "role": "cohand6",
-            "translation": "Cyan Hand [6]",
+            "translation": "Yellow Right Hand [6]",
 			"help": "variable:cohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -6730,7 +6733,7 @@
             }
         },
         {   "role": "cohand7",
-            "translation": "Cyan Hand [7]",
+            "translation": "Yellow Right Hand [7]",
 			"help": "variable:cohand help",
 			"hide": true,
             "info": "variable:cohand info",
@@ -7333,7 +7336,7 @@
             }
         },
         {   "role": "bohand0",
-            "translation": "Brown Hand",
+            "translation": "Yellow Left Hand",
 			"help": "variable:bohand help",
             "info": "variable:bohand info",
             "side": "oddball",
@@ -7360,7 +7363,7 @@
             }
         },
         {   "role": "bohand1",
-            "translation": "Brown Hand [1]",
+            "translation": "Yellow Left Hand [1]",
 			"help": "variable:bohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -7387,7 +7390,7 @@
             }
         },
         {   "role": "bohand2",
-            "translation": "Brown Hand [2]",
+            "translation": "Yellow Left Hand [2]",
 			"help": "variable:bohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -7414,7 +7417,7 @@
             }
         },
         {   "role": "bohand3",
-            "translation": "Brown Hand [3]",
+            "translation": "Yellow Left Hand [3]",
 			"help": "variable:bohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -7441,7 +7444,7 @@
             }
         },
         {   "role": "bohand4",
-            "translation": "Brown Hand [4]",
+            "translation": "Yellow Left Hand [4]",
 			"help": "variable:bohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -7468,7 +7471,7 @@
             }
         },
         {   "role": "bohand5",
-            "translation": "Brown Hand [5]",
+            "translation": "Yellow Left Hand [5]",
 			"help": "variable:bohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -7495,7 +7498,7 @@
             }
         },
         {   "role": "bohand6",
-            "translation": "Brown Hand [6]",
+            "translation": "Yellow Left Hand [6]",
 			"help": "variable:bohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -7522,7 +7525,7 @@
             }
         },
         {   "role": "bohand7",
-            "translation": "Brown Hand [7]",
+            "translation": "Yellow Left Hand [7]",
 			"help": "variable:bohand help",
 			"hide": true,
             "info": "variable:bohand info",
@@ -8125,8 +8128,9 @@
             }
         },
         {   "role": "sohand0",
-            "translation": "Silver Hand",
+            "translation": "Yellow Left Hand",
 			"help": "variable:sohand help",
+            "hide": true,
             "info": "variable:sohand info",
             "side": "oddball",
             "help2": "You have 0HP!",
@@ -8152,7 +8156,7 @@
             }
         },
         {   "role": "sohand1",
-            "translation": "Silver Hand [1]",
+            "translation": "Yellow Left Hand [1]",
 			"help": "variable:sohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8179,7 +8183,7 @@
             }
         },
         {   "role": "sohand2",
-            "translation": "Silver Hand [2]",
+            "translation": "Yellow Left Hand [2]",
 			"help": "variable:sohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8206,7 +8210,7 @@
             }
         },
         {   "role": "sohand3",
-            "translation": "Silver Hand [3]",
+            "translation": "Yellow Left Hand [3]",
 			"help": "variable:sohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8233,7 +8237,7 @@
             }
         },
         {   "role": "sohand4",
-            "translation": "Silver Hand [4]",
+            "translation": "Yellow Left Hand [4]",
 			"help": "variable:sohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8260,7 +8264,7 @@
             }
         },
         {   "role": "sohand5",
-            "translation": "Silver Hand [5]",
+            "translation": "Yellow Left Hand [5]",
 			"help": "variable:sohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8287,7 +8291,7 @@
             }
         },
         {   "role": "sohand6",
-            "translation": "Silver Hand [6]",
+            "translation": "Yellow Left Hand [6]",
 			"help": "variable:sohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8314,7 +8318,7 @@
             }
         },
         {   "role": "sohand7",
-            "translation": "Silver Hand [7]",
+            "translation": "Yellow Left Hand [7]",
 			"help": "variable:sohand help",
 			"hide": true,
             "info": "variable:sohand info",
@@ -8917,8 +8921,9 @@
             }
         },
         {   "role": "gohand0",
-            "translation": "Gold Hand",
+            "translation": "Yellow Right Hand",
 			"help": "variable:gohand help",
+            "hide": true,
             "info": "variable:gohand info",
             "side": "oddball",
             "help2": "You have 0HP!",
@@ -8944,7 +8949,7 @@
             }
         },
         {   "role": "gohand1",
-            "translation": "Gold Hand [1]",
+            "translation": "Yellow Right Hand [1]",
 			"help": "variable:gohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8971,7 +8976,7 @@
             }
         },
         {   "role": "gohand2",
-            "translation": "Gold Hand [2]",
+            "translation": "Yellow Right Hand [2]",
 			"help": "variable:gohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -8998,7 +9003,7 @@
             }
         },
         {   "role": "gohand3",
-            "translation": "Gold Hand [3]",
+            "translation": "Yellow Right Hand [3]",
 			"help": "variable:gohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9025,7 +9030,7 @@
             }
         },
         {   "role": "gohand4",
-            "translation": "Gold Hand [4]",
+            "translation": "Yellow Right Hand [4]",
 			"help": "variable:gohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9052,7 +9057,7 @@
             }
         },
         {   "role": "gohand5",
-            "translation": "Gold Hand [5]",
+            "translation": "Yellow Right Hand [5]",
 			"help": "variable:gohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9079,7 +9084,7 @@
             }
         },
         {   "role": "gohand6",
-            "translation": "Gold Hand [6]",
+            "translation": "Yellow Right Hand [6]",
 			"help": "variable:gohand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9106,7 +9111,7 @@
             }
         },
         {   "role": "gohand7",
-            "translation": "Gold Hand [7]",
+            "translation": "Yellow Right Hand [7]",
 			"help": "variable:gohand help",
 			"hide": true,
             "info": "variable:gohand info",
@@ -9709,7 +9714,7 @@
             }
         },
         {   "role": "vvhand0",
-            "translation": "Voodoo Hand",
+            "translation": "Gray Hand",
 			"help": "variable:vvhand help",
             "info": "variable:vvhand info",
             "side": "voodoo",
@@ -9729,7 +9734,7 @@
             }
         },
         {   "role": "vvhand0x",
-            "translation": "Voodoo Hand",
+            "translation": "Gray Hand",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9752,7 +9757,7 @@
             }
         },
         {   "role": "vvhand1",
-            "translation": "Voodoo Hand [1]",
+            "translation": "Gray Hand [1]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9774,7 +9779,7 @@
             }
         },
         {   "role": "vvhand1x",
-            "translation": "Voodoo Hand [1]",
+            "translation": "Gray Hand [1]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9796,7 +9801,7 @@
             }
         },
         {   "role": "vvhand2",
-            "translation": "Voodoo Hand [2]",
+            "translation": "Gray Hand [2]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9818,7 +9823,7 @@
             }
         },
         {   "role": "vvhand2x",
-            "translation": "Voodoo Hand [2]",
+            "translation": "Gray Hand [2]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9840,7 +9845,7 @@
             }
         },
         {   "role": "vvhand3",
-            "translation": "Voodoo Hand [3]",
+            "translation": "Gray Hand [3]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9862,7 +9867,7 @@
             }
         },
         {   "role": "vvhand3x",
-            "translation": "Voodoo Hand [3]",
+            "translation": "Gray Hand [3]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9884,7 +9889,7 @@
             }
         },
         {   "role": "vvhand4",
-            "translation": "Voodoo Hand [4]",
+            "translation": "Gray Hand [4]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9906,7 +9911,7 @@
             }
         },
         {   "role": "vvhand4x",
-            "translation": "Voodoo Hand [4]",
+            "translation": "Gray Hand [4]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9928,7 +9933,7 @@
             }
         },
         {   "role": "vvhand5",
-            "translation": "Voodoo Hand [5]",
+            "translation": "Gray Hand [5]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9950,7 +9955,7 @@
             }
         },
         {   "role": "vvhand5x",
-            "translation": "Voodoo Hand [5]",
+            "translation": "Gray Hand [5]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9972,7 +9977,7 @@
             }
         },
         {   "role": "vvhand6",
-            "translation": "Voodoo Hand [6]",
+            "translation": "Gray Hand [6]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -9994,7 +9999,7 @@
             }
         },
         {   "role": "vvhand6x",
-            "translation": "Voodoo Hand [6]",
+            "translation": "Gray Hand [6]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -10016,7 +10021,7 @@
             }
         },
         {   "role": "vvhand7",
-            "translation": "Voodoo Hand [7]",
+            "translation": "Gray Hand [7]",
 			"help": "variable:vvhand help",
             "hide": true,
             "info": "variable:hand info",
@@ -10038,7 +10043,7 @@
             }
         },
         {   "role": "vvhand7x",
-            "translation": "Voodoo Hand [7]",
+            "translation": "Gray Hand [7]",
 			"help": "variable:vvhand help",
 			"hide": true,
             "info": "variable:vvhand info",
@@ -10058,7 +10063,7 @@
             }
         },
         {   "role": "vvshield0",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10080,7 +10085,7 @@
             }
         },
         {   "role": "vvshield1",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10102,7 +10107,7 @@
             }
         },
         {   "role": "vvshield2",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10125,7 +10130,7 @@
             }
         },
         {   "role": "vvshield3",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10148,7 +10153,7 @@
             }
         },
         {   "role": "vvshield4",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10171,7 +10176,7 @@
             }
         },
         {   "role": "vvshield5",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10194,7 +10199,7 @@
             }
         },
         {   "role": "vvshield6",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10217,7 +10222,7 @@
             }
         },
         {   "role": "vvshield7",
-            "translation": "Voodoo Shield",
+            "translation": "Gray Shield",
 			"help": "variable:shield help",
             "hide": true,
             "info": "variable:shield info",
@@ -10240,7 +10245,7 @@
             }
         },
         {   "role": "vvgun0",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
@@ -10258,7 +10263,7 @@
             }
         },
         {   "role": "vvgun1",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
@@ -10276,7 +10281,7 @@
             }
         },
         {   "role": "vvgun2",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
@@ -10294,7 +10299,7 @@
             }
         },
         {   "role": "vvgun3",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
@@ -10312,7 +10317,7 @@
             }
         },
         {   "role": "vvgun4",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
@@ -10330,7 +10335,7 @@
             }
         },
         {   "role": "vvgun5",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
@@ -10348,7 +10353,7 @@
             }
         },
         {   "role": "vvgun6",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
@@ -10366,7 +10371,7 @@
             }
         },
         {   "role": "vvgun7",
-            "translation": "Voodoo Gun",
+            "translation": "Gray Gun",
 			"help": "variable:gun help",
             "hide": true,
             "info": "variable:gun info",
