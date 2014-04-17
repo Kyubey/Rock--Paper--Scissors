@@ -1194,7 +1194,7 @@
             }
         },
         {   "role": "swpaper0",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1218,7 +1218,7 @@
             }
         },
         {   "role": "swpaper1",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1242,7 +1242,7 @@
             }
         },
         {   "role": "swpaper2",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1266,7 +1266,7 @@
             }
         },
         {   "role": "swpaper3",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1290,7 +1290,7 @@
             }
         },
         {   "role": "swpaper4",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1314,7 +1314,7 @@
             }
         },
         {   "role": "swpaper5",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1338,7 +1338,7 @@
             }
         },
         {   "role": "swpaper6",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1362,7 +1362,7 @@
             }
         },
         {   "role": "swpaper7",
-            "translation": "Scarlet Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -1386,7 +1386,7 @@
             }
         },
         {   "role": "swscissors0",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1410,7 +1410,7 @@
             }
         },
         {   "role": "swscissors1",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1434,7 +1434,7 @@
             }
         },
         {   "role": "swscissors2",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1458,7 +1458,7 @@
             }
         },
         {   "role": "swscissors3",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1482,7 +1482,7 @@
             }
         },
         {   "role": "swscissors4",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1506,7 +1506,7 @@
             }
         },
         {   "role": "swscissors5",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1530,7 +1530,7 @@
             }
         },
         {   "role": "swscissors6",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1554,7 +1554,7 @@
             }
         },
         {   "role": "swscissors7",
-            "translation": "Scarlet Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -1578,7 +1578,7 @@
             }
         },
         {   "role": "swrock0",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1602,7 +1602,7 @@
             }
         },
         {   "role": "swrock1",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1626,7 +1626,7 @@
             }
         },
         {   "role": "swrock2",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1650,7 +1650,7 @@
             }
         },
         {   "role": "swrock3",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1674,7 +1674,7 @@
             }
         },
         {   "role": "swrock4",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1698,7 +1698,7 @@
             }
         },
         {   "role": "swrock5",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1722,7 +1722,7 @@
             }
         },
         {   "role": "swrock6",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1746,7 +1746,7 @@
             }
         },
         {   "role": "swrock7",
-            "translation": "Scarlet Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -1995,7 +1995,7 @@
             }
         },
         {   "role": "ywpaper0",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2019,7 +2019,7 @@
             }
         },
         {   "role": "ywpaper1",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2043,7 +2043,7 @@
             }
         },
         {   "role": "ywpaper2",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2067,7 +2067,7 @@
             }
         },
         {   "role": "ywpaper3",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2091,7 +2091,7 @@
             }
         },
         {   "role": "ywpaper4",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2115,7 +2115,7 @@
             }
         },
         {   "role": "ywpaper5",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2139,7 +2139,7 @@
             }
         },
         {   "role": "ywpaper6",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2163,7 +2163,7 @@
             }
         },
         {   "role": "ywpaper7",
-            "translation": "Yellow Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2187,7 +2187,7 @@
             }
         },
         {   "role": "ywscissors0",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2211,7 +2211,7 @@
             }
         },
         {   "role": "ywscissors1",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2235,7 +2235,7 @@
             }
         },
         {   "role": "ywscissors2",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2259,7 +2259,7 @@
             }
         },
         {   "role": "ywscissors3",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2283,7 +2283,7 @@
             }
         },
         {   "role": "ywscissors4",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2307,7 +2307,7 @@
             }
         },
         {   "role": "ywscissors5",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2331,7 +2331,7 @@
             }
         },
         {   "role": "ywscissors6",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2355,7 +2355,7 @@
             }
         },
         {   "role": "ywscissors7",
-            "translation": "Yellow Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -2379,7 +2379,7 @@
             }
         },
         {   "role": "ywrock0",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2403,7 +2403,7 @@
             }
         },
         {   "role": "ywrock1",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2427,7 +2427,7 @@
             }
         },
         {   "role": "ywrock2",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2451,7 +2451,7 @@
             }
         },
         {   "role": "ywrock3",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2475,7 +2475,7 @@
             }
         },
         {   "role": "ywrock4",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2499,7 +2499,7 @@
             }
         },
         {   "role": "ywrock5",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2523,7 +2523,7 @@
             }
         },
         {   "role": "ywrock6",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2547,7 +2547,7 @@
             }
         },
         {   "role": "ywrock7",
-            "translation": "Yellow Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -2796,7 +2796,7 @@
             }
         },
         {   "role": "owpaper0",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2820,7 +2820,7 @@
             }
         },
         {   "role": "owpaper1",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2844,7 +2844,7 @@
             }
         },
         {   "role": "owpaper2",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2868,7 +2868,7 @@
             }
         },
         {   "role": "owpaper3",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2892,7 +2892,7 @@
             }
         },
         {   "role": "owpaper4",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2916,7 +2916,7 @@
             }
         },
         {   "role": "owpaper5",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2940,7 +2940,7 @@
             }
         },
         {   "role": "owpaper6",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2964,7 +2964,7 @@
             }
         },
         {   "role": "owpaper7",
-            "translation": "Orange Paper",
+            "translation": "Red Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -2988,7 +2988,7 @@
             }
         },
         {   "role": "owscissors0",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3012,7 +3012,7 @@
             }
         },
         {   "role": "owscissors1",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3036,7 +3036,7 @@
             }
         },
         {   "role": "owscissors2",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3060,7 +3060,7 @@
             }
         },
         {   "role": "owscissors3",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3084,7 +3084,7 @@
             }
         },
         {   "role": "owscissors4",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3108,7 +3108,7 @@
             }
         },
         {   "role": "owscissors5",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3132,7 +3132,7 @@
             }
         },
         {   "role": "owscissors6",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3156,7 +3156,7 @@
             }
         },
         {   "role": "owscissors7",
-            "translation": "Orange Scissors",
+            "translation": "Red Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3180,7 +3180,7 @@
             }
         },
         {   "role": "owrock0",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3204,7 +3204,7 @@
             }
         },
         {   "role": "owrock1",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3228,7 +3228,7 @@
             }
         },
         {   "role": "owrock2",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3252,7 +3252,7 @@
             }
         },
         {   "role": "owrock3",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3276,7 +3276,7 @@
             }
         },
         {   "role": "owrock4",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3300,7 +3300,7 @@
             }
         },
         {   "role": "owrock5",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3324,7 +3324,7 @@
             }
         },
         {   "role": "owrock6",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3348,7 +3348,7 @@
             }
         },
         {   "role": "owrock7",
-            "translation": "Orange Rock",
+            "translation": "Red Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3590,7 +3590,7 @@
             }
         },
         {   "role": "pcpaper0",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3614,7 +3614,7 @@
             }
         },
         {   "role": "pcpaper1",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3638,7 +3638,7 @@
             }
         },
         {   "role": "pcpaper2",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3662,7 +3662,7 @@
             }
         },
         {   "role": "pcpaper3",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3686,7 +3686,7 @@
             }
         },
         {   "role": "pcpaper4",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3710,7 +3710,7 @@
             }
         },
         {   "role": "pcpaper5",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3734,7 +3734,7 @@
             }
         },
         {   "role": "pcpaper6",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3758,7 +3758,7 @@
             }
         },
         {   "role": "pcpaper7",
-            "translation": "Purple Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -3782,7 +3782,7 @@
             }
         },
         {   "role": "pcscissors0",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3806,7 +3806,7 @@
             }
         },
         {   "role": "pcscissors1",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3830,7 +3830,7 @@
             }
         },
         {   "role": "pcscissors2",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3854,7 +3854,7 @@
             }
         },
         {   "role": "pcscissors3",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3878,7 +3878,7 @@
             }
         },
         {   "role": "pcscissors4",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3902,7 +3902,7 @@
             }
         },
         {   "role": "pcscissors5",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3926,7 +3926,7 @@
             }
         },
         {   "role": "pcscissors6",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3950,7 +3950,7 @@
             }
         },
         {   "role": "pcscissors7",
-            "translation": "Purple Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -3974,7 +3974,7 @@
             }
         },
         {   "role": "pcrock0",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -3998,7 +3998,7 @@
             }
         },
         {   "role": "pcrock1",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4022,7 +4022,7 @@
             }
         },
         {   "role": "pcrock2",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4046,7 +4046,7 @@
             }
         },
         {   "role": "pcrock3",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4070,7 +4070,7 @@
             }
         },
         {   "role": "pcrock4",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4094,7 +4094,7 @@
             }
         },
         {   "role": "pcrock5",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4118,7 +4118,7 @@
             }
         },
         {   "role": "pcrock6",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4142,7 +4142,7 @@
             }
         },
         {   "role": "pcrock7",
-            "translation": "Purple Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4382,7 +4382,7 @@
             }
         },
         {   "role": "mcpaper0",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4406,7 +4406,7 @@
             }
         },
         {   "role": "mcpaper1",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4430,7 +4430,7 @@
             }
         },
         {   "role": "mcpaper2",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4454,7 +4454,7 @@
             }
         },
         {   "role": "mcpaper3",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4478,7 +4478,7 @@
             }
         },
         {   "role": "mcpaper4",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4502,7 +4502,7 @@
             }
         },
         {   "role": "mcpaper5",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4526,7 +4526,7 @@
             }
         },
         {   "role": "mcpaper6",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4550,7 +4550,7 @@
             }
         },
         {   "role": "mcpaper7",
-            "translation": "Magenta Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -4574,7 +4574,7 @@
             }
         },
         {   "role": "mcscissors0",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4598,7 +4598,7 @@
             }
         },
         {   "role": "mcscissors1",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4622,7 +4622,7 @@
             }
         },
         {   "role": "mcscissors2",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4646,7 +4646,7 @@
             }
         },
         {   "role": "mcscissors3",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4670,7 +4670,7 @@
             }
         },
         {   "role": "mcscissors4",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4694,7 +4694,7 @@
             }
         },
         {   "role": "mcscissors5",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4718,7 +4718,7 @@
             }
         },
         {   "role": "mcscissors6",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4742,7 +4742,7 @@
             }
         },
         {   "role": "mcscissors7",
-            "translation": "Magenta Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -4766,7 +4766,7 @@
             }
         },
         {   "role": "mcrock0",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4790,7 +4790,7 @@
             }
         },
         {   "role": "mcrock1",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4814,7 +4814,7 @@
             }
         },
         {   "role": "mcrock2",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4838,7 +4838,7 @@
             }
         },
         {   "role": "mcrock3",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4862,7 +4862,7 @@
             }
         },
         {   "role": "mcrock4",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4886,7 +4886,7 @@
             }
         },
         {   "role": "mcrock5",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4910,7 +4910,7 @@
             }
         },
         {   "role": "mcrock6",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -4934,7 +4934,7 @@
             }
         },
         {   "role": "mcrock7",
-            "translation": "Magenta Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -5968,7 +5968,7 @@
             }
         },
         {   "role": "gcpaper0",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -5992,7 +5992,7 @@
             }
         },
         {   "role": "gcpaper1",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6016,7 +6016,7 @@
             }
         },
         {   "role": "gcpaper2",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6040,7 +6040,7 @@
             }
         },
         {   "role": "gcpaper3",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6064,7 +6064,7 @@
             }
         },
         {   "role": "gcpaper4",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6088,7 +6088,7 @@
             }
         },
         {   "role": "gcpaper5",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6112,7 +6112,7 @@
             }
         },
         {   "role": "gcpaper6",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6136,7 +6136,7 @@
             }
         },
         {   "role": "gcpaper7",
-            "translation": "Green Paper",
+            "translation": "Blue Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6160,7 +6160,7 @@
             }
         },
         {   "role": "gcscissors0",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6184,7 +6184,7 @@
             }
         },
         {   "role": "gcscissors1",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6208,7 +6208,7 @@
             }
         },
         {   "role": "gcscissors2",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6232,7 +6232,7 @@
             }
         },
         {   "role": "gcscissors3",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6256,7 +6256,7 @@
             }
         },
         {   "role": "gcscissors4",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6280,7 +6280,7 @@
             }
         },
         {   "role": "gcscissors5",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6304,7 +6304,7 @@
             }
         },
         {   "role": "gcscissors6",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6328,7 +6328,7 @@
             }
         },
         {   "role": "gcscissors7",
-            "translation": "Green Scissors",
+            "translation": "Blue Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6352,7 +6352,7 @@
             }
         },
         {   "role": "gcrock0",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6376,7 +6376,7 @@
             }
         },
         {   "role": "gcrock1",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6400,7 +6400,7 @@
             }
         },
         {   "role": "gcrock2",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6424,7 +6424,7 @@
             }
         },
         {   "role": "gcrock3",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6448,7 +6448,7 @@
             }
         },
         {   "role": "gcrock4",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6472,7 +6472,7 @@
             }
         },
         {   "role": "gcrock5",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6496,7 +6496,7 @@
             }
         },
         {   "role": "gcrock6",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6520,7 +6520,7 @@
             }
         },
         {   "role": "gcrock7",
-            "translation": "Green Rock",
+            "translation": "Blue Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -6760,7 +6760,7 @@
             }
         },
         {   "role": "copaper0",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6784,7 +6784,7 @@
             }
         },
         {   "role": "copaper1",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6808,7 +6808,7 @@
             }
         },
         {   "role": "copaper2",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6832,7 +6832,7 @@
             }
         },
         {   "role": "copaper3",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6856,7 +6856,7 @@
             }
         },
         {   "role": "copaper4",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6880,7 +6880,7 @@
             }
         },
         {   "role": "copaper5",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6904,7 +6904,7 @@
             }
         },
         {   "role": "copaper6",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6928,7 +6928,7 @@
             }
         },
         {   "role": "copaper7",
-            "translation": "Cyan Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -6952,7 +6952,7 @@
             }
         },
         {   "role": "coscissors0",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -6976,7 +6976,7 @@
             }
         },
         {   "role": "coscissors1",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7000,7 +7000,7 @@
             }
         },
         {   "role": "coscissors2",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7024,7 +7024,7 @@
             }
         },
         {   "role": "coscissors3",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7048,7 +7048,7 @@
             }
         },
         {   "role": "coscissors4",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7072,7 +7072,7 @@
             }
         },
         {   "role": "coscissors5",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7096,7 +7096,7 @@
             }
         },
         {   "role": "coscissors6",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7120,7 +7120,7 @@
             }
         },
         {   "role": "coscissors7",
-            "translation": "Cyan Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7144,7 +7144,7 @@
             }
         },
         {   "role": "corock0",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7168,7 +7168,7 @@
             }
         },
         {   "role": "corock1",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7192,7 +7192,7 @@
             }
         },
         {   "role": "corock2",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7216,7 +7216,7 @@
             }
         },
         {   "role": "corock3",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7240,7 +7240,7 @@
             }
         },
         {   "role": "corock4",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7264,7 +7264,7 @@
             }
         },
         {   "role": "corock5",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7288,7 +7288,7 @@
             }
         },
         {   "role": "corock6",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7312,7 +7312,7 @@
             }
         },
         {   "role": "corock7",
-            "translation": "Cyan Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7552,7 +7552,7 @@
             }
         },
         {   "role": "bopaper0",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7576,7 +7576,7 @@
             }
         },
         {   "role": "bopaper1",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7600,7 +7600,7 @@
             }
         },
         {   "role": "bopaper2",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7624,7 +7624,7 @@
             }
         },
         {   "role": "bopaper3",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7648,7 +7648,7 @@
             }
         },
         {   "role": "bopaper4",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7672,7 +7672,7 @@
             }
         },
         {   "role": "bopaper5",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7696,7 +7696,7 @@
             }
         },
         {   "role": "bopaper6",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7720,7 +7720,7 @@
             }
         },
         {   "role": "bopaper7",
-            "translation": "Brown Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -7744,7 +7744,7 @@
             }
         },
         {   "role": "boscissors0",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7768,7 +7768,7 @@
             }
         },
         {   "role": "boscissors1",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7792,7 +7792,7 @@
             }
         },
         {   "role": "boscissors2",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7816,7 +7816,7 @@
             }
         },
         {   "role": "boscissors3",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7840,7 +7840,7 @@
             }
         },
         {   "role": "boscissors4",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7864,7 +7864,7 @@
             }
         },
         {   "role": "boscissors5",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7888,7 +7888,7 @@
             }
         },
         {   "role": "boscissors6",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7912,7 +7912,7 @@
             }
         },
         {   "role": "boscissors7",
-            "translation": "Brown Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -7936,7 +7936,7 @@
             }
         },
         {   "role": "borock0",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7960,7 +7960,7 @@
             }
         },
         {   "role": "borock1",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -7984,7 +7984,7 @@
             }
         },
         {   "role": "borock2",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8008,7 +8008,7 @@
             }
         },
         {   "role": "borock3",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8032,7 +8032,7 @@
             }
         },
         {   "role": "borock4",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8056,7 +8056,7 @@
             }
         },
         {   "role": "borock5",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8080,7 +8080,7 @@
             }
         },
         {   "role": "borock6",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8104,7 +8104,7 @@
             }
         },
         {   "role": "borock7",
-            "translation": "Brown Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8345,7 +8345,7 @@
             }
         },
         {   "role": "sopaper0",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8369,7 +8369,7 @@
             }
         },
         {   "role": "sopaper1",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8393,7 +8393,7 @@
             }
         },
         {   "role": "sopaper2",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8417,7 +8417,7 @@
             }
         },
         {   "role": "sopaper3",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8441,7 +8441,7 @@
             }
         },
         {   "role": "sopaper4",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8465,7 +8465,7 @@
             }
         },
         {   "role": "sopaper5",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8489,7 +8489,7 @@
             }
         },
         {   "role": "sopaper6",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8513,7 +8513,7 @@
             }
         },
         {   "role": "sopaper7",
-            "translation": "Silver Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -8537,7 +8537,7 @@
             }
         },
         {   "role": "soscissors0",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8561,7 +8561,7 @@
             }
         },
         {   "role": "soscissors1",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8585,7 +8585,7 @@
             }
         },
         {   "role": "soscissors2",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8609,7 +8609,7 @@
             }
         },
         {   "role": "soscissors3",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8633,7 +8633,7 @@
             }
         },
         {   "role": "soscissors4",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8657,7 +8657,7 @@
             }
         },
         {   "role": "soscissors5",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8681,7 +8681,7 @@
             }
         },
         {   "role": "soscissors6",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8705,7 +8705,7 @@
             }
         },
         {   "role": "soscissors7",
-            "translation": "Silver Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -8729,7 +8729,7 @@
             }
         },
         {   "role": "sorock0",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8753,7 +8753,7 @@
             }
         },
         {   "role": "sorock1",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8777,7 +8777,7 @@
             }
         },
         {   "role": "sorock2",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8801,7 +8801,7 @@
             }
         },
         {   "role": "sorock3",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8825,7 +8825,7 @@
             }
         },
         {   "role": "sorock4",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8849,7 +8849,7 @@
             }
         },
         {   "role": "sorock5",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8873,7 +8873,7 @@
             }
         },
         {   "role": "sorock6",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -8897,7 +8897,7 @@
             }
         },
         {   "role": "sorock7",
-            "translation": "Silver Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9138,7 +9138,7 @@
             }
         },
         {   "role": "gopaper0",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9162,7 +9162,7 @@
             }
         },
         {   "role": "gopaper1",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9186,7 +9186,7 @@
             }
         },
         {   "role": "gopaper2",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9210,7 +9210,7 @@
             }
         },
         {   "role": "gopaper3",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9234,7 +9234,7 @@
             }
         },
         {   "role": "gopaper4",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9258,7 +9258,7 @@
             }
         },
         {   "role": "gopaper5",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9282,7 +9282,7 @@
             }
         },
         {   "role": "gopaper6",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9306,7 +9306,7 @@
             }
         },
         {   "role": "gopaper7",
-            "translation": "Gold Paper",
+            "translation": "Yellow Paper",
 			"help": "variable:paper help",
             "hide": true,
             "info": "variable:paper info",
@@ -9330,7 +9330,7 @@
             }
         },
         {   "role": "goscissors0",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9354,7 +9354,7 @@
             }
         },
         {   "role": "goscissors1",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9378,7 +9378,7 @@
             }
         },
         {   "role": "goscissors2",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9402,7 +9402,7 @@
             }
         },
         {   "role": "goscissors3",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9426,7 +9426,7 @@
             }
         },
         {   "role": "goscissors4",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9450,7 +9450,7 @@
             }
         },
         {   "role": "goscissors5",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9474,7 +9474,7 @@
             }
         },
         {   "role": "goscissors6",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9498,7 +9498,7 @@
             }
         },
         {   "role": "goscissors7",
-            "translation": "Gold Scissors",
+            "translation": "Yellow Scissors",
 			"help": "variable:scissors help",
             "hide": true,
             "info": "variable:scissors info",
@@ -9522,7 +9522,7 @@
             }
         },
         {   "role": "gorock0",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9546,7 +9546,7 @@
             }
         },
         {   "role": "gorock1",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9570,7 +9570,7 @@
             }
         },
         {   "role": "gorock2",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9594,7 +9594,7 @@
             }
         },
         {   "role": "gorock3",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9618,7 +9618,7 @@
             }
         },
         {   "role": "gorock4",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9642,7 +9642,7 @@
             }
         },
         {   "role": "gorock5",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9666,7 +9666,7 @@
             }
         },
         {   "role": "gorock6",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
@@ -9690,7 +9690,7 @@
             }
         },
         {   "role": "gorock7",
-            "translation": "Gold Rock",
+            "translation": "Yellow Rock",
 			"help": "variable:rock help",
             "hide": true,
             "info": "variable:rock info",
