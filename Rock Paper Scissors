@@ -52,6 +52,7 @@
                         "common": "Self",
                         "silent": true,
                         "silentConvert": true,
+                    "convertmsg": "",
                         "target": "AnyButSelf",
 						"newRole": "variable:paper damage",
                         "dummytargetmsg": "Another piece of Paper attacked you! You received 1 point of damage.",
@@ -70,6 +71,7 @@
                     "scissors": {
 					"hide": true, "command": [ "convert", "dummy3", "dummy4" ], "priority": 2,
                         "common": "Self",
+                    "convertmsg": "",
                         "silent": true,
                         "silentConvert": true,
                         "target": "AnyButSelf",
@@ -92,6 +94,7 @@
                         "common": "Self",
                         "silent": true,
                         "silentConvert": true,
+                    "convertmsg": "",
                         "target": "AnyButSelf",
 						"newRole": "variable:rock damage",
                         "dummy5targetmsg": "Another Rock attacked you! You received 1 point of damage.",
@@ -10411,7 +10414,7 @@
         "bchand3",
         "mchand3",
         "rwhand3",
-		"ywhand3"
+		"owhand3"
     ],
     "roles3": [
         "rwhand3",
