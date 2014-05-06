@@ -10418,18 +10418,18 @@
     ],
     "roles3": [
         "rwhand3",
-		"swhand3",
+		"owhand3",
         "bchand3",
-        "gchand3",
+        "mchand3",
 		"vvhand3x"
     ],
     "roles4": [
         "rwhand5",
-		"swhand5",
+		"owhand5",
         "bchand5",
-        "gchand5",
+        "mchand5",
 		"cohand5",
-		"bohand5",
+		"sohand5",
 		"vvhand5x"
     ],
     "roles5": [
