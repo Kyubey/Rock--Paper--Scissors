@@ -12,7 +12,7 @@
 	"ticks": {
 		"standby": 20
 	},
-    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a strange child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! In as much as teams of 4, the teams will try to outdo each other and try to be the last one standing! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause you both to lose 1HP. If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Ariana_Grande/Xtina.",
+    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a strange child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! In as much as teams of 4, the teams will try to outdo each other and try to be the last one standing! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause your opponent to lose 1HP. Now you can Team Talk with your Known Partners! If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Ariana_Grande/Xtina.",
     "sides": [
         {
             "side": "warm",
@@ -134,18 +134,18 @@
 								"sohand0", "sohand1", "sohand2", "sohand3", "sohand4", "sohand5", "sohand6", "sohand7", "soscissors0", "soscissors1", "soscissors2", "soscissors3", "soscissors4", "soscissors5", "soscissors6", "soscissors7", "sopaper0", "sopaper1", "sopaper2", "sopaper3", "sopaper4", "sopaper5", "sopaper6", "sopaper7", "sorock0", "sorock1", "sorock2", "sorock3", "sorock4", "sorock5", "sorock6", "sorock7"
 							   ],
 				"death msg": "You lost all your HP and died!",
-				"rwhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"swhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"ywhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"owhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Red Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"bchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"gchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"pchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"mchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Blue Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"cohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"bohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"sohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"gohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"rwhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"swhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"ywhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"owhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"bchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Blue Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"gchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Blue Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"pchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Blue Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"mchand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Blue Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"cohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"bohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"sohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"gohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"rwhand info": "Knows one of the Red Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
 				"swhand info": "Knows one of the Red Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
 				"ywhand info": "Knows one of the Red Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
@@ -165,7 +165,7 @@
 				"rock info": "",
 				"paper help": "",
 				"paper info": "",
-				"vvhand help": "Infused with everything dark and light, you are the Gray Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Also, you cannot use /gun back-to-back nor can you use /shield back-to-back, but best of luck to you. ",
+				"vvhand help": "Infused with everything dark and light, you are the Gray Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Also, you cannot use /gun back-to-back nor can you use /shield back-to-back. Remember that you can TeamTalk with your partners with /tt. ",
 				"vvhand info": "Can use /Gun (instakill) or /Shield (protect himself like if they are resistent to that type of attack) during the night but both of them needs to wait 2 turns before it can be used again. Receives 2 points of damage as if weak to every type. Sided with Special Hands.",
 				"gun help": "",
 				"gun info": "",
@@ -180,7 +180,7 @@
             "side": "warm",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
@@ -209,7 +209,7 @@
             "side": "warm",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -237,7 +237,7 @@
             "side": "warm",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -265,7 +265,7 @@
             "side": "warm",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -293,7 +293,7 @@
             "side": "warm",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -321,7 +321,7 @@
             "side": "warm",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -349,7 +349,7 @@
             "side": "warm",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -377,7 +377,7 @@
             "side": "warm",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team rswarm" },
+						"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -980,7 +980,7 @@
             "side": "warm",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
@@ -1009,7 +1009,7 @@
             "side": "warm",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -1037,7 +1037,7 @@
             "side": "warm",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
                 "night": {
@@ -1064,7 +1064,7 @@
             "side": "warm",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -1092,7 +1092,7 @@
             "side": "warm",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -1120,7 +1120,7 @@
             "side": "warm",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -1148,7 +1148,7 @@
             "side": "warm",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team rswarm" },
+				"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -1176,7 +1176,7 @@
             "side": "warm",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team rswarm" },
+						"startup": { "revealRole": "variable:team rswarm" }, "teamTalk": "variable:team rswarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team rswarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team rswarm"} },
@@ -1780,7 +1780,7 @@
             "side": "warm",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
@@ -1809,7 +1809,7 @@
             "side": "warm",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -1837,7 +1837,7 @@
             "side": "warm",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -1865,7 +1865,7 @@
             "side": "warm",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -1893,7 +1893,7 @@
             "side": "warm",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -1921,7 +1921,7 @@
             "side": "warm",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -1949,7 +1949,7 @@
             "side": "warm",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -1977,7 +1977,7 @@
             "side": "warm",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team oywarm" },
+						"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -2581,7 +2581,7 @@
             "side": "warm",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
@@ -2610,7 +2610,7 @@
             "side": "warm",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -2638,7 +2638,7 @@
             "side": "warm",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -2666,7 +2666,7 @@
             "side": "warm",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -2694,7 +2694,7 @@
             "side": "warm",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -2722,7 +2722,7 @@
             "side": "warm",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -2750,7 +2750,7 @@
             "side": "warm",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team oywarm" },
+				"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -2778,7 +2778,7 @@
             "side": "warm",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team oywarm" },
+						"startup": { "revealRole": "variable:team oywarm" }, "teamTalk": "variable:team oywarm",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team oywarm"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team oywarm"} },
@@ -3381,7 +3381,7 @@
             "side": "cold",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
@@ -3410,7 +3410,7 @@
             "side": "cold",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
@@ -3438,7 +3438,7 @@
             "side": "cold",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -3465,7 +3465,7 @@
             "side": "cold",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -3492,7 +3492,7 @@
             "side": "cold",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -3519,7 +3519,7 @@
             "side": "cold",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -3546,7 +3546,7 @@
             "side": "cold",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -3573,7 +3573,7 @@
             "side": "cold",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team mpcold" },
+						"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4175,7 +4175,7 @@
             "side": "cold",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
@@ -4203,7 +4203,7 @@
             "side": "cold",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4230,7 +4230,7 @@
             "side": "cold",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4257,7 +4257,7 @@
             "side": "cold",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4284,7 +4284,7 @@
             "side": "cold",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4311,7 +4311,7 @@
             "side": "cold",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4338,7 +4338,7 @@
             "side": "cold",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team mpcold" },
+				"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4365,7 +4365,7 @@
             "side": "cold",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team mpcold" },
+						"startup": { "revealRole": "variable:team mpcold" }, "teamTalk": "variable:team mpcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team mpcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team mpcold"} },
                 "night": {
@@ -4968,7 +4968,7 @@
             "side": "cold",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
@@ -4996,7 +4996,7 @@
             "side": "cold",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5023,7 +5023,7 @@
             "side": "cold",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5050,7 +5050,7 @@
             "side": "cold",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5077,7 +5077,7 @@
             "side": "cold",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5104,7 +5104,7 @@
             "side": "cold",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5131,7 +5131,7 @@
             "side": "cold",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5158,7 +5158,7 @@
             "side": "cold",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team bgcold" },
+						"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5761,7 +5761,7 @@
             "side": "cold",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
@@ -5789,7 +5789,7 @@
             "side": "cold",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5816,7 +5816,7 @@
             "side": "cold",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5843,7 +5843,7 @@
             "side": "cold",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5870,7 +5870,7 @@
             "side": "cold",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5897,7 +5897,7 @@
             "side": "cold",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5924,7 +5924,7 @@
             "side": "cold",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bgcold" },
+				"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -5951,7 +5951,7 @@
             "side": "cold",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team bgcold" },
+						"startup": { "revealRole": "variable:team bgcold" }, "teamTalk": "variable:team bgcold",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bgcold"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bgcold"} },
                 "night": {
@@ -6553,7 +6553,7 @@
             "side": "oddball",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
@@ -6581,7 +6581,7 @@
             "side": "oddball",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -6608,7 +6608,7 @@
             "side": "oddball",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -6635,7 +6635,7 @@
             "side": "oddball",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -6662,7 +6662,7 @@
             "side": "oddball",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -6689,7 +6689,7 @@
             "side": "oddball",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -6716,7 +6716,7 @@
             "side": "oddball",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -6743,7 +6743,7 @@
             "side": "oddball",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team bcoddball" },
+						"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -7345,7 +7345,7 @@
             "side": "oddball",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
@@ -7373,7 +7373,7 @@
             "side": "oddball",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -7400,7 +7400,7 @@
             "side": "oddball",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -7427,7 +7427,7 @@
             "side": "oddball",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -7454,7 +7454,7 @@
             "side": "oddball",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -7481,7 +7481,7 @@
             "side": "oddball",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -7508,7 +7508,7 @@
             "side": "oddball",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team bcoddball" },
+				"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -7535,7 +7535,7 @@
             "side": "oddball",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team bcoddball" },
+						"startup": { "revealRole": "variable:team bcoddball" }, "teamTalk": "variable:team bcoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team bcoddball"} },
                 "night": {
@@ -8138,7 +8138,7 @@
             "side": "oddball",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
@@ -8166,7 +8166,7 @@
             "side": "oddball",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8193,7 +8193,7 @@
             "side": "oddball",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8220,7 +8220,7 @@
             "side": "oddball",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8247,7 +8247,7 @@
             "side": "oddball",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8274,7 +8274,7 @@
             "side": "oddball",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8301,7 +8301,7 @@
             "side": "oddball",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8328,7 +8328,7 @@
             "side": "oddball",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team gsoddball" },
+						"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8931,7 +8931,7 @@
             "side": "oddball",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
@@ -8959,7 +8959,7 @@
             "side": "oddball",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -8986,7 +8986,7 @@
             "side": "oddball",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -9013,7 +9013,7 @@
             "side": "oddball",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -9040,7 +9040,7 @@
             "side": "oddball",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -9067,7 +9067,7 @@
             "side": "oddball",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -9094,7 +9094,7 @@
             "side": "oddball",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": { "revealRole": "variable:team gsoddball" },
+				"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -9121,7 +9121,7 @@
             "side": "oddball",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": { "revealRole": "variable:team gsoddball" },
+						"startup": { "revealRole": "variable:team gsoddball" }, "teamTalk": "variable:team gsoddball",
 						"convert": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},"dummy2": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },"dummy4": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} } ,"dummy6": { "silent": true,"mode": {"ignore": "variable:team gsoddball"} },
                 "night": {
@@ -9723,7 +9723,7 @@
             "side": "voodoo",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
@@ -9744,7 +9744,7 @@
             "side": "voodoo",
             "help2": "You have 0HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
@@ -9767,7 +9767,7 @@
             "side": "voodoo",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9789,7 +9789,7 @@
             "side": "voodoo",
             "help2": "You have 1HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9811,7 +9811,7 @@
             "side": "voodoo",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9833,7 +9833,7 @@
             "side": "voodoo",
             "help2": "You have 2HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9855,7 +9855,7 @@
             "side": "voodoo",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9877,7 +9877,7 @@
             "side": "voodoo",
             "help2": "You have 3HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9899,7 +9899,7 @@
             "side": "voodoo",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9921,7 +9921,7 @@
             "side": "voodoo",
             "help2": "You have 4HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9943,7 +9943,7 @@
             "side": "voodoo",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9965,7 +9965,7 @@
             "side": "voodoo",
             "help2": "You have 5HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -9987,7 +9987,7 @@
             "side": "voodoo",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -10009,7 +10009,7 @@
             "side": "voodoo",
             "help2": "You have 6HP!",
             "actions": {
-				"startup": "team-reveal-with-roles",
+				"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -10031,7 +10031,7 @@
             "side": "voodoo",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": "team-reveal-with-roles",
+						"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
@@ -10053,7 +10053,7 @@
             "side": "voodoo",
             "help2": "You have 7HP!",
             "actions": {
-						"startup": "team-reveal-with-roles",
+						"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {"command": [ "copy" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
