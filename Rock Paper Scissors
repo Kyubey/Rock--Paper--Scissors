@@ -17,25 +17,25 @@
         {
             "side": "warm",
             "translation": "Red Hands",
-            "winmsg": "±Foot: With fiery determination, ~Players~ lasted past everyone else and won the tournament!"
+            "winmsg": "±Foot: With fiery determination, the Red Hands ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "cold",
             "translation": "Blue Hands",
-            "winmsg": "±Foot: Through icy determination, ~Players~ lasted past everyone else and won the tournament!"
+            "winmsg": "±Foot: Through icy determination, the Blue Hands ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "oddball",
             "translation": "Yellow Hands",
-            "winmsg": "±Foot: By being themselves and having fun, ~Players~ lasted past everyone else and won the tournament!"
+            "winmsg": "±Foot: By being themselves and having fun, the Yellow Hands ~Players~ lasted past everyone else and won the tournament!"
         },
         {
             "side": "voodoo",
             "translation": "Special Hands",
-            "winmsg": "±Foot: Using their special powers of darkness and light, ~Players~ cheated their way to victory."
+            "winmsg": "±Foot: The Grey Hands using their special powers of darkness and light, ~Players~ cheated their way to victory."
         }
     ],
-    "lynchmsg": "±Foot: ~Player~ cheated and was disqualified!",
+    "lynchmsg": "±Foot: ~Player~ (~Role~) cheated and was disqualified!",
     "killmsg": "±Foot: ~Player~ (~Role~) was eliminated!",
     "killusermsg": "±Foot: You've been hit too many times. Sorry, but you're out!",
 	"drawmsg": "±Foot: Sometimes life is a giant draw, just like this game. Sorry guys!",
