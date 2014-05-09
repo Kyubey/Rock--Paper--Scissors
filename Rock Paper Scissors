@@ -30,6 +30,16 @@
             "winmsg": "±Foot: By being themselves and having fun, the Yellow Hands ~Players~ lasted past everyone else and won the tournament!"
         },
         {
+            "side": "green",
+            "translation": "Green Hands",
+            "winmsg": "±Foot: With the power of democracy, the Green Hands ~Players~ lasted past everyone else and won the tournament!"
+        },
+        {
+            "side": "violet",
+            "translation": "Violet Hands",
+            "winmsg": "±Foot: With the power of brute force, the Violet Hands ~Players~ lasted past everyone else and won the tournament!"
+        },
+        {
             "side": "voodoo",
             "translation": "Special Hands",
             "winmsg": "±Foot: The Grey Hands using their special powers of darkness and light, ~Players~ cheated their way to victory."
@@ -42,7 +52,7 @@
 	"variables": {
 				"gun attack":{
                     "gun": {
-					"hide": true, "command": [ "kill" ], "priority": 1, "recharge": 2,
+					"hide": true, "command": [ "kill" ], "priority": 1,
                         "common": "Self",
                         "target": "AnyButTeam"
                     } },
@@ -61,11 +71,11 @@
                         "dummy2usermsg": "You wrapped a Rock! You dealt 2 points of damage to them.",
 						"convertfailmsg": "Your attack was deflected, your target either used a pair of Scissors or a Gray Shield"
                     } },
-				"paper damage": { "rwrock5": [ "rwrock7" ], "rwrock4": [ "rwrock6" ], "rwrock3": [ "rwrock5" ], "rwrock2": [ "rwrock4" ], "rwrock1": [ "rwrock3" ], "rwrock0": [ "rwrock2", "rwrock1", "rwrock0" ], "swrock5": [ "swrock7" ], "swrock4": [ "swrock6" ], "swrock3": [ "swrock5" ], "swrock2": [ "swrock4" ], "swrock1": [ "swrock3" ], "swrock0": [ "swrock2", "swrock1", "swrock0" ], "owrock5": [ "owrock7" ], "owrock4": [ "owrock6" ], "owrock3": [ "owrock5" ], "owrock2": [ "owrock4" ], "owrock1": [ "owrock3" ], "owrock0": [ "owrock2", "owrock1", "owrock0" ], "ywrock5": [ "ywrock7" ], "ywrock4": [ "ywrock6" ], "ywrock3": [ "ywrock5" ], "ywrock2": [ "ywrock4" ], "ywrock1": [ "ywrock3" ], "ywrock0": [ "ywrock2", "ywrock1", "ywrock0" ], "bcrock5": [ "bcrock7" ], "bcrock4": [ "bcrock6" ], "bcrock3": [ "bcrock5" ], "bcrock2": [ "bcrock4" ], "bcrock1": [ "bcrock3" ], "bcrock0": [ "bcrock2", "bcrock1", "bcrock0" ], "gcrock5": [ "gcrock7" ], "gcrock4": [ "gcrock6" ], "gcrock3": [ "gcrock5" ], "gcrock2": [ "gcrock4" ], "gcrock1": [ "gcrock3" ], "gcrock0": [ "gcrock2", "gcrock1", "gcrock0" ], "pcrock5": [ "pcrock7" ], "pcrock4": [ "pcrock6" ], "pcrock3": [ "pcrock5" ], "pcrock2": [ "pcrock4" ], "pcrock1": [ "pcrock3" ], "pcrock0": [ "pcrock2", "pcrock1", "pcrock0" ], "mcrock5": [ "mcrock7" ], "mcrock4": [ "mcrock6" ], "mcrock3": [ "mcrock5" ], "mcrock2": [ "mcrock4" ], "mcrock1": [ "mcrock3" ], "mcrock0": [ "mcrock2", "mcrock1", "mcrock0" ], "corock5": [ "corock7" ], "corock4": [ "corock6" ], "corock3": [ "corock5" ], "corock2": [ "corock4" ], "corock1": [ "corock3" ], "corock0": [ "corock2", "corock1", "corock0" ], "borock5": [ "borock7" ], "borock4": [ "borock6" ], "borock3": [ "borock5" ], "borock2": [ "borock4" ], "borock1": [ "borock3" ], "borock0": [ "borock2", "borock1", "borock0" ], "sorock5": [ "sorock7" ], "sorock4": [ "sorock6" ], "sorock3": [ "sorock5" ], "sorock2": [ "sorock4" ], "sorock1": [ "sorock3" ], "sorock0": [ "sorock2", "sorock1", "sorock0" ], "gorock5": [ "gorock7" ], "gorock4": [ "gorock6" ], "gorock3": [ "gorock5" ], "gorock2": [ "gorock4" ], "gorock1": [ "gorock3" ], "gorock0": [ "gorock2", "gorock1", "gorock0" ],
+				"paper damage": { "violetrock5": [ "violetrock7" ], "violetrock4": [ "violetrock6" ], "violetrock3": [ "violetrock5" ], "violetrock2": [ "violetrock4" ], "violetrock1": [ "violetrock3" ], "violetrock0": [ "violetrock2", "violetrock1", "violetrock0" ], "greenrock5": [ "greenrock7" ], "greenrock4": [ "greenrock6" ], "greenrock3": [ "greenrock5" ], "greenrock2": [ "greenrock4" ], "greenrock1": [ "greenrock3" ], "greenrock0": [ "greenrock2", "greenrock1", "greenrock0" ], "rwrock5": [ "rwrock7" ], "rwrock4": [ "rwrock6" ], "rwrock3": [ "rwrock5" ], "rwrock2": [ "rwrock4" ], "rwrock1": [ "rwrock3" ], "rwrock0": [ "rwrock2", "rwrock1", "rwrock0" ], "swrock5": [ "swrock7" ], "swrock4": [ "swrock6" ], "swrock3": [ "swrock5" ], "swrock2": [ "swrock4" ], "swrock1": [ "swrock3" ], "swrock0": [ "swrock2", "swrock1", "swrock0" ], "owrock5": [ "owrock7" ], "owrock4": [ "owrock6" ], "owrock3": [ "owrock5" ], "owrock2": [ "owrock4" ], "owrock1": [ "owrock3" ], "owrock0": [ "owrock2", "owrock1", "owrock0" ], "ywrock5": [ "ywrock7" ], "ywrock4": [ "ywrock6" ], "ywrock3": [ "ywrock5" ], "ywrock2": [ "ywrock4" ], "ywrock1": [ "ywrock3" ], "ywrock0": [ "ywrock2", "ywrock1", "ywrock0" ], "bcrock5": [ "bcrock7" ], "bcrock4": [ "bcrock6" ], "bcrock3": [ "bcrock5" ], "bcrock2": [ "bcrock4" ], "bcrock1": [ "bcrock3" ], "bcrock0": [ "bcrock2", "bcrock1", "bcrock0" ], "gcrock5": [ "gcrock7" ], "gcrock4": [ "gcrock6" ], "gcrock3": [ "gcrock5" ], "gcrock2": [ "gcrock4" ], "gcrock1": [ "gcrock3" ], "gcrock0": [ "gcrock2", "gcrock1", "gcrock0" ], "pcrock5": [ "pcrock7" ], "pcrock4": [ "pcrock6" ], "pcrock3": [ "pcrock5" ], "pcrock2": [ "pcrock4" ], "pcrock1": [ "pcrock3" ], "pcrock0": [ "pcrock2", "pcrock1", "pcrock0" ], "mcrock5": [ "mcrock7" ], "mcrock4": [ "mcrock6" ], "mcrock3": [ "mcrock5" ], "mcrock2": [ "mcrock4" ], "mcrock1": [ "mcrock3" ], "mcrock0": [ "mcrock2", "mcrock1", "mcrock0" ], "corock5": [ "corock7" ], "corock4": [ "corock6" ], "corock3": [ "corock5" ], "corock2": [ "corock4" ], "corock1": [ "corock3" ], "corock0": [ "corock2", "corock1", "corock0" ], "borock5": [ "borock7" ], "borock4": [ "borock6" ], "borock3": [ "borock5" ], "borock2": [ "borock4" ], "borock1": [ "borock3" ], "borock0": [ "borock2", "borock1", "borock0" ], "sorock5": [ "sorock7" ], "sorock4": [ "sorock6" ], "sorock3": [ "sorock5" ], "sorock2": [ "sorock4" ], "sorock1": [ "sorock3" ], "sorock0": [ "sorock2", "sorock1", "sorock0" ], "gorock5": [ "gorock7" ], "gorock4": [ "gorock6" ], "gorock3": [ "gorock5" ], "gorock2": [ "gorock4" ], "gorock1": [ "gorock3" ], "gorock0": [ "gorock2", "gorock1", "gorock0" ],
 								  "vvgun5": [ "vvgun7" ], "vvgun4": [ "vvgun6" ], "vvgun3": [ "vvgun5" ], "vvgun2": [ "vvgun4" ], "vvgun1": [ "vvgun3" ], "vvgun0": [ "vvgun2", "vvgun1", "vvgun0" ],
 								  "rwhand5": [ "rwhand7" ], "rwhand4": [ "rwhand6" ], "rwhand3": [ "rwhand5" ], "rwhand2": [ "rwhand4" ], "rwhand1": [ "rwhand3" ], "rwhand0": [ "rwhand2", "rwhand1", "rwhand0" ], "swhand5": [ "swhand7" ], "swhand4": [ "swhand6" ], "swhand3": [ "swhand5" ], "swhand2": [ "swhand4" ], "swhand1": [ "swhand3" ], "swhand0": [ "swhand2", "swhand1", "swhand0" ], "owhand5": [ "owhand7" ], "owhand4": [ "owhand6" ], "owhand3": [ "owhand5" ], "owhand2": [ "owhand4" ], "owhand1": [ "owhand3" ], "owhand0": [ "owhand2", "owhand1", "owhand0" ], "ywhand5": [ "ywhand7" ], "ywhand4": [ "ywhand6" ], "ywhand3": [ "ywhand5" ], "ywhand2": [ "ywhand4" ], "ywhand1": [ "ywhand3" ], "ywhand0": [ "ywhand2", "ywhand1", "ywhand0" ], "bchand5": [ "bchand7" ], "bchand4": [ "bchand6" ], "bchand3": [ "bchand5" ], "bchand2": [ "bchand4" ], "bchand1": [ "bchand3" ], "bchand0": [ "bchand2", "bchand1", "bchand0" ], "gchand5": [ "gchand7" ], "gchand4": [ "gchand6" ], "gchand3": [ "gchand5" ], "gchand2": [ "gchand4" ], "gchand1": [ "gchand3" ], "gchand0": [ "gchand2", "gchand1", "gchand0" ], "pchand5": [ "pchand7" ], "pchand4": [ "pchand6" ], "pchand3": [ "pchand5" ], "pchand2": [ "pchand4" ], "pchand1": [ "pchand3" ], "pchand0": [ "pchand2", "pchand1", "pchand0" ], "mchand5": [ "mchand7" ], "mchand4": [ "mchand6" ], "mchand3": [ "mchand5" ], "mchand2": [ "mchand4" ], "mchand1": [ "mchand3" ], "mchand0": [ "mchand2", "mchand1", "mchand0" ], "cohand5": [ "cohand7" ], "cohand4": [ "cohand6" ], "cohand3": [ "cohand5" ], "cohand2": [ "cohand4" ], "cohand1": [ "cohand3" ], "cohand0": [ "cohand2", "cohand1", "cohand0" ], "bohand5": [ "bohand7" ], "bohand4": [ "bohand6" ], "bohand3": [ "bohand5" ], "bohand2": [ "bohand4" ], "bohand1": [ "bohand3" ], "bohand0": [ "bohand2", "bohand1", "bohand0" ], "sohand5": [ "sohand7" ], "sohand4": [ "sohand6" ], "sohand3": [ "sohand5" ], "sohand2": [ "sohand4" ], "sohand1": [ "sohand3" ], "sohand0": [ "sohand2", "sohand1", "sohand0" ], "gohand5": [ "gohand7" ], "gohand4": [ "gohand6" ], "gohand3": [ "gohand5" ], "gohand2": [ "gohand4" ], "gohand1": [ "gohand3" ], "gohand0": [ "gohand2", "gohand1", "gohand0" ],
-								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ],
-								  "rwpaper6": [ "rwpaper7" ], "rwpaper5": [ "rwpaper6" ], "rwpaper4": [ "rwpaper5" ], "rwpaper3": [ "rwpaper4" ], "rwpaper2": [ "rwpaper3" ], "rwpaper1": [ "rwpaper2"], "rwpaper0": [ "rwpaper1", "rwpaper0" ], "swpaper6": [ "swpaper7" ], "swpaper5": [ "swpaper6" ], "swpaper4": [ "swpaper5" ], "swpaper3": [ "swpaper4" ], "swpaper2": [ "swpaper3" ], "swpaper1": [ "swpaper2"], "swpaper0": [ "swpaper1", "swpaper0" ], "owpaper6": [ "owpaper7" ], "owpaper5": [ "owpaper6" ], "owpaper4": [ "owpaper5" ], "owpaper3": [ "owpaper4" ], "owpaper2": [ "owpaper3" ], "owpaper1": [ "owpaper2"], "owpaper0": [ "owpaper1", "owpaper0" ], "ywpaper6": [ "ywpaper7" ], "ywpaper5": [ "ywpaper6" ], "ywpaper4": [ "ywpaper5" ], "ywpaper3": [ "ywpaper4" ], "ywpaper2": [ "ywpaper3" ], "ywpaper1": [ "ywpaper2"], "ywpaper0": [ "ywpaper1", "ywpaper0" ], "bcpaper6": [ "bcpaper7" ], "bcpaper5": [ "bcpaper6" ], "bcpaper4": [ "bcpaper5" ], "bcpaper3": [ "bcpaper4" ], "bcpaper2": [ "bcpaper3" ], "bcpaper1": [ "bcpaper2"], "bcpaper0": [ "bcpaper1", "bcpaper0" ], "gcpaper6": [ "gcpaper7" ], "gcpaper5": [ "gcpaper6" ], "gcpaper4": [ "gcpaper5" ], "gcpaper3": [ "gcpaper4" ], "gcpaper2": [ "gcpaper3" ], "gcpaper1": [ "gcpaper2"], "gcpaper0": [ "gcpaper1", "gcpaper0" ], "pcpaper6": [ "pcpaper7" ], "pcpaper5": [ "pcpaper6" ], "pcpaper4": [ "pcpaper5" ], "pcpaper3": [ "pcpaper4" ], "pcpaper2": [ "pcpaper3" ], "pcpaper1": [ "pcpaper2"], "pcpaper0": [ "pcpaper1", "pcpaper0" ], "mcpaper6": [ "mcpaper7" ], "mcpaper5": [ "mcpaper6" ], "mcpaper4": [ "mcpaper5" ], "mcpaper3": [ "mcpaper4" ], "mcpaper2": [ "mcpaper3" ], "mcpaper1": [ "mcpaper2"], "mcpaper0": [ "mcpaper1", "mcpaper0" ], "copaper6": [ "copaper7" ], "copaper5": [ "copaper6" ], "copaper4": [ "copaper5" ], "copaper3": [ "copaper4" ], "copaper2": [ "copaper3" ], "copaper1": [ "copaper2"], "copaper0": [ "copaper1", "copaper0" ], "bopaper6": [ "bopaper7" ], "bopaper5": [ "bopaper6" ], "bopaper4": [ "bopaper5" ], "bopaper3": [ "bopaper4" ], "bopaper2": [ "bopaper3" ], "bopaper1": [ "bopaper2"], "bopaper0": [ "bopaper1", "bopaper0" ], "sopaper6": [ "sopaper7" ], "sopaper5": [ "sopaper6" ], "sopaper4": [ "sopaper5" ], "sopaper3": [ "sopaper4" ], "sopaper2": [ "sopaper3" ], "sopaper1": [ "sopaper2"], "sopaper0": [ "sopaper1", "sopaper0" ], "gopaper6": [ "gopaper7" ], "gopaper5": [ "gopaper6" ], "gopaper4": [ "gopaper5" ], "gopaper3": [ "gopaper4" ], "gopaper2": [ "gopaper3" ], "gopaper1": [ "gopaper2"], "gopaper0": [ "gopaper1", "gopaper0" ]
+								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ], "greenhand5": [ "greenhand7", "greenhand7x" ], "greenhand4": [ "greenhand6", "greenhand6x" ], "greenhand3": [ "greenhand5", "greenhand5" ], "greenhand2": [ "greenhand4", "greenhand4x"], "greenhand1": [ "greenhand3", "greenhand3" ], "greenhand0": [ "greenhand2", "greenhand1", "greenhand0", "greenhand2x", "greenhand1x"], "violethand5": [ "violethand7", "violethand7x" ], "violethand4": [ "violethand6", "violethand6x" ], "violethand3": [ "violethand5", "violethand5" ], "violethand2": [ "violethand4", "violethand4x"], "violethand1": [ "violethand3", "violethand3" ], "violethand0": [ "violethand2", "violethand1", "violethand0", "violethand2x", "violethand1x"],
+								  "violetpaper6": [ "violetpaper7" ], "violetpaper5": [ "violetpaper6" ], "violetpaper4": [ "violetpaper5" ], "violetpaper3": [ "violetpaper4" ], "violetpaper2": [ "violetpaper3" ], "violetpaper1": [ "violetpaper2"], "violetpaper0": [ "violetpaper1", "violetpaper0" ], "greenpaper6": [ "greenpaper7" ], "greenpaper5": [ "greenpaper6" ], "greenpaper4": [ "greenpaper5" ], "greenpaper3": [ "greenpaper4" ], "greenpaper2": [ "greenpaper3" ], "greenpaper1": [ "greenpaper2"], "greenpaper0": [ "greenpaper1", "greenpaper0" ], "rwpaper6": [ "rwpaper7" ], "rwpaper5": [ "rwpaper6" ], "rwpaper4": [ "rwpaper5" ], "rwpaper3": [ "rwpaper4" ], "rwpaper2": [ "rwpaper3" ], "rwpaper1": [ "rwpaper2"], "rwpaper0": [ "rwpaper1", "rwpaper0" ], "swpaper6": [ "swpaper7" ], "swpaper5": [ "swpaper6" ], "swpaper4": [ "swpaper5" ], "swpaper3": [ "swpaper4" ], "swpaper2": [ "swpaper3" ], "swpaper1": [ "swpaper2"], "swpaper0": [ "swpaper1", "swpaper0" ], "owpaper6": [ "owpaper7" ], "owpaper5": [ "owpaper6" ], "owpaper4": [ "owpaper5" ], "owpaper3": [ "owpaper4" ], "owpaper2": [ "owpaper3" ], "owpaper1": [ "owpaper2"], "owpaper0": [ "owpaper1", "owpaper0" ], "ywpaper6": [ "ywpaper7" ], "ywpaper5": [ "ywpaper6" ], "ywpaper4": [ "ywpaper5" ], "ywpaper3": [ "ywpaper4" ], "ywpaper2": [ "ywpaper3" ], "ywpaper1": [ "ywpaper2"], "ywpaper0": [ "ywpaper1", "ywpaper0" ], "bcpaper6": [ "bcpaper7" ], "bcpaper5": [ "bcpaper6" ], "bcpaper4": [ "bcpaper5" ], "bcpaper3": [ "bcpaper4" ], "bcpaper2": [ "bcpaper3" ], "bcpaper1": [ "bcpaper2"], "bcpaper0": [ "bcpaper1", "bcpaper0" ], "gcpaper6": [ "gcpaper7" ], "gcpaper5": [ "gcpaper6" ], "gcpaper4": [ "gcpaper5" ], "gcpaper3": [ "gcpaper4" ], "gcpaper2": [ "gcpaper3" ], "gcpaper1": [ "gcpaper2"], "gcpaper0": [ "gcpaper1", "gcpaper0" ], "pcpaper6": [ "pcpaper7" ], "pcpaper5": [ "pcpaper6" ], "pcpaper4": [ "pcpaper5" ], "pcpaper3": [ "pcpaper4" ], "pcpaper2": [ "pcpaper3" ], "pcpaper1": [ "pcpaper2"], "pcpaper0": [ "pcpaper1", "pcpaper0" ], "mcpaper6": [ "mcpaper7" ], "mcpaper5": [ "mcpaper6" ], "mcpaper4": [ "mcpaper5" ], "mcpaper3": [ "mcpaper4" ], "mcpaper2": [ "mcpaper3" ], "mcpaper1": [ "mcpaper2"], "mcpaper0": [ "mcpaper1", "mcpaper0" ], "copaper6": [ "copaper7" ], "copaper5": [ "copaper6" ], "copaper4": [ "copaper5" ], "copaper3": [ "copaper4" ], "copaper2": [ "copaper3" ], "copaper1": [ "copaper2"], "copaper0": [ "copaper1", "copaper0" ], "bopaper6": [ "bopaper7" ], "bopaper5": [ "bopaper6" ], "bopaper4": [ "bopaper5" ], "bopaper3": [ "bopaper4" ], "bopaper2": [ "bopaper3" ], "bopaper1": [ "bopaper2"], "bopaper0": [ "bopaper1", "bopaper0" ], "sopaper6": [ "sopaper7" ], "sopaper5": [ "sopaper6" ], "sopaper4": [ "sopaper5" ], "sopaper3": [ "sopaper4" ], "sopaper2": [ "sopaper3" ], "sopaper1": [ "sopaper2"], "sopaper0": [ "sopaper1", "sopaper0" ], "gopaper6": [ "gopaper7" ], "gopaper5": [ "gopaper6" ], "gopaper4": [ "gopaper5" ], "gopaper3": [ "gopaper4" ], "gopaper2": [ "gopaper3" ], "gopaper1": [ "gopaper2"], "gopaper0": [ "gopaper1", "gopaper0" ]
 								},
 				"scissors attack":{
                     "scissors": {
@@ -82,11 +92,11 @@
                         "dummy4usermsg": "You cut a piece of Paper! You dealt 2 points of damage to them.",
 						"convertfailmsg": "Your attack was deflected, your target either used a Rock or a Gray Shield"
                     } },
-				"scissors damage": { "rwpaper5": [ "rwpaper7" ], "rwpaper4": [ "rwpaper6" ], "rwpaper3": [ "rwpaper5" ], "rwpaper2": [ "rwpaper4" ], "rwpaper1": [ "rwpaper3" ], "rwpaper0": [ "rwpaper2", "rwpaper1", "rwpaper0" ], "swpaper5": [ "swpaper7" ], "swpaper4": [ "swpaper6" ], "swpaper3": [ "swpaper5" ], "swpaper2": [ "swpaper4" ], "swpaper1": [ "swpaper3" ], "swpaper0": [ "swpaper2", "swpaper1", "swpaper0" ], "owpaper5": [ "owpaper7" ], "owpaper4": [ "owpaper6" ], "owpaper3": [ "owpaper5" ], "owpaper2": [ "owpaper4" ], "owpaper1": [ "owpaper3" ], "owpaper0": [ "owpaper2", "owpaper1", "owpaper0" ], "ywpaper5": [ "ywpaper7" ], "ywpaper4": [ "ywpaper6" ], "ywpaper3": [ "ywpaper5" ], "ywpaper2": [ "ywpaper4" ], "ywpaper1": [ "ywpaper3" ], "ywpaper0": [ "ywpaper2", "ywpaper1", "ywpaper0" ], "bcpaper5": [ "bcpaper7" ], "bcpaper4": [ "bcpaper6" ], "bcpaper3": [ "bcpaper5" ], "bcpaper2": [ "bcpaper4" ], "bcpaper1": [ "bcpaper3" ], "bcpaper0": [ "bcpaper2", "bcpaper1", "bcpaper0" ], "gcpaper5": [ "gcpaper7" ], "gcpaper4": [ "gcpaper6" ], "gcpaper3": [ "gcpaper5" ], "gcpaper2": [ "gcpaper4" ], "gcpaper1": [ "gcpaper3" ], "gcpaper0": [ "gcpaper2", "gcpaper1", "gcpaper0" ], "pcpaper5": [ "pcpaper7" ], "pcpaper4": [ "pcpaper6" ], "pcpaper3": [ "pcpaper5" ], "pcpaper2": [ "pcpaper4" ], "pcpaper1": [ "pcpaper3" ], "pcpaper0": [ "pcpaper2", "pcpaper1", "pcpaper0" ], "mcpaper5": [ "mcpaper7" ], "mcpaper4": [ "mcpaper6" ], "mcpaper3": [ "mcpaper5" ], "mcpaper2": [ "mcpaper4" ], "mcpaper1": [ "mcpaper3" ], "mcpaper0": [ "mcpaper2", "mcpaper1", "mcpaper0" ], "copaper5": [ "copaper7" ], "copaper4": [ "copaper6" ], "copaper3": [ "copaper5" ], "copaper2": [ "copaper4" ], "copaper1": [ "copaper3" ], "copaper0": [ "copaper2", "copaper1", "copaper0" ], "bopaper5": [ "bopaper7" ], "bopaper4": [ "bopaper6" ], "bopaper3": [ "bopaper5" ], "bopaper2": [ "bopaper4" ], "bopaper1": [ "bopaper3" ], "bopaper0": [ "bopaper2", "bopaper1", "bopaper0" ], "sopaper5": [ "sopaper7" ], "sopaper4": [ "sopaper6" ], "sopaper3": [ "sopaper5" ], "sopaper2": [ "sopaper4" ], "sopaper1": [ "sopaper3" ], "sopaper0": [ "sopaper2", "sopaper1", "sopaper0" ], "gopaper5": [ "gopaper7" ], "gopaper4": [ "gopaper6" ], "gopaper3": [ "gopaper5" ], "gopaper2": [ "gopaper4" ], "gopaper1": [ "gopaper3" ], "gopaper0": [ "gopaper2", "gopaper1", "gopaper0" ],
+				"scissors damage": { "violetpaper5": [ "violetpaper7" ], "violetpaper4": [ "violetpaper6" ], "violetpaper3": [ "violetpaper5" ], "violetpaper2": [ "violetpaper4" ], "violetpaper1": [ "violetpaper3" ], "violetpaper0": [ "violetpaper2", "violetpaper1", "violetpaper0" ], "greenpaper5": [ "greenpaper7" ], "greenpaper4": [ "greenpaper6" ], "greenpaper3": [ "greenpaper5" ], "greenpaper2": [ "greenpaper4" ], "greenpaper1": [ "greenpaper3" ], "greenpaper0": [ "greenpaper2", "greenpaper1", "greenpaper0" ], "rwpaper5": [ "rwpaper7" ], "rwpaper4": [ "rwpaper6" ], "rwpaper3": [ "rwpaper5" ], "rwpaper2": [ "rwpaper4" ], "rwpaper1": [ "rwpaper3" ], "rwpaper0": [ "rwpaper2", "rwpaper1", "rwpaper0" ], "swpaper5": [ "swpaper7" ], "swpaper4": [ "swpaper6" ], "swpaper3": [ "swpaper5" ], "swpaper2": [ "swpaper4" ], "swpaper1": [ "swpaper3" ], "swpaper0": [ "swpaper2", "swpaper1", "swpaper0" ], "owpaper5": [ "owpaper7" ], "owpaper4": [ "owpaper6" ], "owpaper3": [ "owpaper5" ], "owpaper2": [ "owpaper4" ], "owpaper1": [ "owpaper3" ], "owpaper0": [ "owpaper2", "owpaper1", "owpaper0" ], "ywpaper5": [ "ywpaper7" ], "ywpaper4": [ "ywpaper6" ], "ywpaper3": [ "ywpaper5" ], "ywpaper2": [ "ywpaper4" ], "ywpaper1": [ "ywpaper3" ], "ywpaper0": [ "ywpaper2", "ywpaper1", "ywpaper0" ], "bcpaper5": [ "bcpaper7" ], "bcpaper4": [ "bcpaper6" ], "bcpaper3": [ "bcpaper5" ], "bcpaper2": [ "bcpaper4" ], "bcpaper1": [ "bcpaper3" ], "bcpaper0": [ "bcpaper2", "bcpaper1", "bcpaper0" ], "gcpaper5": [ "gcpaper7" ], "gcpaper4": [ "gcpaper6" ], "gcpaper3": [ "gcpaper5" ], "gcpaper2": [ "gcpaper4" ], "gcpaper1": [ "gcpaper3" ], "gcpaper0": [ "gcpaper2", "gcpaper1", "gcpaper0" ], "pcpaper5": [ "pcpaper7" ], "pcpaper4": [ "pcpaper6" ], "pcpaper3": [ "pcpaper5" ], "pcpaper2": [ "pcpaper4" ], "pcpaper1": [ "pcpaper3" ], "pcpaper0": [ "pcpaper2", "pcpaper1", "pcpaper0" ], "mcpaper5": [ "mcpaper7" ], "mcpaper4": [ "mcpaper6" ], "mcpaper3": [ "mcpaper5" ], "mcpaper2": [ "mcpaper4" ], "mcpaper1": [ "mcpaper3" ], "mcpaper0": [ "mcpaper2", "mcpaper1", "mcpaper0" ], "copaper5": [ "copaper7" ], "copaper4": [ "copaper6" ], "copaper3": [ "copaper5" ], "copaper2": [ "copaper4" ], "copaper1": [ "copaper3" ], "copaper0": [ "copaper2", "copaper1", "copaper0" ], "bopaper5": [ "bopaper7" ], "bopaper4": [ "bopaper6" ], "bopaper3": [ "bopaper5" ], "bopaper2": [ "bopaper4" ], "bopaper1": [ "bopaper3" ], "bopaper0": [ "bopaper2", "bopaper1", "bopaper0" ], "sopaper5": [ "sopaper7" ], "sopaper4": [ "sopaper6" ], "sopaper3": [ "sopaper5" ], "sopaper2": [ "sopaper4" ], "sopaper1": [ "sopaper3" ], "sopaper0": [ "sopaper2", "sopaper1", "sopaper0" ], "gopaper5": [ "gopaper7" ], "gopaper4": [ "gopaper6" ], "gopaper3": [ "gopaper5" ], "gopaper2": [ "gopaper4" ], "gopaper1": [ "gopaper3" ], "gopaper0": [ "gopaper2", "gopaper1", "gopaper0" ],
 								  "vvgun5": [ "vvgun7" ], "vvgun4": [ "vvgun6" ], "vvgun3": [ "vvgun5" ], "vvgun2": [ "vvgun4" ], "vvgun1": [ "vvgun3" ], "vvgun0": [ "vvgun2", "vvgun1", "vvgun0" ],
 								  "rwhand5": [ "rwhand7" ], "rwhand4": [ "rwhand6" ], "rwhand3": [ "rwhand5" ], "rwhand2": [ "rwhand4" ], "rwhand1": [ "rwhand3" ], "rwhand0": [ "rwhand2", "rwhand1", "rwhand0" ], "swhand5": [ "swhand7" ], "swhand4": [ "swhand6" ], "swhand3": [ "swhand5" ], "swhand2": [ "swhand4" ], "swhand1": [ "swhand3" ], "swhand0": [ "swhand2", "swhand1", "swhand0" ], "owhand5": [ "owhand7" ], "owhand4": [ "owhand6" ], "owhand3": [ "owhand5" ], "owhand2": [ "owhand4" ], "owhand1": [ "owhand3" ], "owhand0": [ "owhand2", "owhand1", "owhand0" ], "ywhand5": [ "ywhand7" ], "ywhand4": [ "ywhand6" ], "ywhand3": [ "ywhand5" ], "ywhand2": [ "ywhand4" ], "ywhand1": [ "ywhand3" ], "ywhand0": [ "ywhand2", "ywhand1", "ywhand0" ], "bchand5": [ "bchand7" ], "bchand4": [ "bchand6" ], "bchand3": [ "bchand5" ], "bchand2": [ "bchand4" ], "bchand1": [ "bchand3" ], "bchand0": [ "bchand2", "bchand1", "bchand0" ], "gchand5": [ "gchand7" ], "gchand4": [ "gchand6" ], "gchand3": [ "gchand5" ], "gchand2": [ "gchand4" ], "gchand1": [ "gchand3" ], "gchand0": [ "gchand2", "gchand1", "gchand0" ], "pchand5": [ "pchand7" ], "pchand4": [ "pchand6" ], "pchand3": [ "pchand5" ], "pchand2": [ "pchand4" ], "pchand1": [ "pchand3" ], "pchand0": [ "pchand2", "pchand1", "pchand0" ], "mchand5": [ "mchand7" ], "mchand4": [ "mchand6" ], "mchand3": [ "mchand5" ], "mchand2": [ "mchand4" ], "mchand1": [ "mchand3" ], "mchand0": [ "mchand2", "mchand1", "mchand0" ], "cohand5": [ "cohand7" ], "cohand4": [ "cohand6" ], "cohand3": [ "cohand5" ], "cohand2": [ "cohand4" ], "cohand1": [ "cohand3" ], "cohand0": [ "cohand2", "cohand1", "cohand0" ], "bohand5": [ "bohand7" ], "bohand4": [ "bohand6" ], "bohand3": [ "bohand5" ], "bohand2": [ "bohand4" ], "bohand1": [ "bohand3" ], "bohand0": [ "bohand2", "bohand1", "bohand0" ], "sohand5": [ "sohand7" ], "sohand4": [ "sohand6" ], "sohand3": [ "sohand5" ], "sohand2": [ "sohand4" ], "sohand1": [ "sohand3" ], "sohand0": [ "sohand2", "sohand1", "sohand0" ], "gohand5": [ "gohand7" ], "gohand4": [ "gohand6" ], "gohand3": [ "gohand5" ], "gohand2": [ "gohand4" ], "gohand1": [ "gohand3" ], "gohand0": [ "gohand2", "gohand1", "gohand0" ],
-								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ],
-								  "rwscissors6": [ "rwscissors7" ], "rwscissors5": [ "rwscissors6" ], "rwscissors4": [ "rwscissors5" ], "rwscissors3": [ "rwscissors4" ], "rwscissors2": [ "rwscissors3" ], "rwscissors1": [ "rwscissors2"], "rwscissors0": [ "rwscissors1", "rwscissors0" ], "swscissors6": [ "swscissors7" ], "swscissors5": [ "swscissors6" ], "swscissors4": [ "swscissors5" ], "swscissors3": [ "swscissors4" ], "swscissors2": [ "swscissors3" ], "swscissors1": [ "swscissors2"], "swscissors0": [ "swscissors1", "swscissors0" ], "owscissors6": [ "owscissors7" ], "owscissors5": [ "owscissors6" ], "owscissors4": [ "owscissors5" ], "owscissors3": [ "owscissors4" ], "owscissors2": [ "owscissors3" ], "owscissors1": [ "owscissors2"], "owscissors0": [ "owscissors1", "owscissors0" ], "ywscissors6": [ "ywscissors7" ], "ywscissors5": [ "ywscissors6" ], "ywscissors4": [ "ywscissors5" ], "ywscissors3": [ "ywscissors4" ], "ywscissors2": [ "ywscissors3" ], "ywscissors1": [ "ywscissors2"], "ywscissors0": [ "ywscissors1", "ywscissors0" ], "bcscissors6": [ "bcscissors7" ], "bcscissors5": [ "bcscissors6" ], "bcscissors4": [ "bcscissors5" ], "bcscissors3": [ "bcscissors4" ], "bcscissors2": [ "bcscissors3" ], "bcscissors1": [ "bcscissors2"], "bcscissors0": [ "bcscissors1", "bcscissors0" ], "gcscissors6": [ "gcscissors7" ], "gcscissors5": [ "gcscissors6" ], "gcscissors4": [ "gcscissors5" ], "gcscissors3": [ "gcscissors4" ], "gcscissors2": [ "gcscissors3" ], "gcscissors1": [ "gcscissors2"], "gcscissors0": [ "gcscissors1", "gcscissors0" ], "pcscissors6": [ "pcscissors7" ], "pcscissors5": [ "pcscissors6" ], "pcscissors4": [ "pcscissors5" ], "pcscissors3": [ "pcscissors4" ], "pcscissors2": [ "pcscissors3" ], "pcscissors1": [ "pcscissors2"], "pcscissors0": [ "pcscissors1", "pcscissors0" ], "mcscissors6": [ "mcscissors7" ], "mcscissors5": [ "mcscissors6" ], "mcscissors4": [ "mcscissors5" ], "mcscissors3": [ "mcscissors4" ], "mcscissors2": [ "mcscissors3" ], "mcscissors1": [ "mcscissors2"], "mcscissors0": [ "mcscissors1", "mcscissors0" ], "coscissors6": [ "coscissors7" ], "coscissors5": [ "coscissors6" ], "coscissors4": [ "coscissors5" ], "coscissors3": [ "coscissors4" ], "coscissors2": [ "coscissors3" ], "coscissors1": [ "coscissors2"], "coscissors0": [ "coscissors1", "coscissors0" ], "boscissors6": [ "boscissors7" ], "boscissors5": [ "boscissors6" ], "boscissors4": [ "boscissors5" ], "boscissors3": [ "boscissors4" ], "boscissors2": [ "boscissors3" ], "boscissors1": [ "boscissors2"], "boscissors0": [ "boscissors1", "boscissors0" ], "soscissors6": [ "soscissors7" ], "soscissors5": [ "soscissors6" ], "soscissors4": [ "soscissors5" ], "soscissors3": [ "soscissors4" ], "soscissors2": [ "soscissors3" ], "soscissors1": [ "soscissors2"], "soscissors0": [ "soscissors1", "soscissors0" ], "goscissors6": [ "goscissors7" ], "goscissors5": [ "goscissors6" ], "goscissors4": [ "goscissors5" ], "goscissors3": [ "goscissors4" ], "goscissors2": [ "goscissors3" ], "goscissors1": [ "goscissors2"], "goscissors0": [ "goscissors1", "goscissors0" ]
+								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ], "violethand5": [ "violethand7", "violethand7x" ], "violethand4": [ "violethand6", "violethand6x" ], "violethand3": [ "violethand5", "violethand5" ], "violethand2": [ "violethand4", "violethand4x"], "violethand1": [ "violethand3", "violethand3" ], "violethand0": [ "violethand2", "violethand1", "violethand0", "violethand2x", "violethand1x"], "greenhand5": [ "greenhand7", "greenhand7x" ], "greenhand4": [ "greenhand6", "greenhand6x" ], "greenhand3": [ "greenhand5", "greenhand5" ], "greenhand2": [ "greenhand4", "greenhand4x"], "greenhand1": [ "greenhand3", "greenhand3" ], "greenhand0": [ "greenhand2", "greenhand1", "greenhand0", "greenhand2x", "greenhand1x"],
+								  "violetscissors6": [ "violetscissors7" ], "violetscissors5": [ "violetscissors6" ], "violetscissors4": [ "violetscissors5" ], "violetscissors3": [ "violetscissors4" ], "violetscissors2": [ "violetscissors3" ], "violetscissors1": [ "violetscissors2"], "violetscissors0": [ "violetscissors1", "violetscissors0" ], "greenscissors6": [ "greenscissors7" ], "greenscissors5": [ "greenscissors6" ], "greenscissors4": [ "greenscissors5" ], "greenscissors3": [ "greenscissors4" ], "greenscissors2": [ "greenscissors3" ], "greenscissors1": [ "greenscissors2"], "greenscissors0": [ "greenscissors1", "greenscissors0" ], "rwscissors6": [ "rwscissors7" ], "rwscissors5": [ "rwscissors6" ], "rwscissors4": [ "rwscissors5" ], "rwscissors3": [ "rwscissors4" ], "rwscissors2": [ "rwscissors3" ], "rwscissors1": [ "rwscissors2"], "rwscissors0": [ "rwscissors1", "rwscissors0" ], "swscissors6": [ "swscissors7" ], "swscissors5": [ "swscissors6" ], "swscissors4": [ "swscissors5" ], "swscissors3": [ "swscissors4" ], "swscissors2": [ "swscissors3" ], "swscissors1": [ "swscissors2"], "swscissors0": [ "swscissors1", "swscissors0" ], "owscissors6": [ "owscissors7" ], "owscissors5": [ "owscissors6" ], "owscissors4": [ "owscissors5" ], "owscissors3": [ "owscissors4" ], "owscissors2": [ "owscissors3" ], "owscissors1": [ "owscissors2"], "owscissors0": [ "owscissors1", "owscissors0" ], "ywscissors6": [ "ywscissors7" ], "ywscissors5": [ "ywscissors6" ], "ywscissors4": [ "ywscissors5" ], "ywscissors3": [ "ywscissors4" ], "ywscissors2": [ "ywscissors3" ], "ywscissors1": [ "ywscissors2"], "ywscissors0": [ "ywscissors1", "ywscissors0" ], "bcscissors6": [ "bcscissors7" ], "bcscissors5": [ "bcscissors6" ], "bcscissors4": [ "bcscissors5" ], "bcscissors3": [ "bcscissors4" ], "bcscissors2": [ "bcscissors3" ], "bcscissors1": [ "bcscissors2"], "bcscissors0": [ "bcscissors1", "bcscissors0" ], "gcscissors6": [ "gcscissors7" ], "gcscissors5": [ "gcscissors6" ], "gcscissors4": [ "gcscissors5" ], "gcscissors3": [ "gcscissors4" ], "gcscissors2": [ "gcscissors3" ], "gcscissors1": [ "gcscissors2"], "gcscissors0": [ "gcscissors1", "gcscissors0" ], "pcscissors6": [ "pcscissors7" ], "pcscissors5": [ "pcscissors6" ], "pcscissors4": [ "pcscissors5" ], "pcscissors3": [ "pcscissors4" ], "pcscissors2": [ "pcscissors3" ], "pcscissors1": [ "pcscissors2"], "pcscissors0": [ "pcscissors1", "pcscissors0" ], "mcscissors6": [ "mcscissors7" ], "mcscissors5": [ "mcscissors6" ], "mcscissors4": [ "mcscissors5" ], "mcscissors3": [ "mcscissors4" ], "mcscissors2": [ "mcscissors3" ], "mcscissors1": [ "mcscissors2"], "mcscissors0": [ "mcscissors1", "mcscissors0" ], "coscissors6": [ "coscissors7" ], "coscissors5": [ "coscissors6" ], "coscissors4": [ "coscissors5" ], "coscissors3": [ "coscissors4" ], "coscissors2": [ "coscissors3" ], "coscissors1": [ "coscissors2"], "coscissors0": [ "coscissors1", "coscissors0" ], "boscissors6": [ "boscissors7" ], "boscissors5": [ "boscissors6" ], "boscissors4": [ "boscissors5" ], "boscissors3": [ "boscissors4" ], "boscissors2": [ "boscissors3" ], "boscissors1": [ "boscissors2"], "boscissors0": [ "boscissors1", "boscissors0" ], "soscissors6": [ "soscissors7" ], "soscissors5": [ "soscissors6" ], "soscissors4": [ "soscissors5" ], "soscissors3": [ "soscissors4" ], "soscissors2": [ "soscissors3" ], "soscissors1": [ "soscissors2"], "soscissors0": [ "soscissors1", "soscissors0" ], "goscissors6": [ "goscissors7" ], "goscissors5": [ "goscissors6" ], "goscissors4": [ "goscissors5" ], "goscissors3": [ "goscissors4" ], "goscissors2": [ "goscissors3" ], "goscissors1": [ "goscissors2"], "goscissors0": [ "goscissors1", "goscissors0" ]
 								},
 				"rock attack":{
                     "rock": {
@@ -103,11 +113,11 @@
                         "dummy6usermsg": "You smashed a pair of Scissors! You dealt 2 points of damage to them.",
 						"convertfailmsg": "Your attack was deflected, your target either used a piece of Paper or a Gray Shield"
                     } },
-				"rock damage": { "rwscissors5": [ "rwscissors7" ], "rwscissors4": [ "rwscissors6" ], "rwscissors3": [ "rwscissors5" ], "rwscissors2": [ "rwscissors4" ], "rwscissors1": [ "rwscissors3" ], "rwscissors0": [ "rwscissors2", "rwscissors1", "rwscissors0" ], "swscissors5": [ "swscissors7" ], "swscissors4": [ "swscissors6" ], "swscissors3": [ "swscissors5" ], "swscissors2": [ "swscissors4" ], "swscissors1": [ "swscissors3" ], "swscissors0": [ "swscissors2", "swscissors1", "swscissors0" ], "owscissors5": [ "owscissors7" ], "owscissors4": [ "owscissors6" ], "owscissors3": [ "owscissors5" ], "owscissors2": [ "owscissors4" ], "owscissors1": [ "owscissors3" ], "owscissors0": [ "owscissors2", "owscissors1", "owscissors0" ], "ywscissors5": [ "ywscissors7" ], "ywscissors4": [ "ywscissors6" ], "ywscissors3": [ "ywscissors5" ], "ywscissors2": [ "ywscissors4" ], "ywscissors1": [ "ywscissors3" ], "ywscissors0": [ "ywscissors2", "ywscissors1", "ywscissors0" ], "bcscissors5": [ "bcscissors7" ], "bcscissors4": [ "bcscissors6" ], "bcscissors3": [ "bcscissors5" ], "bcscissors2": [ "bcscissors4" ], "bcscissors1": [ "bcscissors3" ], "bcscissors0": [ "bcscissors2", "bcscissors1", "bcscissors0" ], "gcscissors5": [ "gcscissors7" ], "gcscissors4": [ "gcscissors6" ], "gcscissors3": [ "gcscissors5" ], "gcscissors2": [ "gcscissors4" ], "gcscissors1": [ "gcscissors3" ], "gcscissors0": [ "gcscissors2", "gcscissors1", "gcscissors0" ], "pcscissors5": [ "pcscissors7" ], "pcscissors4": [ "pcscissors6" ], "pcscissors3": [ "pcscissors5" ], "pcscissors2": [ "pcscissors4" ], "pcscissors1": [ "pcscissors3" ], "pcscissors0": [ "pcscissors2", "pcscissors1", "pcscissors0" ], "mcscissors5": [ "mcscissors7" ], "mcscissors4": [ "mcscissors6" ], "mcscissors3": [ "mcscissors5" ], "mcscissors2": [ "mcscissors4" ], "mcscissors1": [ "mcscissors3" ], "mcscissors0": [ "mcscissors2", "mcscissors1", "mcscissors0" ], "coscissors5": [ "coscissors7" ], "coscissors4": [ "coscissors6" ], "coscissors3": [ "coscissors5" ], "coscissors2": [ "coscissors4" ], "coscissors1": [ "coscissors3" ], "coscissors0": [ "coscissors2", "coscissors1", "coscissors0" ], "boscissors5": [ "boscissors7" ], "boscissors4": [ "boscissors6" ], "boscissors3": [ "boscissors5" ], "boscissors2": [ "boscissors4" ], "boscissors1": [ "boscissors3" ], "boscissors0": [ "boscissors2", "boscissors1", "boscissors0" ], "soscissors5": [ "soscissors7" ], "soscissors4": [ "soscissors6" ], "soscissors3": [ "soscissors5" ], "soscissors2": [ "soscissors4" ], "soscissors1": [ "soscissors3" ], "soscissors0": [ "soscissors2", "soscissors1", "soscissors0" ], "goscissors5": [ "goscissors7" ], "goscissors4": [ "goscissors6" ], "goscissors3": [ "goscissors5" ], "goscissors2": [ "goscissors4" ], "goscissors1": [ "goscissors3" ], "goscissors0": [ "goscissors2", "goscissors1", "goscissors0" ],
+				"rock damage": { "violetscissors5": [ "violetscissors7" ], "violetscissors4": [ "violetscissors6" ], "violetscissors3": [ "violetscissors5" ], "violetscissors2": [ "violetscissors4" ], "violetscissors1": [ "violetscissors3" ], "violetscissors0": [ "violetscissors2", "violetscissors1", "violetscissors0" ], "greenscissors5": [ "greenscissors7" ], "greenscissors4": [ "greenscissors6" ], "greenscissors3": [ "greenscissors5" ], "greenscissors2": [ "greenscissors4" ], "greenscissors1": [ "greenscissors3" ], "greenscissors0": [ "greenscissors2", "greenscissors1", "greenscissors0" ], "rwscissors5": [ "rwscissors7" ], "rwscissors4": [ "rwscissors6" ], "rwscissors3": [ "rwscissors5" ], "rwscissors2": [ "rwscissors4" ], "rwscissors1": [ "rwscissors3" ], "rwscissors0": [ "rwscissors2", "rwscissors1", "rwscissors0" ], "swscissors5": [ "swscissors7" ], "swscissors4": [ "swscissors6" ], "swscissors3": [ "swscissors5" ], "swscissors2": [ "swscissors4" ], "swscissors1": [ "swscissors3" ], "swscissors0": [ "swscissors2", "swscissors1", "swscissors0" ], "owscissors5": [ "owscissors7" ], "owscissors4": [ "owscissors6" ], "owscissors3": [ "owscissors5" ], "owscissors2": [ "owscissors4" ], "owscissors1": [ "owscissors3" ], "owscissors0": [ "owscissors2", "owscissors1", "owscissors0" ], "ywscissors5": [ "ywscissors7" ], "ywscissors4": [ "ywscissors6" ], "ywscissors3": [ "ywscissors5" ], "ywscissors2": [ "ywscissors4" ], "ywscissors1": [ "ywscissors3" ], "ywscissors0": [ "ywscissors2", "ywscissors1", "ywscissors0" ], "bcscissors5": [ "bcscissors7" ], "bcscissors4": [ "bcscissors6" ], "bcscissors3": [ "bcscissors5" ], "bcscissors2": [ "bcscissors4" ], "bcscissors1": [ "bcscissors3" ], "bcscissors0": [ "bcscissors2", "bcscissors1", "bcscissors0" ], "gcscissors5": [ "gcscissors7" ], "gcscissors4": [ "gcscissors6" ], "gcscissors3": [ "gcscissors5" ], "gcscissors2": [ "gcscissors4" ], "gcscissors1": [ "gcscissors3" ], "gcscissors0": [ "gcscissors2", "gcscissors1", "gcscissors0" ], "pcscissors5": [ "pcscissors7" ], "pcscissors4": [ "pcscissors6" ], "pcscissors3": [ "pcscissors5" ], "pcscissors2": [ "pcscissors4" ], "pcscissors1": [ "pcscissors3" ], "pcscissors0": [ "pcscissors2", "pcscissors1", "pcscissors0" ], "mcscissors5": [ "mcscissors7" ], "mcscissors4": [ "mcscissors6" ], "mcscissors3": [ "mcscissors5" ], "mcscissors2": [ "mcscissors4" ], "mcscissors1": [ "mcscissors3" ], "mcscissors0": [ "mcscissors2", "mcscissors1", "mcscissors0" ], "coscissors5": [ "coscissors7" ], "coscissors4": [ "coscissors6" ], "coscissors3": [ "coscissors5" ], "coscissors2": [ "coscissors4" ], "coscissors1": [ "coscissors3" ], "coscissors0": [ "coscissors2", "coscissors1", "coscissors0" ], "boscissors5": [ "boscissors7" ], "boscissors4": [ "boscissors6" ], "boscissors3": [ "boscissors5" ], "boscissors2": [ "boscissors4" ], "boscissors1": [ "boscissors3" ], "boscissors0": [ "boscissors2", "boscissors1", "boscissors0" ], "soscissors5": [ "soscissors7" ], "soscissors4": [ "soscissors6" ], "soscissors3": [ "soscissors5" ], "soscissors2": [ "soscissors4" ], "soscissors1": [ "soscissors3" ], "soscissors0": [ "soscissors2", "soscissors1", "soscissors0" ], "goscissors5": [ "goscissors7" ], "goscissors4": [ "goscissors6" ], "goscissors3": [ "goscissors5" ], "goscissors2": [ "goscissors4" ], "goscissors1": [ "goscissors3" ], "goscissors0": [ "goscissors2", "goscissors1", "goscissors0" ],
 								  "vvgun5": [ "vvgun7" ], "vvgun4": [ "vvgun6" ], "vvgun3": [ "vvgun5" ], "vvgun2": [ "vvgun4" ], "vvgun1": [ "vvgun3" ], "vvgun0": [ "vvgun2", "vvgun1", "vvgun0" ],
 								  "rwhand5": [ "rwhand7" ], "rwhand4": [ "rwhand6" ], "rwhand3": [ "rwhand5" ], "rwhand2": [ "rwhand4" ], "rwhand1": [ "rwhand3" ], "rwhand0": [ "rwhand2", "rwhand1", "rwhand0" ], "swhand5": [ "swhand7" ], "swhand4": [ "swhand6" ], "swhand3": [ "swhand5" ], "swhand2": [ "swhand4" ], "swhand1": [ "swhand3" ], "swhand0": [ "swhand2", "swhand1", "swhand0" ], "owhand5": [ "owhand7" ], "owhand4": [ "owhand6" ], "owhand3": [ "owhand5" ], "owhand2": [ "owhand4" ], "owhand1": [ "owhand3" ], "owhand0": [ "owhand2", "owhand1", "owhand0" ], "ywhand5": [ "ywhand7" ], "ywhand4": [ "ywhand6" ], "ywhand3": [ "ywhand5" ], "ywhand2": [ "ywhand4" ], "ywhand1": [ "ywhand3" ], "ywhand0": [ "ywhand2", "ywhand1", "ywhand0" ], "bchand5": [ "bchand7" ], "bchand4": [ "bchand6" ], "bchand3": [ "bchand5" ], "bchand2": [ "bchand4" ], "bchand1": [ "bchand3" ], "bchand0": [ "bchand2", "bchand1", "bchand0" ], "gchand5": [ "gchand7" ], "gchand4": [ "gchand6" ], "gchand3": [ "gchand5" ], "gchand2": [ "gchand4" ], "gchand1": [ "gchand3" ], "gchand0": [ "gchand2", "gchand1", "gchand0" ], "pchand5": [ "pchand7" ], "pchand4": [ "pchand6" ], "pchand3": [ "pchand5" ], "pchand2": [ "pchand4" ], "pchand1": [ "pchand3" ], "pchand0": [ "pchand2", "pchand1", "pchand0" ], "mchand5": [ "mchand7" ], "mchand4": [ "mchand6" ], "mchand3": [ "mchand5" ], "mchand2": [ "mchand4" ], "mchand1": [ "mchand3" ], "mchand0": [ "mchand2", "mchand1", "mchand0" ], "cohand5": [ "cohand7" ], "cohand4": [ "cohand6" ], "cohand3": [ "cohand5" ], "cohand2": [ "cohand4" ], "cohand1": [ "cohand3" ], "cohand0": [ "cohand2", "cohand1", "cohand0" ], "bohand5": [ "bohand7" ], "bohand4": [ "bohand6" ], "bohand3": [ "bohand5" ], "bohand2": [ "bohand4" ], "bohand1": [ "bohand3" ], "bohand0": [ "bohand2", "bohand1", "bohand0" ], "sohand5": [ "sohand7" ], "sohand4": [ "sohand6" ], "sohand3": [ "sohand5" ], "sohand2": [ "sohand4" ], "sohand1": [ "sohand3" ], "sohand0": [ "sohand2", "sohand1", "sohand0" ], "gohand5": [ "gohand7" ], "gohand4": [ "gohand6" ], "gohand3": [ "gohand5" ], "gohand2": [ "gohand4" ], "gohand1": [ "gohand3" ], "gohand0": [ "gohand2", "gohand1", "gohand0" ],
-								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ],
-								  "rwrock6": [ "rwrock7" ], "rwrock5": [ "rwrock6" ], "rwrock4": [ "rwrock5" ], "rwrock3": [ "rwrock4" ], "rwrock2": [ "rwrock3" ], "rwrock1": [ "rwrock2"], "rwrock0": [ "rwrock1", "rwrock0" ], "swrock6": [ "swrock7" ], "swrock5": [ "swrock6" ], "swrock4": [ "swrock5" ], "swrock3": [ "swrock4" ], "swrock2": [ "swrock3" ], "swrock1": [ "swrock2"], "swrock0": [ "swrock1", "swrock0" ], "owrock6": [ "owrock7" ], "owrock5": [ "owrock6" ], "owrock4": [ "owrock5" ], "owrock3": [ "owrock4" ], "owrock2": [ "owrock3" ], "owrock1": [ "owrock2"], "owrock0": [ "owrock1", "owrock0" ], "ywrock6": [ "ywrock7" ], "ywrock5": [ "ywrock6" ], "ywrock4": [ "ywrock5" ], "ywrock3": [ "ywrock4" ], "ywrock2": [ "ywrock3" ], "ywrock1": [ "ywrock2"], "ywrock0": [ "ywrock1", "ywrock0" ], "bcrock6": [ "bcrock7" ], "bcrock5": [ "bcrock6" ], "bcrock4": [ "bcrock5" ], "bcrock3": [ "bcrock4" ], "bcrock2": [ "bcrock3" ], "bcrock1": [ "bcrock2"], "bcrock0": [ "bcrock1", "bcrock0" ], "gcrock6": [ "gcrock7" ], "gcrock5": [ "gcrock6" ], "gcrock4": [ "gcrock5" ], "gcrock3": [ "gcrock4" ], "gcrock2": [ "gcrock3" ], "gcrock1": [ "gcrock2"], "gcrock0": [ "gcrock1", "gcrock0" ], "pcrock6": [ "pcrock7" ], "pcrock5": [ "pcrock6" ], "pcrock4": [ "pcrock5" ], "pcrock3": [ "pcrock4" ], "pcrock2": [ "pcrock3" ], "pcrock1": [ "pcrock2"], "pcrock0": [ "pcrock1", "pcrock0" ], "mcrock6": [ "mcrock7" ], "mcrock5": [ "mcrock6" ], "mcrock4": [ "mcrock5" ], "mcrock3": [ "mcrock4" ], "mcrock2": [ "mcrock3" ], "mcrock1": [ "mcrock2"], "mcrock0": [ "mcrock1", "mcrock0" ], "corock6": [ "corock7" ], "corock5": [ "corock6" ], "corock4": [ "corock5" ], "corock3": [ "corock4" ], "corock2": [ "corock3" ], "corock1": [ "corock2"], "corock0": [ "corock1", "corock0" ], "borock6": [ "borock7" ], "borock5": [ "borock6" ], "borock4": [ "borock5" ], "borock3": [ "borock4" ], "borock2": [ "borock3" ], "borock1": [ "borock2"], "borock0": [ "borock1", "borock0" ], "sorock6": [ "sorock7" ], "sorock5": [ "sorock6" ], "sorock4": [ "sorock5" ], "sorock3": [ "sorock4" ], "sorock2": [ "sorock3" ], "sorock1": [ "sorock2"], "sorock0": [ "sorock1", "sorock0" ], "gorock6": [ "gorock7" ], "gorock5": [ "gorock6" ], "gorock4": [ "gorock5" ], "gorock3": [ "gorock4" ], "gorock2": [ "gorock3" ], "gorock1": [ "gorock2"], "gorock0": [ "gorock1", "gorock0" ]
+								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ], "violethand5": [ "violethand7", "violethand7x" ], "violethand4": [ "violethand6", "violethand6x" ], "violethand3": [ "violethand5", "violethand5" ], "violethand2": [ "violethand4", "violethand4x"], "violethand1": [ "violethand3", "violethand3" ], "violethand0": [ "violethand2", "violethand1", "violethand0", "violethand2x", "violethand1x"], "greenhand5": [ "greenhand7", "greenhand7x" ], "greenhand4": [ "greenhand6", "greenhand6x" ], "greenhand3": [ "greenhand5", "greenhand5" ], "greenhand2": [ "greenhand4", "greenhand4x"], "greenhand1": [ "greenhand3", "greenhand3" ], "greenhand0": [ "greenhand2", "greenhand1", "greenhand0", "greenhand2x", "greenhand1x"],
+								  "violetrock6": [ "violetrock7" ], "violetrock5": [ "violetrock6" ], "violetrock4": [ "violetrock5" ], "violetrock3": [ "violetrock4" ], "violetrock2": [ "violetrock3" ], "violetrock1": [ "violetrock2"], "violetrock0": [ "violetrock1", "violetrock0" ], "greenrock6": [ "greenrock7" ], "greenrock5": [ "greenrock6" ], "greenrock4": [ "greenrock5" ], "greenrock3": [ "greenrock4" ], "greenrock2": [ "greenrock3" ], "greenrock1": [ "greenrock2"], "greenrock0": [ "greenrock1", "greenrock0" ], "rwrock6": [ "rwrock7" ], "rwrock5": [ "rwrock6" ], "rwrock4": [ "rwrock5" ], "rwrock3": [ "rwrock4" ], "rwrock2": [ "rwrock3" ], "rwrock1": [ "rwrock2"], "rwrock0": [ "rwrock1", "rwrock0" ], "swrock6": [ "swrock7" ], "swrock5": [ "swrock6" ], "swrock4": [ "swrock5" ], "swrock3": [ "swrock4" ], "swrock2": [ "swrock3" ], "swrock1": [ "swrock2"], "swrock0": [ "swrock1", "swrock0" ], "owrock6": [ "owrock7" ], "owrock5": [ "owrock6" ], "owrock4": [ "owrock5" ], "owrock3": [ "owrock4" ], "owrock2": [ "owrock3" ], "owrock1": [ "owrock2"], "owrock0": [ "owrock1", "owrock0" ], "ywrock6": [ "ywrock7" ], "ywrock5": [ "ywrock6" ], "ywrock4": [ "ywrock5" ], "ywrock3": [ "ywrock4" ], "ywrock2": [ "ywrock3" ], "ywrock1": [ "ywrock2"], "ywrock0": [ "ywrock1", "ywrock0" ], "bcrock6": [ "bcrock7" ], "bcrock5": [ "bcrock6" ], "bcrock4": [ "bcrock5" ], "bcrock3": [ "bcrock4" ], "bcrock2": [ "bcrock3" ], "bcrock1": [ "bcrock2"], "bcrock0": [ "bcrock1", "bcrock0" ], "gcrock6": [ "gcrock7" ], "gcrock5": [ "gcrock6" ], "gcrock4": [ "gcrock5" ], "gcrock3": [ "gcrock4" ], "gcrock2": [ "gcrock3" ], "gcrock1": [ "gcrock2"], "gcrock0": [ "gcrock1", "gcrock0" ], "pcrock6": [ "pcrock7" ], "pcrock5": [ "pcrock6" ], "pcrock4": [ "pcrock5" ], "pcrock3": [ "pcrock4" ], "pcrock2": [ "pcrock3" ], "pcrock1": [ "pcrock2"], "pcrock0": [ "pcrock1", "pcrock0" ], "mcrock6": [ "mcrock7" ], "mcrock5": [ "mcrock6" ], "mcrock4": [ "mcrock5" ], "mcrock3": [ "mcrock4" ], "mcrock2": [ "mcrock3" ], "mcrock1": [ "mcrock2"], "mcrock0": [ "mcrock1", "mcrock0" ], "corock6": [ "corock7" ], "corock5": [ "corock6" ], "corock4": [ "corock5" ], "corock3": [ "corock4" ], "corock2": [ "corock3" ], "corock1": [ "corock2"], "corock0": [ "corock1", "corock0" ], "borock6": [ "borock7" ], "borock5": [ "borock6" ], "borock4": [ "borock5" ], "borock3": [ "borock4" ], "borock2": [ "borock3" ], "borock1": [ "borock2"], "borock0": [ "borock1", "borock0" ], "sorock6": [ "sorock7" ], "sorock5": [ "sorock6" ], "sorock4": [ "sorock5" ], "sorock3": [ "sorock4" ], "sorock2": [ "sorock3" ], "sorock1": [ "sorock2"], "sorock0": [ "sorock1", "sorock0" ], "gorock6": [ "gorock7" ], "gorock5": [ "gorock6" ], "gorock4": [ "gorock5" ], "gorock3": [ "gorock4" ], "gorock2": [ "gorock3" ], "gorock1": [ "gorock2"], "gorock0": [ "gorock1", "gorock0" ]
 								},
 				"team rswarm": [
 								"rwhand0", "rwhand1", "rwhand2", "rwhand3", "rwhand4", "rwhand5", "rwhand6", "rwhand7", "rwscissors0", "rwscissors1", "rwscissors2", "rwscissors3", "rwscissors4", "rwscissors5", "rwscissors6", "rwscissors7", "rwpaper0", "rwpaper1", "rwpaper2", "rwpaper3", "rwpaper4", "rwpaper5", "rwpaper6", "rwpaper7", "rwrock0", "rwrock1", "rwrock2", "rwrock3", "rwrock4", "rwrock5", "rwrock6", "rwrock7",
@@ -134,6 +144,9 @@
 								"sohand0", "sohand1", "sohand2", "sohand3", "sohand4", "sohand5", "sohand6", "sohand7", "soscissors0", "soscissors1", "soscissors2", "soscissors3", "soscissors4", "soscissors5", "soscissors6", "soscissors7", "sopaper0", "sopaper1", "sopaper2", "sopaper3", "sopaper4", "sopaper5", "sopaper6", "sopaper7", "sorock0", "sorock1", "sorock2", "sorock3", "sorock4", "sorock5", "sorock6", "sorock7"
 							   ],
 				"death msg": "You lost all your HP and died!",
+				"generalhand help": "You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player.",
+				"violethand help": "Your team have more Health Points then the other teams but you are less numerous and know your teammates. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"greenhand help": "Your team have less Health Points then the other teams but you are more numerous. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"rwhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"swhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"ywhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
@@ -146,6 +159,8 @@
 				"bohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"sohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"gohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"violethand info": "They know all their partners and have more health points then the other hands, but they are less numerous. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
+				"greenhand info": "They don't know any of their partners and have less health points then the other hands, but they are more numerous. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
 				"rwhand info": "Knows one of the Red Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
 				"swhand info": "Knows one of the Red Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
 				"ywhand info": "Knows one of the Red Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
@@ -165,8 +180,8 @@
 				"rock info": "",
 				"paper help": "",
 				"paper info": "",
-				"vvhand help": "Infused with everything dark and light, you are the Gray Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Also, you cannot use /gun back-to-back nor can you use /shield back-to-back. Remember that you can TeamTalk with your partners with /tt. ",
-				"vvhand info": "Can use /Gun (instakill) or /Shield (protect himself like if they are resistent to that type of attack) during the night but both of them needs to wait 2 turns before it can be used again. Receives 2 points of damage as if weak to every type. Sided with Special Hands.",
+				"vvhand help": "Infused with everything dark and light, you are the Gray Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Your vote power is 2. Remember that you can TeamTalk with your partners with /tt. ",
+				"vvhand info": "Can use /Gun (instakill) or /Shield (protect himself like if they are resistent to that type of attack) during the night. Receives 2 points of damage as if weak to every type. Their vote power is 2. Sided with Special Hands.",
 				"gun help": "",
 				"gun info": "",
 				"shield help": "",
@@ -9716,6 +9731,1795 @@
                 "night": "variable:rock attack"
             }
         },
+        {   "role": "greenhand0",
+            "translation": "Green Hand",
+			"help": "variable:generalhand help",
+            "info": "variable:greenhand info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": {
+
+						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors0" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock0" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper0" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand1",
+            "translation": "Green Hand [1]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors1" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock1" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper1" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand2",
+            "translation": "Green Hand [2]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors2" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock2" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper2" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand3",
+            "translation": "Green Hand [3]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors3" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock3" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper3" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand4",
+            "translation": "Green Hand [4]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors4" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock4" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper4" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand5",
+            "translation": "Green Hand [5]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors5" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock5" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper5" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand6",
+            "translation": "Green Hand [6]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors6" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock6" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper6" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand7",
+            "translation": "Green Hand [7]",
+			"hide": true,
+			"help": "variable:generalhand help",
+            "info": "variable:greenhand info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors7" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock7" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper7" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand1x",
+            "translation": "Green Hand [1]",
+			"help": "variable:greenhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors1" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock1" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper1" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand2x",
+            "translation": "Green Hand [2]",
+			"help": "variable:greenhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors2" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock2" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper2" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand3x",
+            "translation": "Green Hand [3]",
+			"help": "variable:greenhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors3" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock3" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper3" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand4x",
+            "translation": "Green Hand [4]",
+			"help": "variable:greenhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors4" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock4" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper4" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand5x",
+            "translation": "Green Hand [5]",
+			"help": "variable:greenhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors5" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock5" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper5" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand6x",
+            "translation": "Green Hand [6]",
+			"help": "variable:greenhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors6" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock6" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper6" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenhand7x",
+            "translation": "Green Hand [7]",
+			"hide": true,
+			"help": "variable:greenhand help",
+            "info": "variable:greenhand info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": {
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenscissors7" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenrock7" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "greenpaper7" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "greenpaper0",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenpaper1",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenpaper2",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenpaper3",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenpaper4",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenpaper5",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenpaper6",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenpaper7",
+            "translation": "Green Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "greenscissors0",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenscissors1",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenscissors2",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenscissors3",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenscissors4",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenscissors5",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenscissors6",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenscissors7",
+            "translation": "Green Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "greenrock0",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "greenrock1",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "greenrock2",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "greenrock3",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "greenrock4",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "greenrock5",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "greenrock6",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "greenrock7",
+            "translation": "Green Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "greenhand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violethand0",
+            "translation": "Violet Hand",
+			"help": "variable:generalhand help",
+            "info": "variable:violethand info",
+            "side": "violet",
+            "help2": "You have 0HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors0" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock0" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper0" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand1",
+            "translation": "Violet Hand [1]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 1HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors1" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock1" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper1" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand2",
+            "translation": "Violet Hand [2]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 2HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors2" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock2" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper2" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand3",
+            "translation": "Violet Hand [3]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 3HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors3" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock3" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper3" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand4",
+            "translation": "Violet Hand [4]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 4HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors4" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock4" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper4" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand5",
+            "translation": "Violet Hand [5]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 5HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors5" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock5" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper5" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand6",
+            "translation": "Violet Hand [6]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 6HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors6" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock6" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper6" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand7",
+            "translation": "Violet Hand [7]",
+			"hide": true,
+			"help": "variable:generalhand help",
+            "info": "variable:violethand info",
+            "side": "violet",
+            "help2": "You have 7HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors7" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock7" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper7" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand1x",
+            "translation": "Violet Hand [1]",
+			"help": "variable:violethand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 1HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors1" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock1" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper1" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand2x",
+            "translation": "Violet Hand [2]",
+			"help": "variable:violethand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 2HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors2" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock2" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper2" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand3x",
+            "translation": "Violet Hand [3]",
+			"help": "variable:violethand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 3HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors3" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock3" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper3" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand4x",
+            "translation": "Violet Hand [4]",
+			"help": "variable:violethand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 4HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors4" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock4" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper4" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand5x",
+            "translation": "Violet Hand [5]",
+			"help": "variable:violethand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 5HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors5" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock5" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper5" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand6x",
+            "translation": "Violet Hand [6]",
+			"help": "variable:violethand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "violet",
+            "help2": "You have 6HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors6" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock6" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper6" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violethand7x",
+            "translation": "Violet Hand [7]",
+			"hide": true,
+			"help": "variable:violethand help",
+            "info": "variable:violethand info",
+            "side": "violet",
+            "help2": "You have 7HP!",
+            "actions": {
+						"teamTalk": true,
+						"startup": "team-reveal-with-roles",
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetscissors7" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetrock7" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButTeam", "broadcast": "team", "canCopy": "*","copyfailmsg": "","copyAs": "violetpaper7" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "violetpaper0",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 0HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetpaper1",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 1HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetpaper2",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 2HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetpaper3",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 3HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetpaper4",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 4HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetpaper5",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 5HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetpaper6",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 6HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetpaper7",
+            "translation": "Violet Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "violet",
+            "help2": "You have 7HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "violetscissors0",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 0HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetscissors1",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 1HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetscissors2",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 2HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetscissors3",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 3HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetscissors4",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 4HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetscissors5",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 5HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetscissors6",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 6HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetscissors7",
+            "translation": "Violet Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "violet",
+            "help2": "You have 7HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "violetrock0",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 0HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violetrock1",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 1HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violetrock2",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 2HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violetrock3",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 3HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violetrock4",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 4HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violetrock5",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 5HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violetrock6",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 6HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "violetrock7",
+            "translation": "Violet Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "violet",
+            "help2": "You have 7HP!",
+            "actions": {
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "violethand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
         {   "role": "vvhand0",
             "translation": "Gray Hand",
 			"help": "variable:vvhand help",
@@ -9727,10 +11531,10 @@
 						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
-                    "gun": {"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+                    "gun": {"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun0","cancel": [ "shield" ]
                     },
-                    "shield": {"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+                    "shield": {"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield0","cancel": [ "gun" ]
                     }
                 }
@@ -9749,11 +11553,11 @@
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun0","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield0","cancel": [ "gun" ]
                     }
                 }
@@ -9771,11 +11575,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun1","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield1","cancel": [ "gun" ]
                     }
                 }
@@ -9793,11 +11597,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun1","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield1","cancel": [ "gun" ]
                     }
                 }
@@ -9815,11 +11619,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun2","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield2","cancel": [ "gun" ]
                     }
                 }
@@ -9837,11 +11641,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun2","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield2","cancel": [ "gun" ]
                     }
                 }
@@ -9859,11 +11663,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun3","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield3","cancel": [ "gun" ]
                     }
                 }
@@ -9881,11 +11685,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun3","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield3","cancel": [ "gun" ]
                     }
                 }
@@ -9903,11 +11707,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun4","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield4","cancel": [ "gun" ]
                     }
                 }
@@ -9925,11 +11729,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun4","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield4","cancel": [ "gun" ]
                     }
                 }
@@ -9947,11 +11751,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun5","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield5","cancel": [ "gun" ]
                     }
                 }
@@ -9969,11 +11773,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun5","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield5","cancel": [ "gun" ]
                     }
                 }
@@ -9991,11 +11795,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun6","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield6","cancel": [ "gun" ]
                     }
                 }
@@ -10013,11 +11817,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun6","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield6","cancel": [ "gun" ]
                     }
                 }
@@ -10035,11 +11839,11 @@
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
                     "gun": {
-					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2,
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun7","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield7","cancel": [ "gun" ]
                     }
                 }
@@ -10056,10 +11860,10 @@
 						"startup": "team-reveal-with-roles", "teamTalk": true,
 				"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "night": {
-                    "gun": {"command": [ "copy" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentCopy": true, "recharge": 2, "limit": 1,
+                    "gun": {"command": [ "copy" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun7","cancel": [ "shield" ]
                     },
-                    "shield": {"command": [ "convert" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2, "limit": 1,
+                    "shield": {"command": [ "convert" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield7","cancel": [ "gun" ]
                     }
                 }
@@ -10411,87 +12215,87 @@
         "cohand3"
     ],
     "roles2": [
-        "bchand3",
-        "mchand3",
-        "rwhand3",
-		"owhand3"
+        "bchand4",
+        "mchand4",
+        "rwhand4",
+		"owhand4"
     ],
     "roles3": [
-        "rwhand3",
-		"owhand3",
-        "bchand3",
-        "mchand3",
-		"sohand6"
+        "greenhand3x",
+		"greenhand3x",
+        "greenhand3x",
+        "violethand5x",
+		"vvhand3x"
     ],
     "roles4": [
-        "rwhand5",
-		"owhand5",
-        "bchand5",
-        "mchand5",
-		"cohand5",
-		"sohand5",
-		"vvhand5x"
+        "greenhand3x",
+		"greenhand3x",
+        "greenhand3x",
+        "violethand5x",
+        "violethand5x",
+		"vvhand4x",
+		"greenhand3x"
     ],
     "roles5": [
-        "rwhand5",
-        "bchand5",
-		"owhand5",
-		"ywhand5",
-        "gchand5",
-		"swhand5",
-		"pchand5",
-		"mchand5"
+        "greenhand3x",
+		"greenhand3x",
+        "greenhand3x",
+		"greenhand3x",
+        "violethand6x",
+        "violethand6x",
+		"vvhand4x",
+		"greenhand2x"
     ],
     "roles6": [
-        "rwhand5",
-		"swhand5",
-		"owhand5",
-        "bchand5",
-        "gchand5",
-		"pchand5",
-		"cohand5",
-		"bohand5",
-		"gohand5"
+        "greenhand3x",
+		"greenhand3x",
+        "greenhand3x",
+		"greenhand3x",
+		"greenhand3x",
+        "violethand5x",
+        "violethand5x",
+		"violethand5x",
+		"vvhand5x"
     ],
     "roles7": [
-        "rwhand5",
-		"swhand5",
-		"owhand5",
-        "bchand5",
-        "gchand5",
-		"pchand5",
-		"cohand5",
-		"bohand5",
-		"gohand5",
-		"vvhand4x"
+        "greenhand3x",
+        "greenhand3x",
+		"greenhand3x",
+        "greenhand3x",
+		"greenhand3x",
+		"greenhand3x",
+        "violethand6x",
+        "violethand6x",
+		"violethand6x",
+		"vvhand5x"
     ],
     "roles8": [
-        "rwhand5",
-		"swhand5",
-		"owhand5",
-        "bchand5",
-        "gchand5",
-		"pchand5",
-		"cohand5",
-		"bohand5",
-		"gohand5",
+        "greenhand3x",
+        "greenhand3x",
+		"greenhand3x",
+        "greenhand3x",
+		"greenhand3x",
+		"greenhand3x",
+        "violethand6x",
+        "violethand6x",
+		"violethand6x",
 		"vvhand3x",
 		"vvhand3x"
     ],
     "roles9": [
-        "rwhand5",
-		"swhand5",
-		"owhand5",
-		"ywhand5",
-        "bchand5",
-        "gchand5",
-		"pchand5",
-		"mchand5",
-		"cohand5",
-		"bohand5",
-		"gohand5",
-		"sohand5",
-		"vvhand5x"
+        "rwhand4",
+		"swhand4",
+		"owhand4",
+		"ywhand4",
+        "bchand4",
+        "gchand4",
+		"pchand4",
+		"mchand4",
+		"cohand4",
+		"bohand4",
+		"gohand4",
+		"sohand4",
+		"vvhand7x"
     ],
     "changelog": {
         "February 2014": "Theme created."
