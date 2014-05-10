@@ -180,8 +180,8 @@
 				"rock info": "",
 				"paper help": "",
 				"paper info": "",
-				"vvhand help": "Infused with everything dark and light, you are the Gray Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Your vote power is 2. Remember that you can TeamTalk with your partners with /tt. ",
-				"vvhand info": "Can use /Gun (instakill) or /Shield (protect himself like if they are resistent to that type of attack) during the night. Receives 2 points of damage as if weak to every type. Their vote power is 2. Sided with Special Hands.",
+				"vvhand help": "Infused with everything dark and light, you are the Gray Hand! These silly hands keep arguing about who is best at Rock-Paper-Scissors when you've been the king for ages. During the night, you may use one of two actions. /gun will instantly kill the target whereas /shield every 2 days will make you evade any hits. The only downside to you is that you take 2 points of damage regardless of what hits you, so you need to be careful. Your vote power is 2. Remember that you can TeamTalk with your partners with /tt. ",
+				"vvhand info": "Can use /Gun (instakill) or /Shield (protect himself like if they are resistent to that type of attack) during the night. /shield can be used only every 2 days. Receives 2 points of damage as if weak to every type. Their vote power is 2. Sided with Special Hands.",
 				"gun help": "",
 				"gun info": "",
 				"shield help": "",
@@ -11534,7 +11534,7 @@
                     "gun": {"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun0","cancel": [ "shield" ]
                     },
-                    "shield": {"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+                    "shield": {"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield0","cancel": [ "gun" ]
                     }
                 }
@@ -11557,7 +11557,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun0","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield0","cancel": [ "gun" ]
                     }
                 }
@@ -11579,7 +11579,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun1","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield1","cancel": [ "gun" ]
                     }
                 }
@@ -11601,7 +11601,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun1","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield1","cancel": [ "gun" ]
                     }
                 }
@@ -11623,7 +11623,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun2","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield2","cancel": [ "gun" ]
                     }
                 }
@@ -11645,7 +11645,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun2","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield2","cancel": [ "gun" ]
                     }
                 }
@@ -11667,7 +11667,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun3","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield3","cancel": [ "gun" ]
                     }
                 }
@@ -11689,7 +11689,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun3","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield3","cancel": [ "gun" ]
                     }
                 }
@@ -11711,7 +11711,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun4","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield4","cancel": [ "gun" ]
                     }
                 }
@@ -11733,7 +11733,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun4","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield4","cancel": [ "gun" ]
                     }
                 }
@@ -11755,7 +11755,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun5","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield5","cancel": [ "gun" ]
                     }
                 }
@@ -11777,7 +11777,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun5","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield5","cancel": [ "gun" ]
                     }
                 }
@@ -11799,7 +11799,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun6","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield6","cancel": [ "gun" ]
                     }
                 }
@@ -11821,7 +11821,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun6","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield6","cancel": [ "gun" ]
                     }
                 }
@@ -11843,7 +11843,7 @@
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun7","cancel": [ "shield" ]
                     },
                     "shield": {
-					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true,
+					"hide": true,"command": [ "convert" ],"priority": 0,"common": "Self","silent": true, "silentConvert": true, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield7","cancel": [ "gun" ]
                     }
                 }
@@ -11863,7 +11863,7 @@
                     "gun": {"command": [ "copy" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentCopy": true, "limit": 1,
 					"broadcast": "team","target": "AnyButTeam","canCopy": "*","copyfailmsg": "","copyAs": "vvgun7","cancel": [ "shield" ]
                     },
-                    "shield": {"command": [ "convert" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1,
+                    "shield": {"command": [ "convert" ], "hide": true, "priority": 0,"common": "Self","silent": true, "silentConvert": true, "limit": 1, "recharge": 2,
 					"broadcast": "team","target": "OnlySelf","newRole": "vvshield7","cancel": [ "gun" ]
                     }
                 }
@@ -11927,7 +11927,6 @@
                         "curseCount": 1
                     }
                 },
-						"convert": { "silent": true,"mode": "ignore"},
 						"dummy": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": "ignore"},
 						"dummy3": { "silent": true,"mode": "ignore"},
@@ -11950,7 +11949,6 @@
                         "curseCount": 1
                     }
                 },
-						"convert": { "silent": true,"mode": "ignore"},
 						"dummy": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": "ignore"},
 						"dummy3": { "silent": true,"mode": "ignore"},
@@ -11973,7 +11971,6 @@
                         "curseCount": 1
                     }
                 },
-						"convert": { "silent": true,"mode": "ignore"},
 						"dummy": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": "ignore"},
 						"dummy3": { "silent": true,"mode": "ignore"},
@@ -11996,7 +11993,6 @@
                         "curseCount": 1
                     }
                 },
-						"convert": { "silent": true,"mode": "ignore"},
 						"dummy": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": "ignore"},
 						"dummy3": { "silent": true,"mode": "ignore"},
@@ -12019,7 +12015,6 @@
                         "curseCount": 1
                     }
                 },
-						"convert": { "silent": true,"mode": "ignore"},
 						"dummy": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": "ignore"},
 						"dummy3": { "silent": true,"mode": "ignore"},
@@ -12042,7 +12037,6 @@
                         "curseCount": 1
                     }
                 },
-						"convert": { "silent": true,"mode": "ignore"},
 						"dummy": { "silent": true,"mode": "ignore"},
 						"dummy2": { "silent": true,"mode": "ignore"},
 						"dummy3": { "silent": true,"mode": "ignore"},
@@ -12224,16 +12218,16 @@
         "greenhand3x",
 		"greenhand3x",
         "greenhand3x",
-        "violethand5x",
+        "violethand4x",
 		"vvhand3x"
     ],
     "roles4": [
         "greenhand3x",
 		"greenhand3x",
         "greenhand3x",
-        "violethand5x",
-        "violethand5x",
-		"vvhand4x",
+        "violethand4x",
+        "violethand4x",
+		"vvhand3x",
 		"greenhand3x"
     ],
     "roles5": [
@@ -12241,10 +12235,10 @@
 		"greenhand3x",
         "greenhand3x",
 		"greenhand3x",
-        "violethand6x",
-        "violethand6x",
-		"vvhand4x",
-		"greenhand2x"
+        "violethand5x",
+        "violethand5x",
+		"vvhand3x",
+		"greenhand3x"
     ],
     "roles6": [
         "greenhand3x",
@@ -12252,10 +12246,10 @@
         "greenhand3x",
 		"greenhand3x",
 		"greenhand3x",
-        "violethand5x",
-        "violethand5x",
-		"violethand5x",
-		"vvhand5x"
+        "violethand4x",
+        "violethand4x",
+		"violethand4x",
+		"vvhand3x"
     ],
     "roles7": [
         "greenhand3x",
@@ -12264,10 +12258,10 @@
         "greenhand3x",
 		"greenhand3x",
 		"greenhand3x",
-        "violethand6x",
-        "violethand6x",
-		"violethand6x",
-		"vvhand5x"
+        "violethand5x",
+        "violethand5x",
+		"violethand5x",
+		"vvhand4x"
     ],
     "roles8": [
         "greenhand3x",
@@ -12276,11 +12270,11 @@
         "greenhand3x",
 		"greenhand3x",
 		"greenhand3x",
-        "violethand6x",
-        "violethand6x",
-		"violethand6x",
-		"vvhand3x",
-		"vvhand3x"
+        "violethand5x",
+        "violethand5x",
+		"violethand5x",
+		"vvhand2x",
+		"vvhand2x"
     ],
     "roles9": [
         "rwhand4",
