@@ -75,7 +75,10 @@
 								  "vvgun5": [ "vvgun7" ], "vvgun4": [ "vvgun6" ], "vvgun3": [ "vvgun5" ], "vvgun2": [ "vvgun4" ], "vvgun1": [ "vvgun3" ], "vvgun0": [ "vvgun2", "vvgun1", "vvgun0" ],
 								  "rwhand5": [ "rwhand7" ], "rwhand4": [ "rwhand6" ], "rwhand3": [ "rwhand5" ], "rwhand2": [ "rwhand4" ], "rwhand1": [ "rwhand3" ], "rwhand0": [ "rwhand2", "rwhand1", "rwhand0" ], "swhand5": [ "swhand7" ], "swhand4": [ "swhand6" ], "swhand3": [ "swhand5" ], "swhand2": [ "swhand4" ], "swhand1": [ "swhand3" ], "swhand0": [ "swhand2", "swhand1", "swhand0" ], "owhand5": [ "owhand7" ], "owhand4": [ "owhand6" ], "owhand3": [ "owhand5" ], "owhand2": [ "owhand4" ], "owhand1": [ "owhand3" ], "owhand0": [ "owhand2", "owhand1", "owhand0" ], "ywhand5": [ "ywhand7" ], "ywhand4": [ "ywhand6" ], "ywhand3": [ "ywhand5" ], "ywhand2": [ "ywhand4" ], "ywhand1": [ "ywhand3" ], "ywhand0": [ "ywhand2", "ywhand1", "ywhand0" ], "bchand5": [ "bchand7" ], "bchand4": [ "bchand6" ], "bchand3": [ "bchand5" ], "bchand2": [ "bchand4" ], "bchand1": [ "bchand3" ], "bchand0": [ "bchand2", "bchand1", "bchand0" ], "gchand5": [ "gchand7" ], "gchand4": [ "gchand6" ], "gchand3": [ "gchand5" ], "gchand2": [ "gchand4" ], "gchand1": [ "gchand3" ], "gchand0": [ "gchand2", "gchand1", "gchand0" ], "pchand5": [ "pchand7" ], "pchand4": [ "pchand6" ], "pchand3": [ "pchand5" ], "pchand2": [ "pchand4" ], "pchand1": [ "pchand3" ], "pchand0": [ "pchand2", "pchand1", "pchand0" ], "mchand5": [ "mchand7" ], "mchand4": [ "mchand6" ], "mchand3": [ "mchand5" ], "mchand2": [ "mchand4" ], "mchand1": [ "mchand3" ], "mchand0": [ "mchand2", "mchand1", "mchand0" ], "cohand5": [ "cohand7" ], "cohand4": [ "cohand6" ], "cohand3": [ "cohand5" ], "cohand2": [ "cohand4" ], "cohand1": [ "cohand3" ], "cohand0": [ "cohand2", "cohand1", "cohand0" ], "bohand5": [ "bohand7" ], "bohand4": [ "bohand6" ], "bohand3": [ "bohand5" ], "bohand2": [ "bohand4" ], "bohand1": [ "bohand3" ], "bohand0": [ "bohand2", "bohand1", "bohand0" ], "sohand5": [ "sohand7" ], "sohand4": [ "sohand6" ], "sohand3": [ "sohand5" ], "sohand2": [ "sohand4" ], "sohand1": [ "sohand3" ], "sohand0": [ "sohand2", "sohand1", "sohand0" ], "gohand5": [ "gohand7" ], "gohand4": [ "gohand6" ], "gohand3": [ "gohand5" ], "gohand2": [ "gohand4" ], "gohand1": [ "gohand3" ], "gohand0": [ "gohand2", "gohand1", "gohand0" ],
 								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5x" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3x" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ], "greenhand5": [ "greenhand7", "greenhand7x" ], "greenhand4": [ "greenhand6", "greenhand6x" ], "greenhand3": [ "greenhand5", "greenhand5x" ], "greenhand2": [ "greenhand4", "greenhand4x"], "greenhand1": [ "greenhand3", "greenhand3x" ], "greenhand0": [ "greenhand2", "greenhand1", "greenhand0", "greenhand2x", "greenhand1x"], "violethand5": [ "violethand7", "violethand7x" ], "violethand4": [ "violethand6", "violethand6x" ], "violethand3": [ "violethand5", "violethand5x" ], "violethand2": [ "violethand4", "violethand4x"], "violethand1": [ "violethand3", "violethand3x" ], "violethand0": [ "violethand2", "violethand1", "violethand0", "violethand2x", "violethand1x"],
-								  "violetpaper6": [ "violetpaper7" ], "violetpaper5": [ "violetpaper6" ], "violetpaper4": [ "violetpaper5" ], "violetpaper3": [ "violetpaper4" ], "violetpaper2": [ "violetpaper3" ], "violetpaper1": [ "violetpaper2"], "violetpaper0": [ "violetpaper1", "violetpaper0" ], "greenpaper6": [ "greenpaper7" ], "greenpaper5": [ "greenpaper6" ], "greenpaper4": [ "greenpaper5" ], "greenpaper3": [ "greenpaper4" ], "greenpaper2": [ "greenpaper3" ], "greenpaper1": [ "greenpaper2"], "greenpaper0": [ "greenpaper1", "greenpaper0" ], "rwpaper6": [ "rwpaper7" ], "rwpaper5": [ "rwpaper6" ], "rwpaper4": [ "rwpaper5" ], "rwpaper3": [ "rwpaper4" ], "rwpaper2": [ "rwpaper3" ], "rwpaper1": [ "rwpaper2"], "rwpaper0": [ "rwpaper1", "rwpaper0" ], "swpaper6": [ "swpaper7" ], "swpaper5": [ "swpaper6" ], "swpaper4": [ "swpaper5" ], "swpaper3": [ "swpaper4" ], "swpaper2": [ "swpaper3" ], "swpaper1": [ "swpaper2"], "swpaper0": [ "swpaper1", "swpaper0" ], "owpaper6": [ "owpaper7" ], "owpaper5": [ "owpaper6" ], "owpaper4": [ "owpaper5" ], "owpaper3": [ "owpaper4" ], "owpaper2": [ "owpaper3" ], "owpaper1": [ "owpaper2"], "owpaper0": [ "owpaper1", "owpaper0" ], "ywpaper6": [ "ywpaper7" ], "ywpaper5": [ "ywpaper6" ], "ywpaper4": [ "ywpaper5" ], "ywpaper3": [ "ywpaper4" ], "ywpaper2": [ "ywpaper3" ], "ywpaper1": [ "ywpaper2"], "ywpaper0": [ "ywpaper1", "ywpaper0" ], "bcpaper6": [ "bcpaper7" ], "bcpaper5": [ "bcpaper6" ], "bcpaper4": [ "bcpaper5" ], "bcpaper3": [ "bcpaper4" ], "bcpaper2": [ "bcpaper3" ], "bcpaper1": [ "bcpaper2"], "bcpaper0": [ "bcpaper1", "bcpaper0" ], "gcpaper6": [ "gcpaper7" ], "gcpaper5": [ "gcpaper6" ], "gcpaper4": [ "gcpaper5" ], "gcpaper3": [ "gcpaper4" ], "gcpaper2": [ "gcpaper3" ], "gcpaper1": [ "gcpaper2"], "gcpaper0": [ "gcpaper1", "gcpaper0" ], "pcpaper6": [ "pcpaper7" ], "pcpaper5": [ "pcpaper6" ], "pcpaper4": [ "pcpaper5" ], "pcpaper3": [ "pcpaper4" ], "pcpaper2": [ "pcpaper3" ], "pcpaper1": [ "pcpaper2"], "pcpaper0": [ "pcpaper1", "pcpaper0" ], "mcpaper6": [ "mcpaper7" ], "mcpaper5": [ "mcpaper6" ], "mcpaper4": [ "mcpaper5" ], "mcpaper3": [ "mcpaper4" ], "mcpaper2": [ "mcpaper3" ], "mcpaper1": [ "mcpaper2"], "mcpaper0": [ "mcpaper1", "mcpaper0" ], "copaper6": [ "copaper7" ], "copaper5": [ "copaper6" ], "copaper4": [ "copaper5" ], "copaper3": [ "copaper4" ], "copaper2": [ "copaper3" ], "copaper1": [ "copaper2"], "copaper0": [ "copaper1", "copaper0" ], "bopaper6": [ "bopaper7" ], "bopaper5": [ "bopaper6" ], "bopaper4": [ "bopaper5" ], "bopaper3": [ "bopaper4" ], "bopaper2": [ "bopaper3" ], "bopaper1": [ "bopaper2"], "bopaper0": [ "bopaper1", "bopaper0" ], "sopaper6": [ "sopaper7" ], "sopaper5": [ "sopaper6" ], "sopaper4": [ "sopaper5" ], "sopaper3": [ "sopaper4" ], "sopaper2": [ "sopaper3" ], "sopaper1": [ "sopaper2"], "sopaper0": [ "sopaper1", "sopaper0" ], "gopaper6": [ "gopaper7" ], "gopaper5": [ "gopaper6" ], "gopaper4": [ "gopaper5" ], "gopaper3": [ "gopaper4" ], "gopaper2": [ "gopaper3" ], "gopaper1": [ "gopaper2"], "gopaper0": [ "gopaper1", "gopaper0" ]
+								  "violetpaper6": [ "violetpaper7" ], "violetpaper5": [ "violetpaper6" ], "violetpaper4": [ "violetpaper5" ], "violetpaper3": [ "violetpaper4" ], "violetpaper2": [ "violetpaper3" ], "violetpaper1": [ "violetpaper2"], "violetpaper0": [ "violetpaper1", "violetpaper0" ], "greenpaper6": [ "greenpaper7" ], "greenpaper5": [ "greenpaper6" ], "greenpaper4": [ "greenpaper5" ], "greenpaper3": [ "greenpaper4" ], "greenpaper2": [ "greenpaper3" ], "greenpaper1": [ "greenpaper2"], "greenpaper0": [ "greenpaper1", "greenpaper0" ], "rwpaper6": [ "rwpaper7" ], "rwpaper5": [ "rwpaper6" ], "rwpaper4": [ "rwpaper5" ], "rwpaper3": [ "rwpaper4" ], "rwpaper2": [ "rwpaper3" ], "rwpaper1": [ "rwpaper2"], "rwpaper0": [ "rwpaper1", "rwpaper0" ], "swpaper6": [ "swpaper7" ], "swpaper5": [ "swpaper6" ], "swpaper4": [ "swpaper5" ], "swpaper3": [ "swpaper4" ], "swpaper2": [ "swpaper3" ], "swpaper1": [ "swpaper2"], "swpaper0": [ "swpaper1", "swpaper0" ], "owpaper6": [ "owpaper7" ], "owpaper5": [ "owpaper6" ], "owpaper4": [ "owpaper5" ], "owpaper3": [ "owpaper4" ], "owpaper2": [ "owpaper3" ], "owpaper1": [ "owpaper2"], "owpaper0": [ "owpaper1", "owpaper0" ], "ywpaper6": [ "ywpaper7" ], "ywpaper5": [ "ywpaper6" ], "ywpaper4": [ "ywpaper5" ], "ywpaper3": [ "ywpaper4" ], "ywpaper2": [ "ywpaper3" ], "ywpaper1": [ "ywpaper2"], "ywpaper0": [ "ywpaper1", "ywpaper0" ], "bcpaper6": [ "bcpaper7" ], "bcpaper5": [ "bcpaper6" ], "bcpaper4": [ "bcpaper5" ], "bcpaper3": [ "bcpaper4" ], "bcpaper2": [ "bcpaper3" ], "bcpaper1": [ "bcpaper2"], "bcpaper0": [ "bcpaper1", "bcpaper0" ], "gcpaper6": [ "gcpaper7" ], "gcpaper5": [ "gcpaper6" ], "gcpaper4": [ "gcpaper5" ], "gcpaper3": [ "gcpaper4" ], "gcpaper2": [ "gcpaper3" ], "gcpaper1": [ "gcpaper2"], "gcpaper0": [ "gcpaper1", "gcpaper0" ], "pcpaper6": [ "pcpaper7" ], "pcpaper5": [ "pcpaper6" ], "pcpaper4": [ "pcpaper5" ], "pcpaper3": [ "pcpaper4" ], "pcpaper2": [ "pcpaper3" ], "pcpaper1": [ "pcpaper2"], "pcpaper0": [ "pcpaper1", "pcpaper0" ], "mcpaper6": [ "mcpaper7" ], "mcpaper5": [ "mcpaper6" ], "mcpaper4": [ "mcpaper5" ], "mcpaper3": [ "mcpaper4" ], "mcpaper2": [ "mcpaper3" ], "mcpaper1": [ "mcpaper2"], "mcpaper0": [ "mcpaper1", "mcpaper0" ], "copaper6": [ "copaper7" ], "copaper5": [ "copaper6" ], "copaper4": [ "copaper5" ], "copaper3": [ "copaper4" ], "copaper2": [ "copaper3" ], "copaper1": [ "copaper2"], "copaper0": [ "copaper1", "copaper0" ], "bopaper6": [ "bopaper7" ], "bopaper5": [ "bopaper6" ], "bopaper4": [ "bopaper5" ], "bopaper3": [ "bopaper4" ], "bopaper2": [ "bopaper3" ], "bopaper1": [ "bopaper2"], "bopaper0": [ "bopaper1", "bopaper0" ], "sopaper6": [ "sopaper7" ], "sopaper5": [ "sopaper6" ], "sopaper4": [ "sopaper5" ], "sopaper3": [ "sopaper4" ], "sopaper2": [ "sopaper3" ], "sopaper1": [ "sopaper2"], "sopaper0": [ "sopaper1", "sopaper0" ], "gopaper6": [ "gopaper7" ], "gopaper5": [ "gopaper6" ], "gopaper4": [ "gopaper5" ], "gopaper3": [ "gopaper4" ], "gopaper2": [ "gopaper3" ], "gopaper1": [ "gopaper2"], "gopaper0": [ "gopaper1", "gopaper0" ],
+								  "emeraldrock5": [ "emeraldrock7" ], "emeraldrock4": [ "emeraldrock6" ], "emeraldrock3": [ "emeraldrock5" ], "emeraldrock2": [ "emeraldrock4" ], "emeraldrock1": [ "emeraldrock3" ], "emeraldrock0": [ "emeraldrock2", "emeraldrock1", "emeraldrock0" ],
+								  "emeraldhand5": [ "emeraldhand7", "emeraldhand7x" ], "emeraldhand4": [ "emeraldhand6", "emeraldhand6x" ], "emeraldhand3": [ "emeraldhand5", "emeraldhand5" ], "emeraldhand2": [ "emeraldhand4", "emeraldhand4x"], "emeraldhand1": [ "emeraldhand3", "emeraldhand3" ], "emeraldhand0": [ "emeraldhand2", "emeraldhand1", "emeraldhand0", "emeraldhand2x", "emeraldhand1x"],
+								  "emeraldpaper6": [ "emeraldpaper7" ], "emeraldpaper5": [ "emeraldpaper6" ], "emeraldpaper4": [ "emeraldpaper5" ], "emeraldpaper3": [ "emeraldpaper4" ], "emeraldpaper2": [ "emeraldpaper3" ], "emeraldpaper1": [ "emeraldpaper2"], "emeraldpaper0": [ "emeraldpaper1", "emeraldpaper0" ]
 								},
 				"scissors attack":{
                     "scissors": {
@@ -96,7 +99,10 @@
 								  "vvgun5": [ "vvgun7" ], "vvgun4": [ "vvgun6" ], "vvgun3": [ "vvgun5" ], "vvgun2": [ "vvgun4" ], "vvgun1": [ "vvgun3" ], "vvgun0": [ "vvgun2", "vvgun1", "vvgun0" ],
 								  "rwhand5": [ "rwhand7" ], "rwhand4": [ "rwhand6" ], "rwhand3": [ "rwhand5" ], "rwhand2": [ "rwhand4" ], "rwhand1": [ "rwhand3" ], "rwhand0": [ "rwhand2", "rwhand1", "rwhand0" ], "swhand5": [ "swhand7" ], "swhand4": [ "swhand6" ], "swhand3": [ "swhand5" ], "swhand2": [ "swhand4" ], "swhand1": [ "swhand3" ], "swhand0": [ "swhand2", "swhand1", "swhand0" ], "owhand5": [ "owhand7" ], "owhand4": [ "owhand6" ], "owhand3": [ "owhand5" ], "owhand2": [ "owhand4" ], "owhand1": [ "owhand3" ], "owhand0": [ "owhand2", "owhand1", "owhand0" ], "ywhand5": [ "ywhand7" ], "ywhand4": [ "ywhand6" ], "ywhand3": [ "ywhand5" ], "ywhand2": [ "ywhand4" ], "ywhand1": [ "ywhand3" ], "ywhand0": [ "ywhand2", "ywhand1", "ywhand0" ], "bchand5": [ "bchand7" ], "bchand4": [ "bchand6" ], "bchand3": [ "bchand5" ], "bchand2": [ "bchand4" ], "bchand1": [ "bchand3" ], "bchand0": [ "bchand2", "bchand1", "bchand0" ], "gchand5": [ "gchand7" ], "gchand4": [ "gchand6" ], "gchand3": [ "gchand5" ], "gchand2": [ "gchand4" ], "gchand1": [ "gchand3" ], "gchand0": [ "gchand2", "gchand1", "gchand0" ], "pchand5": [ "pchand7" ], "pchand4": [ "pchand6" ], "pchand3": [ "pchand5" ], "pchand2": [ "pchand4" ], "pchand1": [ "pchand3" ], "pchand0": [ "pchand2", "pchand1", "pchand0" ], "mchand5": [ "mchand7" ], "mchand4": [ "mchand6" ], "mchand3": [ "mchand5" ], "mchand2": [ "mchand4" ], "mchand1": [ "mchand3" ], "mchand0": [ "mchand2", "mchand1", "mchand0" ], "cohand5": [ "cohand7" ], "cohand4": [ "cohand6" ], "cohand3": [ "cohand5" ], "cohand2": [ "cohand4" ], "cohand1": [ "cohand3" ], "cohand0": [ "cohand2", "cohand1", "cohand0" ], "bohand5": [ "bohand7" ], "bohand4": [ "bohand6" ], "bohand3": [ "bohand5" ], "bohand2": [ "bohand4" ], "bohand1": [ "bohand3" ], "bohand0": [ "bohand2", "bohand1", "bohand0" ], "sohand5": [ "sohand7" ], "sohand4": [ "sohand6" ], "sohand3": [ "sohand5" ], "sohand2": [ "sohand4" ], "sohand1": [ "sohand3" ], "sohand0": [ "sohand2", "sohand1", "sohand0" ], "gohand5": [ "gohand7" ], "gohand4": [ "gohand6" ], "gohand3": [ "gohand5" ], "gohand2": [ "gohand4" ], "gohand1": [ "gohand3" ], "gohand0": [ "gohand2", "gohand1", "gohand0" ],
 								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5x" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3x" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ], "violethand5": [ "violethand7", "violethand7x" ], "violethand4": [ "violethand6", "violethand6x" ], "violethand3": [ "violethand5", "violethand5x" ], "violethand2": [ "violethand4", "violethand4x"], "violethand1": [ "violethand3", "violethand3x" ], "violethand0": [ "violethand2", "violethand1", "violethand0", "violethand2x", "violethand1x"], "greenhand5": [ "greenhand7", "greenhand7x" ], "greenhand4": [ "greenhand6", "greenhand6x" ], "greenhand3": [ "greenhand5", "greenhand5x" ], "greenhand2": [ "greenhand4", "greenhand4x"], "greenhand1": [ "greenhand3", "greenhand3x" ], "greenhand0": [ "greenhand2", "greenhand1", "greenhand0", "greenhand2x", "greenhand1x"],
-								  "violetscissors6": [ "violetscissors7" ], "violetscissors5": [ "violetscissors6" ], "violetscissors4": [ "violetscissors5" ], "violetscissors3": [ "violetscissors4" ], "violetscissors2": [ "violetscissors3" ], "violetscissors1": [ "violetscissors2"], "violetscissors0": [ "violetscissors1", "violetscissors0" ], "greenscissors6": [ "greenscissors7" ], "greenscissors5": [ "greenscissors6" ], "greenscissors4": [ "greenscissors5" ], "greenscissors3": [ "greenscissors4" ], "greenscissors2": [ "greenscissors3" ], "greenscissors1": [ "greenscissors2"], "greenscissors0": [ "greenscissors1", "greenscissors0" ], "rwscissors6": [ "rwscissors7" ], "rwscissors5": [ "rwscissors6" ], "rwscissors4": [ "rwscissors5" ], "rwscissors3": [ "rwscissors4" ], "rwscissors2": [ "rwscissors3" ], "rwscissors1": [ "rwscissors2"], "rwscissors0": [ "rwscissors1", "rwscissors0" ], "swscissors6": [ "swscissors7" ], "swscissors5": [ "swscissors6" ], "swscissors4": [ "swscissors5" ], "swscissors3": [ "swscissors4" ], "swscissors2": [ "swscissors3" ], "swscissors1": [ "swscissors2"], "swscissors0": [ "swscissors1", "swscissors0" ], "owscissors6": [ "owscissors7" ], "owscissors5": [ "owscissors6" ], "owscissors4": [ "owscissors5" ], "owscissors3": [ "owscissors4" ], "owscissors2": [ "owscissors3" ], "owscissors1": [ "owscissors2"], "owscissors0": [ "owscissors1", "owscissors0" ], "ywscissors6": [ "ywscissors7" ], "ywscissors5": [ "ywscissors6" ], "ywscissors4": [ "ywscissors5" ], "ywscissors3": [ "ywscissors4" ], "ywscissors2": [ "ywscissors3" ], "ywscissors1": [ "ywscissors2"], "ywscissors0": [ "ywscissors1", "ywscissors0" ], "bcscissors6": [ "bcscissors7" ], "bcscissors5": [ "bcscissors6" ], "bcscissors4": [ "bcscissors5" ], "bcscissors3": [ "bcscissors4" ], "bcscissors2": [ "bcscissors3" ], "bcscissors1": [ "bcscissors2"], "bcscissors0": [ "bcscissors1", "bcscissors0" ], "gcscissors6": [ "gcscissors7" ], "gcscissors5": [ "gcscissors6" ], "gcscissors4": [ "gcscissors5" ], "gcscissors3": [ "gcscissors4" ], "gcscissors2": [ "gcscissors3" ], "gcscissors1": [ "gcscissors2"], "gcscissors0": [ "gcscissors1", "gcscissors0" ], "pcscissors6": [ "pcscissors7" ], "pcscissors5": [ "pcscissors6" ], "pcscissors4": [ "pcscissors5" ], "pcscissors3": [ "pcscissors4" ], "pcscissors2": [ "pcscissors3" ], "pcscissors1": [ "pcscissors2"], "pcscissors0": [ "pcscissors1", "pcscissors0" ], "mcscissors6": [ "mcscissors7" ], "mcscissors5": [ "mcscissors6" ], "mcscissors4": [ "mcscissors5" ], "mcscissors3": [ "mcscissors4" ], "mcscissors2": [ "mcscissors3" ], "mcscissors1": [ "mcscissors2"], "mcscissors0": [ "mcscissors1", "mcscissors0" ], "coscissors6": [ "coscissors7" ], "coscissors5": [ "coscissors6" ], "coscissors4": [ "coscissors5" ], "coscissors3": [ "coscissors4" ], "coscissors2": [ "coscissors3" ], "coscissors1": [ "coscissors2"], "coscissors0": [ "coscissors1", "coscissors0" ], "boscissors6": [ "boscissors7" ], "boscissors5": [ "boscissors6" ], "boscissors4": [ "boscissors5" ], "boscissors3": [ "boscissors4" ], "boscissors2": [ "boscissors3" ], "boscissors1": [ "boscissors2"], "boscissors0": [ "boscissors1", "boscissors0" ], "soscissors6": [ "soscissors7" ], "soscissors5": [ "soscissors6" ], "soscissors4": [ "soscissors5" ], "soscissors3": [ "soscissors4" ], "soscissors2": [ "soscissors3" ], "soscissors1": [ "soscissors2"], "soscissors0": [ "soscissors1", "soscissors0" ], "goscissors6": [ "goscissors7" ], "goscissors5": [ "goscissors6" ], "goscissors4": [ "goscissors5" ], "goscissors3": [ "goscissors4" ], "goscissors2": [ "goscissors3" ], "goscissors1": [ "goscissors2"], "goscissors0": [ "goscissors1", "goscissors0" ]
+								  "violetscissors6": [ "violetscissors7" ], "violetscissors5": [ "violetscissors6" ], "violetscissors4": [ "violetscissors5" ], "violetscissors3": [ "violetscissors4" ], "violetscissors2": [ "violetscissors3" ], "violetscissors1": [ "violetscissors2"], "violetscissors0": [ "violetscissors1", "violetscissors0" ], "greenscissors6": [ "greenscissors7" ], "greenscissors5": [ "greenscissors6" ], "greenscissors4": [ "greenscissors5" ], "greenscissors3": [ "greenscissors4" ], "greenscissors2": [ "greenscissors3" ], "greenscissors1": [ "greenscissors2"], "greenscissors0": [ "greenscissors1", "greenscissors0" ], "rwscissors6": [ "rwscissors7" ], "rwscissors5": [ "rwscissors6" ], "rwscissors4": [ "rwscissors5" ], "rwscissors3": [ "rwscissors4" ], "rwscissors2": [ "rwscissors3" ], "rwscissors1": [ "rwscissors2"], "rwscissors0": [ "rwscissors1", "rwscissors0" ], "swscissors6": [ "swscissors7" ], "swscissors5": [ "swscissors6" ], "swscissors4": [ "swscissors5" ], "swscissors3": [ "swscissors4" ], "swscissors2": [ "swscissors3" ], "swscissors1": [ "swscissors2"], "swscissors0": [ "swscissors1", "swscissors0" ], "owscissors6": [ "owscissors7" ], "owscissors5": [ "owscissors6" ], "owscissors4": [ "owscissors5" ], "owscissors3": [ "owscissors4" ], "owscissors2": [ "owscissors3" ], "owscissors1": [ "owscissors2"], "owscissors0": [ "owscissors1", "owscissors0" ], "ywscissors6": [ "ywscissors7" ], "ywscissors5": [ "ywscissors6" ], "ywscissors4": [ "ywscissors5" ], "ywscissors3": [ "ywscissors4" ], "ywscissors2": [ "ywscissors3" ], "ywscissors1": [ "ywscissors2"], "ywscissors0": [ "ywscissors1", "ywscissors0" ], "bcscissors6": [ "bcscissors7" ], "bcscissors5": [ "bcscissors6" ], "bcscissors4": [ "bcscissors5" ], "bcscissors3": [ "bcscissors4" ], "bcscissors2": [ "bcscissors3" ], "bcscissors1": [ "bcscissors2"], "bcscissors0": [ "bcscissors1", "bcscissors0" ], "gcscissors6": [ "gcscissors7" ], "gcscissors5": [ "gcscissors6" ], "gcscissors4": [ "gcscissors5" ], "gcscissors3": [ "gcscissors4" ], "gcscissors2": [ "gcscissors3" ], "gcscissors1": [ "gcscissors2"], "gcscissors0": [ "gcscissors1", "gcscissors0" ], "pcscissors6": [ "pcscissors7" ], "pcscissors5": [ "pcscissors6" ], "pcscissors4": [ "pcscissors5" ], "pcscissors3": [ "pcscissors4" ], "pcscissors2": [ "pcscissors3" ], "pcscissors1": [ "pcscissors2"], "pcscissors0": [ "pcscissors1", "pcscissors0" ], "mcscissors6": [ "mcscissors7" ], "mcscissors5": [ "mcscissors6" ], "mcscissors4": [ "mcscissors5" ], "mcscissors3": [ "mcscissors4" ], "mcscissors2": [ "mcscissors3" ], "mcscissors1": [ "mcscissors2"], "mcscissors0": [ "mcscissors1", "mcscissors0" ], "coscissors6": [ "coscissors7" ], "coscissors5": [ "coscissors6" ], "coscissors4": [ "coscissors5" ], "coscissors3": [ "coscissors4" ], "coscissors2": [ "coscissors3" ], "coscissors1": [ "coscissors2"], "coscissors0": [ "coscissors1", "coscissors0" ], "boscissors6": [ "boscissors7" ], "boscissors5": [ "boscissors6" ], "boscissors4": [ "boscissors5" ], "boscissors3": [ "boscissors4" ], "boscissors2": [ "boscissors3" ], "boscissors1": [ "boscissors2"], "boscissors0": [ "boscissors1", "boscissors0" ], "soscissors6": [ "soscissors7" ], "soscissors5": [ "soscissors6" ], "soscissors4": [ "soscissors5" ], "soscissors3": [ "soscissors4" ], "soscissors2": [ "soscissors3" ], "soscissors1": [ "soscissors2"], "soscissors0": [ "soscissors1", "soscissors0" ], "goscissors6": [ "goscissors7" ], "goscissors5": [ "goscissors6" ], "goscissors4": [ "goscissors5" ], "goscissors3": [ "goscissors4" ], "goscissors2": [ "goscissors3" ], "goscissors1": [ "goscissors2"], "goscissors0": [ "goscissors1", "goscissors0" ],
+								  "emeraldpaper5": [ "emeraldpaper7" ], "emeraldpaper4": [ "emeraldpaper6" ], "emeraldpaper3": [ "emeraldpaper5" ], "emeraldpaper2": [ "emeraldpaper4" ], "emeraldpaper1": [ "emeraldpaper3" ], "emeraldpaper0": [ "emeraldpaper2", "emeraldpaper1", "emeraldpaper0" ],
+								  "emeraldhand5": [ "emeraldhand7", "emeraldhand7x" ], "emeraldhand4": [ "emeraldhand6", "emeraldhand6x" ], "emeraldhand3": [ "emeraldhand5", "emeraldhand5" ], "emeraldhand2": [ "emeraldhand4", "emeraldhand4x"], "emeraldhand1": [ "emeraldhand3", "emeraldhand3" ], "emeraldhand0": [ "emeraldhand2", "emeraldhand1", "emeraldhand0", "emeraldhand2x", "emeraldhand1x"],
+								  "emeraldscissors6": [ "emeraldscissors7" ], "emeraldscissors5": [ "emeraldscissors6" ], "emeraldscissors4": [ "emeraldscissors5" ], "emeraldscissors3": [ "emeraldscissors4" ], "emeraldscissors2": [ "emeraldscissors3" ], "emeraldscissors1": [ "emeraldscissors2"], "emeraldscissors0": [ "emeraldscissors1", "emeraldscissors0" ]
 								},
 				"rock attack":{
                     "rock": {
@@ -113,11 +119,11 @@
                         "dummy6usermsg": "You smashed a pair of Scissors! You dealt 2 points of damage to them.",
 						"convertfailmsg": "Your attack was deflected, your target either used a piece of Paper or a Gray Shield"
                     } },
-				"rock damage": { "violetscissors5": [ "violetscissors7" ], "violetscissors4": [ "violetscissors6" ], "violetscissors3": [ "violetscissors5" ], "violetscissors2": [ "violetscissors4" ], "violetscissors1": [ "violetscissors3" ], "violetscissors0": [ "violetscissors2", "violetscissors1", "violetscissors0" ], "greenscissors5": [ "greenscissors7" ], "greenscissors4": [ "greenscissors6" ], "greenscissors3": [ "greenscissors5" ], "greenscissors2": [ "greenscissors4" ], "greenscissors1": [ "greenscissors3" ], "greenscissors0": [ "greenscissors2", "greenscissors1", "greenscissors0" ], "rwscissors5": [ "rwscissors7" ], "rwscissors4": [ "rwscissors6" ], "rwscissors3": [ "rwscissors5" ], "rwscissors2": [ "rwscissors4" ], "rwscissors1": [ "rwscissors3" ], "rwscissors0": [ "rwscissors2", "rwscissors1", "rwscissors0" ], "swscissors5": [ "swscissors7" ], "swscissors4": [ "swscissors6" ], "swscissors3": [ "swscissors5" ], "swscissors2": [ "swscissors4" ], "swscissors1": [ "swscissors3" ], "swscissors0": [ "swscissors2", "swscissors1", "swscissors0" ], "owscissors5": [ "owscissors7" ], "owscissors4": [ "owscissors6" ], "owscissors3": [ "owscissors5" ], "owscissors2": [ "owscissors4" ], "owscissors1": [ "owscissors3" ], "owscissors0": [ "owscissors2", "owscissors1", "owscissors0" ], "ywscissors5": [ "ywscissors7" ], "ywscissors4": [ "ywscissors6" ], "ywscissors3": [ "ywscissors5" ], "ywscissors2": [ "ywscissors4" ], "ywscissors1": [ "ywscissors3" ], "ywscissors0": [ "ywscissors2", "ywscissors1", "ywscissors0" ], "bcscissors5": [ "bcscissors7" ], "bcscissors4": [ "bcscissors6" ], "bcscissors3": [ "bcscissors5" ], "bcscissors2": [ "bcscissors4" ], "bcscissors1": [ "bcscissors3" ], "bcscissors0": [ "bcscissors2", "bcscissors1", "bcscissors0" ], "gcscissors5": [ "gcscissors7" ], "gcscissors4": [ "gcscissors6" ], "gcscissors3": [ "gcscissors5" ], "gcscissors2": [ "gcscissors4" ], "gcscissors1": [ "gcscissors3" ], "gcscissors0": [ "gcscissors2", "gcscissors1", "gcscissors0" ], "pcscissors5": [ "pcscissors7" ], "pcscissors4": [ "pcscissors6" ], "pcscissors3": [ "pcscissors5" ], "pcscissors2": [ "pcscissors4" ], "pcscissors1": [ "pcscissors3" ], "pcscissors0": [ "pcscissors2", "pcscissors1", "pcscissors0" ], "mcscissors5": [ "mcscissors7" ], "mcscissors4": [ "mcscissors6" ], "mcscissors3": [ "mcscissors5" ], "mcscissors2": [ "mcscissors4" ], "mcscissors1": [ "mcscissors3" ], "mcscissors0": [ "mcscissors2", "mcscissors1", "mcscissors0" ], "coscissors5": [ "coscissors7" ], "coscissors4": [ "coscissors6" ], "coscissors3": [ "coscissors5" ], "coscissors2": [ "coscissors4" ], "coscissors1": [ "coscissors3" ], "coscissors0": [ "coscissors2", "coscissors1", "coscissors0" ], "boscissors5": [ "boscissors7" ], "boscissors4": [ "boscissors6" ], "boscissors3": [ "boscissors5" ], "boscissors2": [ "boscissors4" ], "boscissors1": [ "boscissors3" ], "boscissors0": [ "boscissors2", "boscissors1", "boscissors0" ], "soscissors5": [ "soscissors7" ], "soscissors4": [ "soscissors6" ], "soscissors3": [ "soscissors5" ], "soscissors2": [ "soscissors4" ], "soscissors1": [ "soscissors3" ], "soscissors0": [ "soscissors2", "soscissors1", "soscissors0" ], "goscissors5": [ "goscissors7" ], "goscissors4": [ "goscissors6" ], "goscissors3": [ "goscissors5" ], "goscissors2": [ "goscissors4" ], "goscissors1": [ "goscissors3" ], "goscissors0": [ "goscissors2", "goscissors1", "goscissors0" ],
+				"rock damage": { "emeraldscissors5": [ "emeraldscissors7" ], "emeraldscissors4": [ "emeraldscissors6" ], "emeraldscissors3": [ "emeraldscissors5" ], "emeraldscissors2": [ "emeraldscissors4" ], "emeraldscissors1": [ "emeraldscissors3" ], "emeraldscissors0": [ "emeraldscissors2", "emeraldscissors1", "emeraldscissors0" ], "violetscissors5": [ "violetscissors7" ], "violetscissors4": [ "violetscissors6" ], "violetscissors3": [ "violetscissors5" ], "violetscissors2": [ "violetscissors4" ], "violetscissors1": [ "violetscissors3" ], "violetscissors0": [ "violetscissors2", "violetscissors1", "violetscissors0" ], "greenscissors5": [ "greenscissors7" ], "greenscissors4": [ "greenscissors6" ], "greenscissors3": [ "greenscissors5" ], "greenscissors2": [ "greenscissors4" ], "greenscissors1": [ "greenscissors3" ], "greenscissors0": [ "greenscissors2", "greenscissors1", "greenscissors0" ], "rwscissors5": [ "rwscissors7" ], "rwscissors4": [ "rwscissors6" ], "rwscissors3": [ "rwscissors5" ], "rwscissors2": [ "rwscissors4" ], "rwscissors1": [ "rwscissors3" ], "rwscissors0": [ "rwscissors2", "rwscissors1", "rwscissors0" ], "swscissors5": [ "swscissors7" ], "swscissors4": [ "swscissors6" ], "swscissors3": [ "swscissors5" ], "swscissors2": [ "swscissors4" ], "swscissors1": [ "swscissors3" ], "swscissors0": [ "swscissors2", "swscissors1", "swscissors0" ], "owscissors5": [ "owscissors7" ], "owscissors4": [ "owscissors6" ], "owscissors3": [ "owscissors5" ], "owscissors2": [ "owscissors4" ], "owscissors1": [ "owscissors3" ], "owscissors0": [ "owscissors2", "owscissors1", "owscissors0" ], "ywscissors5": [ "ywscissors7" ], "ywscissors4": [ "ywscissors6" ], "ywscissors3": [ "ywscissors5" ], "ywscissors2": [ "ywscissors4" ], "ywscissors1": [ "ywscissors3" ], "ywscissors0": [ "ywscissors2", "ywscissors1", "ywscissors0" ], "bcscissors5": [ "bcscissors7" ], "bcscissors4": [ "bcscissors6" ], "bcscissors3": [ "bcscissors5" ], "bcscissors2": [ "bcscissors4" ], "bcscissors1": [ "bcscissors3" ], "bcscissors0": [ "bcscissors2", "bcscissors1", "bcscissors0" ], "gcscissors5": [ "gcscissors7" ], "gcscissors4": [ "gcscissors6" ], "gcscissors3": [ "gcscissors5" ], "gcscissors2": [ "gcscissors4" ], "gcscissors1": [ "gcscissors3" ], "gcscissors0": [ "gcscissors2", "gcscissors1", "gcscissors0" ], "pcscissors5": [ "pcscissors7" ], "pcscissors4": [ "pcscissors6" ], "pcscissors3": [ "pcscissors5" ], "pcscissors2": [ "pcscissors4" ], "pcscissors1": [ "pcscissors3" ], "pcscissors0": [ "pcscissors2", "pcscissors1", "pcscissors0" ], "mcscissors5": [ "mcscissors7" ], "mcscissors4": [ "mcscissors6" ], "mcscissors3": [ "mcscissors5" ], "mcscissors2": [ "mcscissors4" ], "mcscissors1": [ "mcscissors3" ], "mcscissors0": [ "mcscissors2", "mcscissors1", "mcscissors0" ], "coscissors5": [ "coscissors7" ], "coscissors4": [ "coscissors6" ], "coscissors3": [ "coscissors5" ], "coscissors2": [ "coscissors4" ], "coscissors1": [ "coscissors3" ], "coscissors0": [ "coscissors2", "coscissors1", "coscissors0" ], "boscissors5": [ "boscissors7" ], "boscissors4": [ "boscissors6" ], "boscissors3": [ "boscissors5" ], "boscissors2": [ "boscissors4" ], "boscissors1": [ "boscissors3" ], "boscissors0": [ "boscissors2", "boscissors1", "boscissors0" ], "soscissors5": [ "soscissors7" ], "soscissors4": [ "soscissors6" ], "soscissors3": [ "soscissors5" ], "soscissors2": [ "soscissors4" ], "soscissors1": [ "soscissors3" ], "soscissors0": [ "soscissors2", "soscissors1", "soscissors0" ], "goscissors5": [ "goscissors7" ], "goscissors4": [ "goscissors6" ], "goscissors3": [ "goscissors5" ], "goscissors2": [ "goscissors4" ], "goscissors1": [ "goscissors3" ], "goscissors0": [ "goscissors2", "goscissors1", "goscissors0" ],
 								  "vvgun5": [ "vvgun7" ], "vvgun4": [ "vvgun6" ], "vvgun3": [ "vvgun5" ], "vvgun2": [ "vvgun4" ], "vvgun1": [ "vvgun3" ], "vvgun0": [ "vvgun2", "vvgun1", "vvgun0" ],
 								  "rwhand5": [ "rwhand7" ], "rwhand4": [ "rwhand6" ], "rwhand3": [ "rwhand5" ], "rwhand2": [ "rwhand4" ], "rwhand1": [ "rwhand3" ], "rwhand0": [ "rwhand2", "rwhand1", "rwhand0" ], "swhand5": [ "swhand7" ], "swhand4": [ "swhand6" ], "swhand3": [ "swhand5" ], "swhand2": [ "swhand4" ], "swhand1": [ "swhand3" ], "swhand0": [ "swhand2", "swhand1", "swhand0" ], "owhand5": [ "owhand7" ], "owhand4": [ "owhand6" ], "owhand3": [ "owhand5" ], "owhand2": [ "owhand4" ], "owhand1": [ "owhand3" ], "owhand0": [ "owhand2", "owhand1", "owhand0" ], "ywhand5": [ "ywhand7" ], "ywhand4": [ "ywhand6" ], "ywhand3": [ "ywhand5" ], "ywhand2": [ "ywhand4" ], "ywhand1": [ "ywhand3" ], "ywhand0": [ "ywhand2", "ywhand1", "ywhand0" ], "bchand5": [ "bchand7" ], "bchand4": [ "bchand6" ], "bchand3": [ "bchand5" ], "bchand2": [ "bchand4" ], "bchand1": [ "bchand3" ], "bchand0": [ "bchand2", "bchand1", "bchand0" ], "gchand5": [ "gchand7" ], "gchand4": [ "gchand6" ], "gchand3": [ "gchand5" ], "gchand2": [ "gchand4" ], "gchand1": [ "gchand3" ], "gchand0": [ "gchand2", "gchand1", "gchand0" ], "pchand5": [ "pchand7" ], "pchand4": [ "pchand6" ], "pchand3": [ "pchand5" ], "pchand2": [ "pchand4" ], "pchand1": [ "pchand3" ], "pchand0": [ "pchand2", "pchand1", "pchand0" ], "mchand5": [ "mchand7" ], "mchand4": [ "mchand6" ], "mchand3": [ "mchand5" ], "mchand2": [ "mchand4" ], "mchand1": [ "mchand3" ], "mchand0": [ "mchand2", "mchand1", "mchand0" ], "cohand5": [ "cohand7" ], "cohand4": [ "cohand6" ], "cohand3": [ "cohand5" ], "cohand2": [ "cohand4" ], "cohand1": [ "cohand3" ], "cohand0": [ "cohand2", "cohand1", "cohand0" ], "bohand5": [ "bohand7" ], "bohand4": [ "bohand6" ], "bohand3": [ "bohand5" ], "bohand2": [ "bohand4" ], "bohand1": [ "bohand3" ], "bohand0": [ "bohand2", "bohand1", "bohand0" ], "sohand5": [ "sohand7" ], "sohand4": [ "sohand6" ], "sohand3": [ "sohand5" ], "sohand2": [ "sohand4" ], "sohand1": [ "sohand3" ], "sohand0": [ "sohand2", "sohand1", "sohand0" ], "gohand5": [ "gohand7" ], "gohand4": [ "gohand6" ], "gohand3": [ "gohand5" ], "gohand2": [ "gohand4" ], "gohand1": [ "gohand3" ], "gohand0": [ "gohand2", "gohand1", "gohand0" ],
-								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5x" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3x" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ], "violethand5": [ "violethand7", "violethand7x" ], "violethand4": [ "violethand6", "violethand6x" ], "violethand3": [ "violethand5", "violethand5x" ], "violethand2": [ "violethand4", "violethand4x"], "violethand1": [ "violethand3", "violethand3x" ], "violethand0": [ "violethand2", "violethand1", "violethand0", "violethand2x", "violethand1x"], "greenhand5": [ "greenhand7", "greenhand7x" ], "greenhand4": [ "greenhand6", "greenhand6x" ], "greenhand3": [ "greenhand5", "greenhand5x" ], "greenhand2": [ "greenhand4", "greenhand4x"], "greenhand1": [ "greenhand3", "greenhand3x" ], "greenhand0": [ "greenhand2", "greenhand1", "greenhand0", "greenhand2x", "greenhand1x"],
-								  "violetrock6": [ "violetrock7" ], "violetrock5": [ "violetrock6" ], "violetrock4": [ "violetrock5" ], "violetrock3": [ "violetrock4" ], "violetrock2": [ "violetrock3" ], "violetrock1": [ "violetrock2"], "violetrock0": [ "violetrock1", "violetrock0" ], "greenrock6": [ "greenrock7" ], "greenrock5": [ "greenrock6" ], "greenrock4": [ "greenrock5" ], "greenrock3": [ "greenrock4" ], "greenrock2": [ "greenrock3" ], "greenrock1": [ "greenrock2"], "greenrock0": [ "greenrock1", "greenrock0" ], "rwrock6": [ "rwrock7" ], "rwrock5": [ "rwrock6" ], "rwrock4": [ "rwrock5" ], "rwrock3": [ "rwrock4" ], "rwrock2": [ "rwrock3" ], "rwrock1": [ "rwrock2"], "rwrock0": [ "rwrock1", "rwrock0" ], "swrock6": [ "swrock7" ], "swrock5": [ "swrock6" ], "swrock4": [ "swrock5" ], "swrock3": [ "swrock4" ], "swrock2": [ "swrock3" ], "swrock1": [ "swrock2"], "swrock0": [ "swrock1", "swrock0" ], "owrock6": [ "owrock7" ], "owrock5": [ "owrock6" ], "owrock4": [ "owrock5" ], "owrock3": [ "owrock4" ], "owrock2": [ "owrock3" ], "owrock1": [ "owrock2"], "owrock0": [ "owrock1", "owrock0" ], "ywrock6": [ "ywrock7" ], "ywrock5": [ "ywrock6" ], "ywrock4": [ "ywrock5" ], "ywrock3": [ "ywrock4" ], "ywrock2": [ "ywrock3" ], "ywrock1": [ "ywrock2"], "ywrock0": [ "ywrock1", "ywrock0" ], "bcrock6": [ "bcrock7" ], "bcrock5": [ "bcrock6" ], "bcrock4": [ "bcrock5" ], "bcrock3": [ "bcrock4" ], "bcrock2": [ "bcrock3" ], "bcrock1": [ "bcrock2"], "bcrock0": [ "bcrock1", "bcrock0" ], "gcrock6": [ "gcrock7" ], "gcrock5": [ "gcrock6" ], "gcrock4": [ "gcrock5" ], "gcrock3": [ "gcrock4" ], "gcrock2": [ "gcrock3" ], "gcrock1": [ "gcrock2"], "gcrock0": [ "gcrock1", "gcrock0" ], "pcrock6": [ "pcrock7" ], "pcrock5": [ "pcrock6" ], "pcrock4": [ "pcrock5" ], "pcrock3": [ "pcrock4" ], "pcrock2": [ "pcrock3" ], "pcrock1": [ "pcrock2"], "pcrock0": [ "pcrock1", "pcrock0" ], "mcrock6": [ "mcrock7" ], "mcrock5": [ "mcrock6" ], "mcrock4": [ "mcrock5" ], "mcrock3": [ "mcrock4" ], "mcrock2": [ "mcrock3" ], "mcrock1": [ "mcrock2"], "mcrock0": [ "mcrock1", "mcrock0" ], "corock6": [ "corock7" ], "corock5": [ "corock6" ], "corock4": [ "corock5" ], "corock3": [ "corock4" ], "corock2": [ "corock3" ], "corock1": [ "corock2"], "corock0": [ "corock1", "corock0" ], "borock6": [ "borock7" ], "borock5": [ "borock6" ], "borock4": [ "borock5" ], "borock3": [ "borock4" ], "borock2": [ "borock3" ], "borock1": [ "borock2"], "borock0": [ "borock1", "borock0" ], "sorock6": [ "sorock7" ], "sorock5": [ "sorock6" ], "sorock4": [ "sorock5" ], "sorock3": [ "sorock4" ], "sorock2": [ "sorock3" ], "sorock1": [ "sorock2"], "sorock0": [ "sorock1", "sorock0" ], "gorock6": [ "gorock7" ], "gorock5": [ "gorock6" ], "gorock4": [ "gorock5" ], "gorock3": [ "gorock4" ], "gorock2": [ "gorock3" ], "gorock1": [ "gorock2"], "gorock0": [ "gorock1", "gorock0" ]
+								  "vvhand5": [ "vvhand7", "vvhand7x" ], "vvhand4": [ "vvhand6", "vvhand6x" ], "vvhand3": [ "vvhand5", "vvhand5x" ], "vvhand2": [ "vvhand4", "vvhand4x"], "vvhand1": [ "vvhand3", "vvhand3x" ], "vvhand0": [ "vvhand2", "vvhand1", "vvhand0", "vvhand2x", "vvhand1x", "vvhand0x" ], "violethand5": [ "violethand7", "violethand7x" ], "violethand4": [ "violethand6", "violethand6x" ], "violethand3": [ "violethand5", "violethand5x" ], "violethand2": [ "violethand4", "violethand4x"], "violethand1": [ "violethand3", "violethand3x" ], "violethand0": [ "violethand2", "violethand1", "violethand0", "violethand2x", "violethand1x"], "greenhand5": [ "greenhand7", "greenhand7x" ], "greenhand4": [ "greenhand6", "greenhand6x" ], "greenhand3": [ "greenhand5", "greenhand5x" ], "greenhand2": [ "greenhand4", "greenhand4x"], "greenhand1": [ "greenhand3", "greenhand3x" ], "greenhand0": [ "greenhand2", "greenhand1", "greenhand0", "greenhand2x", "greenhand1x"], "emeraldhand5": [ "emeraldhand7", "emeraldhand7x" ], "emeraldhand4": [ "emeraldhand6", "emeraldhand6x" ], "emeraldhand3": [ "emeraldhand5", "emeraldhand5" ], "emeraldhand2": [ "emeraldhand4", "emeraldhand4x"], "emeraldhand1": [ "emeraldhand3", "emeraldhand3" ], "emeraldhand0": [ "emeraldhand2", "emeraldhand1", "emeraldhand0", "emeraldhand2x", "emeraldhand1x"],
+								  "emeraldrock6": [ "emeraldrock7" ], "emeraldrock5": [ "emeraldrock6" ], "emeraldrock4": [ "emeraldrock5" ], "emeraldrock3": [ "emeraldrock4" ], "emeraldrock2": [ "emeraldrock3" ], "emeraldrock1": [ "emeraldrock2"], "emeraldrock0": [ "emeraldrock1", "emeraldrock0" ], "violetrock6": [ "violetrock7" ], "violetrock5": [ "violetrock6" ], "violetrock4": [ "violetrock5" ], "violetrock3": [ "violetrock4" ], "violetrock2": [ "violetrock3" ], "violetrock1": [ "violetrock2"], "violetrock0": [ "violetrock1", "violetrock0" ], "greenrock6": [ "greenrock7" ], "greenrock5": [ "greenrock6" ], "greenrock4": [ "greenrock5" ], "greenrock3": [ "greenrock4" ], "greenrock2": [ "greenrock3" ], "greenrock1": [ "greenrock2"], "greenrock0": [ "greenrock1", "greenrock0" ], "rwrock6": [ "rwrock7" ], "rwrock5": [ "rwrock6" ], "rwrock4": [ "rwrock5" ], "rwrock3": [ "rwrock4" ], "rwrock2": [ "rwrock3" ], "rwrock1": [ "rwrock2"], "rwrock0": [ "rwrock1", "rwrock0" ], "swrock6": [ "swrock7" ], "swrock5": [ "swrock6" ], "swrock4": [ "swrock5" ], "swrock3": [ "swrock4" ], "swrock2": [ "swrock3" ], "swrock1": [ "swrock2"], "swrock0": [ "swrock1", "swrock0" ], "owrock6": [ "owrock7" ], "owrock5": [ "owrock6" ], "owrock4": [ "owrock5" ], "owrock3": [ "owrock4" ], "owrock2": [ "owrock3" ], "owrock1": [ "owrock2"], "owrock0": [ "owrock1", "owrock0" ], "ywrock6": [ "ywrock7" ], "ywrock5": [ "ywrock6" ], "ywrock4": [ "ywrock5" ], "ywrock3": [ "ywrock4" ], "ywrock2": [ "ywrock3" ], "ywrock1": [ "ywrock2"], "ywrock0": [ "ywrock1", "ywrock0" ], "bcrock6": [ "bcrock7" ], "bcrock5": [ "bcrock6" ], "bcrock4": [ "bcrock5" ], "bcrock3": [ "bcrock4" ], "bcrock2": [ "bcrock3" ], "bcrock1": [ "bcrock2"], "bcrock0": [ "bcrock1", "bcrock0" ], "gcrock6": [ "gcrock7" ], "gcrock5": [ "gcrock6" ], "gcrock4": [ "gcrock5" ], "gcrock3": [ "gcrock4" ], "gcrock2": [ "gcrock3" ], "gcrock1": [ "gcrock2"], "gcrock0": [ "gcrock1", "gcrock0" ], "pcrock6": [ "pcrock7" ], "pcrock5": [ "pcrock6" ], "pcrock4": [ "pcrock5" ], "pcrock3": [ "pcrock4" ], "pcrock2": [ "pcrock3" ], "pcrock1": [ "pcrock2"], "pcrock0": [ "pcrock1", "pcrock0" ], "mcrock6": [ "mcrock7" ], "mcrock5": [ "mcrock6" ], "mcrock4": [ "mcrock5" ], "mcrock3": [ "mcrock4" ], "mcrock2": [ "mcrock3" ], "mcrock1": [ "mcrock2"], "mcrock0": [ "mcrock1", "mcrock0" ], "corock6": [ "corock7" ], "corock5": [ "corock6" ], "corock4": [ "corock5" ], "corock3": [ "corock4" ], "corock2": [ "corock3" ], "corock1": [ "corock2"], "corock0": [ "corock1", "corock0" ], "borock6": [ "borock7" ], "borock5": [ "borock6" ], "borock4": [ "borock5" ], "borock3": [ "borock4" ], "borock2": [ "borock3" ], "borock1": [ "borock2"], "borock0": [ "borock1", "borock0" ], "sorock6": [ "sorock7" ], "sorock5": [ "sorock6" ], "sorock4": [ "sorock5" ], "sorock3": [ "sorock4" ], "sorock2": [ "sorock3" ], "sorock1": [ "sorock2"], "sorock0": [ "sorock1", "sorock0" ], "gorock6": [ "gorock7" ], "gorock5": [ "gorock6" ], "gorock4": [ "gorock5" ], "gorock3": [ "gorock4" ], "gorock2": [ "gorock3" ], "gorock1": [ "gorock2"], "gorock0": [ "gorock1", "gorock0" ]
 								},
 				"team rswarm": [
 								"rwhand0", "rwhand1", "rwhand2", "rwhand3", "rwhand4", "rwhand5", "rwhand6", "rwhand7", "rwscissors0", "rwscissors1", "rwscissors2", "rwscissors3", "rwscissors4", "rwscissors5", "rwscissors6", "rwscissors7", "rwpaper0", "rwpaper1", "rwpaper2", "rwpaper3", "rwpaper4", "rwpaper5", "rwpaper6", "rwpaper7", "rwrock0", "rwrock1", "rwrock2", "rwrock3", "rwrock4", "rwrock5", "rwrock6", "rwrock7",
@@ -146,6 +152,7 @@
 				"death msg": "You lost all your HP and died!",
 				"generalhand help": "You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player.",
 				"violethand help": "Your team have more Health Points then the other teams but you are less numerous and know your teammates. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"emeraldhand help": "Your have more Health Points then your team mates Green Hands, but your vote power is equal to 0. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. You can reveal who you are after the second day!",
 				"greenhand help": "Your team have less Health Points then the other teams but you are more numerous. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"rwhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"swhand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Red Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
@@ -160,6 +167,7 @@
 				"sohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"gohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"violethand info": "They know all their partners and have more health points then the other hands, but they are less numerous. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Violet Hands.",
+				"emeraldhand info": "They don't know any of their partners, but have more Health Points then their partners Green Hands. Can transform into /Rock, /Paper or /Scissor during the night. After the second Night they can Reveal who they are. Their vote power is equal to 0. Sided with Green Hands.",
 				"greenhand info": "They don't know any of their partners and have less health points then the other hands, but they are more numerous. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Green Hands.",
 				"rwhand info": "Knows one of the Red Left Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
 				"swhand info": "Knows one of the Red Right Hands. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
@@ -9731,6 +9739,998 @@
                 "night": "variable:rock attack"
             }
         },
+        {   "role": "emeraldhand0",
+            "translation": "Emerald Hand",
+			"help": "variable:generalhand help",
+            "info": "variable:emeraldhand info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": { "vote": 0,
+
+						"initialCondition": { "poison": { "count": 1,"poisonDeadMessage": "variable:death msg"}},
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors0" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock0" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper0" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand1",
+            "translation": "Emerald Hand [1]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors1" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock1" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper1" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand2",
+            "translation": "Emerald Hand [2]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors2" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock2" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper2" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand3",
+            "translation": "Emerald Hand [3]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors3" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock3" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper3" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand4",
+            "translation": "Emerald Hand [4]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors4" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock4" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper4" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand5",
+            "translation": "Emerald Hand [5]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors5" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock5" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper5" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand6",
+            "translation": "Emerald Hand [6]",
+			"help": "variable:generalhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors6" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock6" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper6" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand7",
+            "translation": "Emerald Hand [7]",
+			"hide": true,
+			"help": "variable:generalhand help",
+            "info": "variable:emeraldhand info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after .the second night",
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors7" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock7" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper7" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand1x",
+            "translation": "Emerald Hand [1]",
+			"help": "variable:emeraldhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+						"initialrecharge": 2,
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors1" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock1" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper1" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand2x",
+            "translation": "Emerald Hand [2]",
+			"help": "variable:emeraldhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+						"initialrecharge": 2,
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors2" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock2" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper2" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand3x",
+            "translation": "Emerald Hand [3]",
+			"help": "variable:emeraldhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+						"initialrecharge": 2,
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors3" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock3" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper3" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand4x",
+            "translation": "Emerald Hand [4]",
+			"help": "variable:emeraldhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+						"initialrecharge": 2,
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors4" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock4" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper4" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand5x",
+            "translation": "Emerald Hand [5]",
+			"help": "variable:emeraldhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+						"initialrecharge": 2,
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors5" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock5" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper5" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand6x",
+            "translation": "Emerald Hand [6]",
+			"help": "variable:emeraldhand help",
+            "hide": true,
+            "info": "variable:hand info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+						"initialrecharge": 2,
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors6" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock6" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper6" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldhand7x",
+            "translation": "Emerald Hand [7]",
+			"hide": true,
+			"help": "variable:emeraldhand help",
+            "info": "variable:emeraldhand info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": { "vote": 0,
+						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
+                "standby": {
+                    "reveal": {
+						"msg": "Use /reveal to show that you are Emerald to everyone after the second night",
+						"initialrecharge": 2,
+                        "command": "reveal",
+                        "revealmsg": "~Self~ begins to shine, showing to everyone to be the unique and only Emerald Hand."
+                    }
+                },
+                "night": {
+                    "scissors": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldscissors7" ,"cancel": [ "rock","paper" ]
+                    },
+                    "rock": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldrock7" ,"cancel": [ "scissors","paper" ]
+                    },
+                    "paper": {
+					"hide": true,"command": [ "copy" ], "priority": 0,"common": "Self","silent": true, "silentCopy": true,
+					"target": "AnyButSelf","canCopy": "*","copyfailmsg": "","copyAs": "emeraldpaper7" ,"cancel": [ "scissors","rock" ]
+                    }
+                }
+            }
+        },
+        {   "role": "emeraldpaper0",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldpaper1",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldpaper2",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldpaper3",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldpaper4",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldpaper5",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldpaper6",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldpaper7",
+            "translation": "Emerald Paper",
+			"help": "variable:paper help",
+            "hide": true,
+            "info": "variable:paper info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:paper attack"
+            }
+        },
+        {   "role": "emeraldscissors0",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldscissors1",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldscissors2",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldscissors3",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldscissors4",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldscissors5",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldscissors6",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldscissors7",
+            "translation": "Emerald Scissors",
+			"help": "variable:scissors help",
+            "hide": true,
+            "info": "variable:scissors info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy2": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy5": { "silent": true,"mode": "ignore"},
+						"dummy": { "silent": true,"mode": "ignore"},
+                "night": "variable:scissors attack"
+            }
+        },
+        {   "role": "emeraldrock0",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 0HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand0",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "emeraldrock1",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 1HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand1",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "emeraldrock2",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 2HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand2",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "emeraldrock3",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 3HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand3",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "emeraldrock4",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 4HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand4",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "emeraldrock5",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 5HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand5",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "emeraldrock6",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 6HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand6",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
+        {   "role": "emeraldrock7",
+            "translation": "Emerald Rock",
+			"help": "variable:rock help",
+            "hide": true,
+            "info": "variable:rock info",
+            "side": "green",
+            "help2": "You have 7HP!",
+            "actions": { "vote": 0,
+                "initialCondition": {
+                    "curse": {
+                        "cursedRole": "emeraldhand7",
+                        "curseCount": 1
+                    }
+                },
+						"dummy": { "silent": true,"mode": "ignore"},
+						"dummy3": { "silent": true,"mode": "ignore"},
+						"dummy4": { "silent": true,"mode": "ignore"},
+						"dummy6": { "silent": true,"mode": "ignore"},
+                "night": "variable:rock attack"
+            }
+        },
         {   "role": "greenhand0",
             "translation": "Green Hand",
 			"help": "variable:generalhand help",
@@ -12224,14 +13224,14 @@
     "roles4": [
         "greenhand4x",
 		"greenhand4x",
-        "greenhand4x",
+        "emeraldhand6x",
         "violethand5x",
         "violethand5x",
-		"vvhand4x",
-		"greenhand4x"
+		"greenhand4x",
+		"vvhand4x"
     ],
     "roles5": [
-        "greenhand4x",
+        "emeraldhand6x",
 		"greenhand4x",
         "greenhand4x",
 		"greenhand4x",
@@ -12241,7 +13241,7 @@
 		"greenhand4x"
     ],
     "roles6": [
-        "greenhand4x",
+        "emeraldhand6x",
 		"greenhand4x",
         "greenhand4x",
 		"greenhand4x",
@@ -12252,7 +13252,7 @@
 		"vvhand4x"
     ],
     "roles7": [
-        "greenhand4x",
+        "emeraldhand6x",
         "greenhand4x",
 		"greenhand4x",
         "greenhand4x",
@@ -12264,7 +13264,7 @@
 		"vvhand4x"
     ],
     "roles8": [
-        "greenhand4x",
+        "emeraldhand6x",
         "greenhand4x",
 		"greenhand4x",
         "greenhand4x",
@@ -12274,7 +13274,8 @@
         "violethand5x",
 		"violethand5x",
 		"vvhand3x",
-		"vvhand3x"
+		"vvhand3x",
+		"greenhand4x"
     ],
     "roles9": [
         "rwhand4",
