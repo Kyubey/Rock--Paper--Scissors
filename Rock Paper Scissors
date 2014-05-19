@@ -15931,10 +15931,10 @@
         "yellowhand4x"
     ],
     "roles2": [
-        "bchand4",
-        "mchand4",
-        "rwhand4",
-		"owhand4"
+        "redhand4x",
+        "bluehand4x",
+        "redhand4x",
+        "bluehand4x"
     ],
     "roles3": [
         "greenhand4x",
