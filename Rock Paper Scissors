@@ -9768,7 +9768,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -9800,7 +9800,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -9832,7 +9832,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -9864,7 +9864,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -9896,7 +9896,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -9928,7 +9928,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -9960,7 +9960,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -9992,7 +9992,7 @@
                     "inspect": {
 						"msg": "Use /reveal to show that you are Emerald to everyone after .the second night",
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -10025,7 +10025,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -10058,7 +10058,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -10091,7 +10091,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -10124,7 +10124,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -10157,7 +10157,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -10190,7 +10190,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
@@ -10223,7 +10223,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
                 },
                 "night": {
