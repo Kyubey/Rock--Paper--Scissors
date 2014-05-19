@@ -161,7 +161,7 @@
 				"death msg": "You lost all your HP and died!",
 				"generalhand help": "You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player.",
 				"violethand help": "Your team have more Health Points then the other teams but you are less numerous and know your teammates. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"emeraldhand help": "Your have more Health Points then your team mates Green Hands, but your vote power is equal to 0. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. You can reveal who you are after the second day!",
+				"emeraldhand help": "Your have more Health Points then your team mates Green Hands, but your vote power is equal to 0. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Every day you can /inspect how much HP your target has!",
 				"greenhand help": "Your team have less Health Points then the other teams but you are more numerous. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"bluehand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. You cannot vote!",
 				"redhand help": "variable:bluehand help",
@@ -179,7 +179,7 @@
 				"sohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"gohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"violethand info": "They know all their partners and have more health points then the other hands, but they are less numerous. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Violet Hands.",
-				"emeraldhand info": "They don't know any of their partners, but have more Health Points then their partners Green Hands. Can transform into /Rock, /Paper or /Scissor during the night. After the second Night they can Reveal who they are. Their vote power is equal to 0. Sided with Green Hands.",
+				"emeraldhand info": "They don't know any of their partners, but have more Health Points then their partners Green Hands. Can transform into /Rock, /Paper or /Scissor during the night. Every night they can inspect how much HP a player has. Their vote power is equal to 0. Sided with Green Hands.",
 				"bluehand info": "They don't know any of their partners. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Blue Hands.",
 				"redhand info": "They don't know any of their partners. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
 				"yellowhand info": "They don't know any of their partners. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Yellow Hands.",
@@ -10023,7 +10023,7 @@
                 "standby": {
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
-						"initialrecharge": 2,
+						"initialrecharge": 1,
                         "command": "expose",
                         "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
@@ -10056,7 +10056,7 @@
                 "standby": {
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
-						"initialrecharge": 2,
+						"initialrecharge": 1,
                         "command": "expose",
                         "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
@@ -10089,7 +10089,7 @@
                 "standby": {
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
-						"initialrecharge": 2,
+						"initialrecharge": 1,
                         "command": "expose",
                         "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
@@ -10122,7 +10122,7 @@
                 "standby": {
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
-						"initialrecharge": 2,
+						"initialrecharge": 1,
                         "command": "expose",
                         "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
@@ -10155,7 +10155,7 @@
                 "standby": {
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
-						"initialrecharge": 2,
+						"initialrecharge": 1,
                         "command": "expose",
                         "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
@@ -10188,7 +10188,7 @@
                 "standby": {
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
-						"initialrecharge": 2,
+						"initialrecharge": 1,
                         "command": "expose",
                         "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
@@ -10221,7 +10221,7 @@
                 "standby": {
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
-						"initialrecharge": 2,
+						"initialrecharge": 1,
                         "command": "expose",
                         "target": "AnyButTeam", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
                     }
