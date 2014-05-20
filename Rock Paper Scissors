@@ -12,7 +12,7 @@
 	"ticks": {
 		"standby": 20
 	},
-    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a strange child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! In as much as teams of 4, the teams will try to outdo each other and try to be the last one standing! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause your opponent to lose 1HP. Now you can Team Talk with your Known Partners! If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Baby Jane/Xtina.",
+    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a strange child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! In as much as teams of 4, the teams will try to outdo each other and try to be the last one standing! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause your opponent to lose 1HP. Now you can Team Talk with your Known Partners! If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Ariana_Grande/Xtina.",
     "sides": [
         {
             "side": "warm",
@@ -160,8 +160,8 @@
 							   ],
 				"death msg": "You lost all your HP and died!",
 				"generalhand help": "You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player.",
-				"violethand help": "Your team have more Health Points then the other teams but you are less numerous and know your teammates. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"emeraldhand help": "Your have more Health Points then your team mates Green Hands, but your vote power is equal to 0. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Every day you can /inspect how much HP your target has!",
+				"violethand help": "Your team have more Health Points then the other teams but you are less numerous and know your teammates. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player (not shared with team). If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
+				"emeraldhand help": "You have more Health Points then your team mates Green Hands, but your vote power is equal to 0. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. Every day you can /inspect how much HP your target has!",
 				"greenhand help": "Your team have less Health Points then the other teams but you are more numerous. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"bluehand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you. You cannot vote!",
 				"redhand help": "variable:bluehand help",
@@ -178,7 +178,7 @@
 				"bohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"sohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Right Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
 				"gohand help": "Fight the enemy hands to become the Rock-Paper-Scissors champion! Sometimes you will be able to know and Team Talk with one of the Yellow Left Hands. You may attack using /rock, /paper, or /scissors every night to choose your hand and challenge another player. If you get a good hit, the target loses 2HP whereas if you make a bad hit, no one gets damaged, instead if you attack your same element like Scissors on Scissors, the target loses 1HP. This also applies to people that hit you.",
-				"violethand info": "They know all their partners and have more health points then the other hands, but they are less numerous. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Violet Hands.",
+				"violethand info": "They know all their partners and have more health points then the other hands, but they are less numerous. Can transform into /Rock, /Paper or /Scissor during the night (not shared with team). Sided with Violet Hands.",
 				"emeraldhand info": "They don't know any of their partners, but have more Health Points then their partners Green Hands. Can transform into /Rock, /Paper or /Scissor during the night. Every night they can inspect how much HP a player has. Their vote power is equal to 0. Sided with Green Hands.",
 				"bluehand info": "They don't know any of their partners. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Blue Hands.",
 				"redhand info": "They don't know any of their partners. Can transform into /Rock, /Paper or /Scissor during the night. Sided with Red Hands.",
@@ -9768,7 +9768,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -9800,7 +9800,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -9832,7 +9832,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -9864,7 +9864,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -9896,7 +9896,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -9928,7 +9928,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -9960,7 +9960,7 @@
                     "inspect": {
 						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -9992,7 +9992,7 @@
                     "inspect": {
 						"msg": "Use /reveal to show that you are Emerald to everyone after .the second night",
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -10025,7 +10025,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -10058,7 +10058,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -10091,7 +10091,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -10124,7 +10124,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -10157,7 +10157,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -10190,7 +10190,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -10223,7 +10223,7 @@
 						"msg": "Use /inspect to discover how much HP your target has!",
 						"initialrecharge": 1,
                         "command": "expose",
-                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scans how much HP their target has!"
+                        "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
                 },
                 "night": {
@@ -15940,7 +15940,7 @@
         "greenhand4x",
 		"greenhand4x",
         "greenhand4x",
-        "violethand5x",
+        "violethand7x",
 		"vvhand3x"
     ],
     "roles4": [
@@ -15963,7 +15963,7 @@
 		"greenhand4x"
     ],
     "roles6": [
-        "emeraldhand6x",
+        "emeraldhand7x",
 		"greenhand4x",
         "greenhand4x",
 		"greenhand4x",
@@ -15974,7 +15974,7 @@
 		"vvhand4x"
     ],
     "roles7": [
-        "emeraldhand6x",
+        "emeraldhand7x",
         "greenhand4x",
 		"greenhand4x",
         "greenhand4x",
@@ -15983,10 +15983,10 @@
         "violethand5x",
         "violethand5x",
 		"violethand5x",
-		"vvhand4x"
+		"vvhand6x"
     ],
     "roles8": [
-        "emeraldhand6x",
+        "emeraldhand7x",
         "greenhand4x",
 		"greenhand4x",
         "greenhand4x",
