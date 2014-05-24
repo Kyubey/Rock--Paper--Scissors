@@ -10011,7 +10011,7 @@
 						"dummy": { "silent": true,"mode": "ignore"},"dummy3": { "silent": true,"mode": "ignore"},"dummy5": { "silent": true,"mode": "ignore"},
                 "standby": {
                     "inspect": {
-						"msg": "Use /reveal to show that you are Emerald to everyone after .the second night",
+						"msg": "Use /inspect to discover how much HP your target has!",
                         "command": "expose",
                         "target": "AnyButSelf", "exposedtargetmsg": "~Target~ has still ~Role~ HP!", "exposemsg": "±Foot: Emerald scanned someone with ~Role~ HP!"
                     }
