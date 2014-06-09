@@ -12,7 +12,7 @@
 	"ticks": {
 		"standby": 27
 	},
-    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a strange child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! In as much as teams of 4, the teams will try to outdo each other and try to be the last one standing! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause your opponent to lose 1HP. Now you can Team Talk with your Known Partners! If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Baby Jane/Xtina.",
+    "summary": "One day, some children were arguing about who was the best at Rock-Paper-Scissors. After a massive uproar, a strange child said ''Hey, just go into teams. I'll be alone. Team that wins is the best'', and thus started the Super Mega Ultra Rock-Paper-Scissors Tournament! A/N This theme runs on an HP system based on effectiveness. Good hit means 2HP for the opponent lost, bad hit means none lost, hitting the same type will cause your opponent to lose 1HP. Now you can Team Talk with your Known Partners! If you have any comments, questions, concerns, or bugs, please contact either obey to kyubey or Joeypals/Baby Jane/Xtina.",
     "sides": [
         {
             "side": "warm",
@@ -68,7 +68,9 @@
 							  },
 				"gun attack":{
                     "gun": {
-					"hide": true, "command": [ "convert", "kill" ], "priority": -1,
+					"hide": true, "command": [ "convert", "distract" ], "priority": -1,
+						"distractmsg": "",
+						"teammsg": "",
                         "common": "Self",
                         "target": "AnyButTeam",
                         "silent": true,
@@ -15961,17 +15963,17 @@
         "greenhand4x",
 		"greenhand4x",
         "greenhand4x",
-        "violethand7x",
-		"vvhand3x"
+        "violethand4x",
+		"violethand4x"
     ],
     "roles4": [
         "greenhand4x",
 		"greenhand4x",
-        "emeraldhand6x",
-        "violethand5x",
-        "violethand5x",
+        "emeraldhand5x",
+        "violethand6x",
+        "violethand6x",
 		"greenhand4x",
-		"vvhand4x"
+		"vvhand5x"
     ],
     "roles5": [
         "emeraldhand6x",
@@ -15980,7 +15982,7 @@
 		"greenhand4x",
         "violethand5x",
         "violethand5x",
-		"vvhand4x",
+		"vvhand5x",
 		"greenhand4x"
     ],
     "roles6": [
@@ -15995,7 +15997,7 @@
 		"vvhand4x"
     ],
     "roles7": [
-        "emeraldhand7x",
+        "emeraldhand6x",
         "greenhand4x",
 		"greenhand4x",
         "greenhand4x",
@@ -16004,7 +16006,7 @@
         "violethand5x",
         "violethand5x",
 		"violethand5x",
-		"vvhand6x"
+		"vvhand7x"
     ],
     "roles8": [
         "emeraldhand7x",
