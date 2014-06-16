@@ -68,11 +68,16 @@
 							  },
 				"gun attack":{
                     "gun": {
-					"hide": true, "command": [ "convert", "distract" ], "priority": -1,
+					"hide": true, "command": [ "dummy7", "poison", "convert", "distract" ], "priority": -1,
 						"distractmsg": "",
 						"teammsg": "",
                         "common": "Self",
+						"dummy7broadcastmsg": "A shot has been heard on ~Target~'s direction!",
+						"poisonDeadMessage": "You have been shot and a bullet hit your heart!",
+						"poisonmsg": "",
+						"poisontarmsg": "",
                         "target": "AnyButTeam",
+						"count": 1,
                         "silent": true,
                         "silentConvert": true,
 						"convertfailmsg": "",
