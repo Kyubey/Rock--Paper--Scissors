@@ -9,7 +9,7 @@
 	"obey to kyubey"],
     "minplayers": 3,
 	"nonPeak": true,
-	"checkNoVoters": true
+	"checkNoVoters": true,
 	"ticks": {
 		"standby": 27
 	},
